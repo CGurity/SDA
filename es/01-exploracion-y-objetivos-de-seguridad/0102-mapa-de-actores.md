@@ -70,27 +70,6 @@ Una vez relexionados los objetivos de la organización en la actividad anterior,
 
 Es importante que el mapa obtenido se encuentre disponible para futuras actividades, si se hace en físico se recomienda no desmontar los papeles y/o notas adhesivas sino moverlos a un lugar en donde sean visibles y no interfieran con las demás actividades. En caso de hacer la actividad en digital, se recomienda tener a la mano el archivo en donde se recopile la información.
 
-#### Mapeo y clasificación de datos
-Tiempo estimado: XX min
-
-Esta actividad es una variación propuesta de una dinámica planteada en varios recursos como........
-
-##### Preparación previa
-* En caso de realizar la actividad en digital, tener una hoja de cálculo con todos los campos y formato necesarios.
-
-##### Materiales
-* En caso de realizar la actividad en físico
-  * Notas adhesivas y marcadores o
-  * Piezas grandes de papel para pegar en la pared y marcadores
-* En caso de realizar la actividad en digital
-  * Computadora
-  * Proyector
-  * Hoja de cálculo con los campos y formato necesarios.
-
-##### Instrucciones
-1. 
-
-
 ### Referencias
 * [Holistic Security: 2.3 Vision, Strategy and Actors](https://holistic-security.tacticaltech.org/chapters/explore/2-3-vision-strategy-and-actors)
 * [Security First: ChampionsCurriculum](https://github.com/securityfirst/championscurriculum/blob/master/communications.md)

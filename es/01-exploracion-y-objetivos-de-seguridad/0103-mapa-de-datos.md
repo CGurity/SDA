@@ -40,9 +40,29 @@ La idea es mapear todos los objetos de datos que la organización maneja
   * Hoja de cálculo con los campos y formato necesarios.
 
 ##### Instrucciones
-1. Piezas de datos
-2. Introducción a CIA
-3. Definir ejes de consecuencias (Digital, Físico, Emocional, Legal, Judicial, Administrativo, Económico, etc.)
+1. Realizar una lluvia de ideas de las piezas de información que maneja la organización, estas pueden ser desde denuncias de víctimas, documentos filtrados, investigaciones en construcción hasta libros contables, publicaciones en redes sociales o informes públicos, ninguna pieza de información legítima es poco relevante para este ejercicio.
+  * Es especialmente relevante considerar información en físico.
+  * Cada idea se debe colocar en un anota adhesiva o equivalente y estar a la vista de todos.
+  * Se puede pasar a la siguiente parte cuando exista consenso entre los participantes, sin embargo, se pueden agregar más items durante el proceso.
+2. Con las piezas de información a la vista, explicar brevemente los conceptos de Disponibilidad, Integridad y Confidencialidad. los cuales son utilizados frecuentemente en seguridad de la información para explicar los diferentes tipos de compromiso de la información. Abajo se colocan conceptos breves pero se sugiere revisar otras referencias para tener un entendimiento más amplio de estos conceptos:
+  * **Disponibilidad:** Es la capacidad que tiene la información de estar siempre disponible cuando se le requiera. Por ejemplo, cuando un servidor se queda sin electricidad atenta contra la disponibilidad de la información contenida en el.
+  * **Integridad:** Es la capacidad que tiene la información de ser confiable en que su contenido no ha sido manipulado o cambiado por un tercero. Por ejemplo, que un tercero malintencionado tome nuestra base de datos de víctimas y cambie algunos datos se considera una amenaza a la integridad de esa base de datos.
+  * **Confidencialidad:** Es la capacidad que tiene la información de ser accesible sólo a aquellos que deben tener acceso por definición. Por ejemplo, cuando un tercero puede leer correos electrónicos que se envían dos personas se considera una amenaza a la confidencialidad de la información transmitida por el correo.
+
+  [Gráfico CIA]
+
+3. Conversar con los participantes sobre los tipos de consecuencias negativas que puede afrontar la organización ante algún problema con la información que se maneja y crear aparte de la lluvia de ideas de piezas de información una lista vertical con los tipos de consecuencias como se muestra en la figura
+
+  [Grafico]
+
+  La idea es generar una matriz cuyo eje vertical corresponde a esta clasificación de consecuencias, una propuesta completa (puede ser simplificada dependiendo del facilitador y del grupo) puede ser la que se encuentra a continuación:
+  * **Digital:**
+  * **Física:**
+  * **Emocional:**
+  * **Legal:**
+  * **Administrativa:**
+  * **Económica:**
+
 4. Viendo CIA pensar en consecuencias por eje usando piezas y CIA (postmortem)
 5. Determinar categorías de consecuencias por severidad (proponer redacción) y hacer matriz
 6. comentar que con esto se tiene en esencia la base para la primera política (Clasificación de información)
@@ -55,3 +75,5 @@ La idea es mapear todos los objetos de datos que la organización maneja
 * [Holistic Security: 2.4 Understanding and Cataloguing our Information](https://holistic-security.tacticaltech.org/chapters/explore/2-4-understanding-and-cataloguing-our-information)
 * [SaferJourno](https://www.internews.org/resource/saferjourno-digital-security-resources-media-trainers)
 * [Security First: ChampionsCurriculum](https://github.com/securityfirst/championscurriculum/blob/master/communications.md)
+* [Wikipedia: Seguridad de la información](https://es.wikipedia.org/wiki/Seguridad_de_la_informaci%C3%B3n)
+*
