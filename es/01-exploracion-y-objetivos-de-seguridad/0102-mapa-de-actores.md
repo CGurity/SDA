@@ -16,10 +16,8 @@ En esta actividad la idea es seguir explorando la organización recopilando info
 ### Productos
 * Directos
   * Mapa de actores
-  * Mapa de datos con impactos por vulneración asociados
 * Indirectos
   * Consciencia grupal sobre los actores relacionados a la organización
-  * Consciencia grupal sobre la sensibilidad de la información manejada
 
 ### Actividades propuestas
 
