@@ -5,7 +5,7 @@ title: Fundación (Políticas y Directivas de seguridad)
 is-parent: yes
 ---
 
-La idea en este paso de la metodología es crear la base para desarrollar todas las políticas mínimas de seguridad de la organización: cuales son los objetivos de la organización, cuales son los actores con los que nos vamos a involucrar, cuáles serían los requerimientos de seguridad y cuáles son las consideraciones mínimas en la seguridad de las operaciones.
+## La idea en este paso de la metodología es crear la base para desarrollar todas las políticas mínimas de seguridad de la organización: cuales son los objetivos de la organización, cuales son los actores con los que nos vamos a involucrar, cuáles serían los requerimientos de seguridad y cuáles son las consideraciones mínimas en la seguridad de las operaciones.
 
 Aunque lo ideal es que este paso se aplique en el momento mismo de concepción de la organización, esta metodología está construida y redactada para aplicarla en nuestra organización ya existente.
 
