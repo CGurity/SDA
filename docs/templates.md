@@ -28,6 +28,7 @@ Tiempo estimado: 15 min
 ##### Instrucciones
 1.
 
+##### Cierre de la actividad
 
 ### Referencias
 *

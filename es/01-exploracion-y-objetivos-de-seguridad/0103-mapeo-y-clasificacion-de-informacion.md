@@ -1,7 +1,7 @@
 ---
-sectionid: 01-02-mapa-de-actores-y-datos
+sectionid: 01-02-mapeo-y-clasificacion-de-informacion
 sectionclass: h2
-title: Mapeo de actores y datos
+title: Mapeo y clasificación de información
 parent-id: 01-fundacion
 ---
 ### Justificación
@@ -12,7 +12,7 @@ La idea de esta actividad es completar la recopilación de información sobre la
 
 ### Productos
 * Directos
-  * Matriz de impactos posibles.
+  * Matriz de consecuencias posibles.
   * Mapa de datos con impactos por vulneración asociados.
 * Indirectos
   * Consciencia grupal sobre la sensibilidad de la información manejada.
@@ -41,7 +41,7 @@ La idea de esta actividad es mapear todos los objetos de datos que maneja la org
 
 ##### Instrucciones
 1. Realizar una lluvia de ideas con las piezas de información que maneja la organización, estas pueden incluir desde denuncias de víctimas, documentos filtrados, investigaciones en construcción hasta libros contables, publicaciones en redes sociales y/o informes públicos. Ninguna pieza de información legítima es poco relevante para este ejercicio.
-  * Es especialmente relevante considerar información en físico. 
+  * Es especialmente relevante considerar información en físico.
   * Cada idea se debe colocar en una nota adhesiva o equivalente y estar a la vista de todos.
   * Se puede avanzar cuando exista consenso entre los participantes.
   * Se pueden agregar más items durante el resto de la actividad.
@@ -55,10 +55,10 @@ La idea de esta actividad es mapear todos los objetos de datos que maneja la org
 
   ![Gráfico CIA](../img/0103-2.jpg)
 
-3. Conversar con los participantes sobre los tipos de consecuencias negativas que puede afrontar la organización ante algún compromiso con la información que se maneja. Crear aparte de la lluvia de ideas de piezas de información una lista vertical con los **tipos de consecuencias** como se muestra en la figura.
+3. Conversar con los participantes sobre los tipos de consecuencias negativas que puede afrontar la organización ante algún compromiso con la información que se maneja. Crear aparte de la lluvia de ideas de piezas de información una lista horizontal con los **tipos de consecuencias** como se muestra en la figura.
 
   ![Grafico con los ejes propuestos más abajo](../img/0103-3.jpg)
-  La idea es generar una matriz cuyo eje vertical corresponde a esta clasificación de consecuencias, una propuesta completa (o simplificada dependiendo del facilitador y del grupo) puede ser la que se encuentra a continuación:
+  La idea es generar una matriz cuyo eje horizontal corresponda a esta clasificación de consecuencias, una propuesta completa (o simplificada dependiendo del facilitador y del grupo) puede ser la que se encuentra a continuación:
   * **Consecuencias digitales:** Consecuencias que afecten la presencia online de la organización. Por ejemplo relacionadas a los medios sociales, servidores, cuentas de correo, servicios usados por el equipo interno, etc.
   * **Consecuencias físicas:** Consecuencias relacionadas a la integridad de personas, objetos y espacios. Por ejemplo agresiones físicas, muerte, destrucción de espacios, pérdida de recursos, etc.
   * **Consecuencias emocionales:** Consecuencias relacionadas al bienestar psicosocial de las personas involucradas con la organización, esto no solo incluye al equipo sino tambien a proveedores, beneficiarios, víctimas, etc. Normalmente están relacionados a situaciones que crean miedos, estrés, fatiga y traumas a los actores relacionados.
@@ -66,14 +66,42 @@ La idea de esta actividad es mapear todos los objetos de datos que maneja la org
   * **Consecuencias administrativas:** Consecuencias relacionadas al estado legal de organizaciones y personas más allá de lo judicial. Frecuentemente relacionadas al cumplimiento de regulaciones, impuestos, inspecciones, pérdida de la figura legal de la organización, infracciones a leyes, etc.
   * **Consecuencias económicas:** Consecuencias relacionadas directamente a la pérdida de dinero y bienes por parte de la organización y/o sus integrantes.
 
-4. Ver CIA y pensar en consecuencias por eje usando piezas y CIA (postmortem).
-5. Determinar categorías de consecuencias por severidad (proponer redacción) y elaborar una matriz.
-6. Rellenar espacios vacios.
-7. Comentar que ya con esto se dispone en esencia, de la base para la primera política (Clasificación de información).
-8. Mapear de dispositivos y canales de comunicación usados.
-9. Mapear de personas que manejan las piezas.
-10. Cruzar la información completa para generar directivas.
+  Estos tipos de consecuencias son propuestos, en el caso de querer simplificar el ejercicio se pueden combinar o excluir explícitamente algunos de los ejes propuestos, incluso si el equipo lo considera pertinente se pueden agregar nuevos tipos. Por ejemplo consecuencias de imagen o religiosas si aplican.
 
+4. Teniendo los tipos de consecuencias claros, pedirle a los participantes que piensen en posibles consecuencias producto del compromiso de las piezas de infromación mapeadas en términos de disponibilidad, integridad y confidencialidad, tomar notas de estos y colocarlos en notas adhesivas o su equivalente digital debajo del tipo de consecuencia al que pertenece (Digital, físico, legal, etc.)
+  * Es normal y esperado que muchas consecuencias se repitan, en estos casos con la nota adhesiva o equivalente ya existente será suficiente
+  * Pensar en disponibilidad, integridad y confidencialidad es una ayuda para facilitar la discusión y la lluvia de ideas de consecuencias, sin embargo, si el equipo se siente cómodo planteando las consecuencias posibles en otros términos puede funcionar sin problemas siempre que representen consecuencias posibles y puedan ser priorizadas en el siguiente paso
+  * Es normal que el compromiso de una pieza de información pueda tener consecuencias en más de un eje
+
+  Algunos ejemplos de cinsecuencias pueden ser:
+  * Pérdida de la figura jurídica de la organización (Consecuencia administrativa)
+  * Muerte de denunciantes (Consecuencia física)
+  * Agresiones a beneficiarios (Consecuencia física)
+  * Multa excesiva (consecuencia económica)
+  * Renuncia o despido de personal (Consecuencia administrativa)
+  * Pérdida del sitio web (Consecuencia digital)
+  * Allanamiento de la sede (Conseciencia judicial)
+  * Aumento drástico de niveles de estrés en el equipo (consecuencia emocional)
+  * Aumento excesivo de la carga de trabajo del equipo (consecuencia emocional)
+
+  ## Gráfico evolucionado del anterior con ejemplos de consecuencias
+
+5. Luego de obtener algunas consecuencias de cada uno de los tipos definidos se introduce la idea de calificar las consecuencias mapeadas según su nivel de impacto, se propone crear un eje vertical que represente impactos nulos, bajos, medios y altos. En el caso de que el facilitador y el equipo se sientan cómodos al respecto, se puede cambiar esta escala a cualquier otra que se considere conveniente (del 1 al 10, agregar a la propuesta impacto crítico, etc.). Luego de creado este eje se procede a ubicar con el apoyo del equipo las amenazas mapeadas en las distintas categorías como se muestra en la figura
+
+  ## Gráfico evolucionado con el desarrollo de la matriz de consecuencias
+
+  Algunas consideraciones son:
+  * Es posible que algunos espacios queden en blanco, dependiendo del caso vale la pena preguntarle al equipo qué consecuencias estan faltando en esos espacios. En el caso de impactos bajos o nulos no es obligatorio colocar consecuencias directas, esto se puede explicar con que todo lo que se considere por debajo de la consecuencia con menor impacto es irrelevante en términos de consecuencias.
+  * A esta parte de la actividad se le debe dedicar un tiempo adecuado ya que representa el pilar de la primera política de seguridad de la organización (Clasificación de información)
+
+6. Una vez que el equipo esté conforme con la matriz de consecuencias, se pueden asociar las piezas de datos mapeadas al comienzo de la actividad al nivel de impacto de las consecuencias correspondientes al compromiso, esto puede hacerse de múltiples formas, una propuesta se coloca en el siguiente grafico
+
+  ## Grafico con piezas de datos asociadas a los niveles de impacto
+
+##### Cierre de la actividad
+Al finalizar la actividad se puede discutir y hacer énfasis en lo que se logró:
+* Se definieron ejes de consecuencias y se asociaron a la infromación que la organización maneja
+* Se establecieron las bases de la politica de clasificación de información, así cada vez que se maneje una nueva pieza de información se puede determinar el nivel de impacto asociado al compromiso de esta y con los productos que se generaran más adelante se puede determinar con facilidad qué medidas de seguridad se deben tomar al manipular esta nueva pieza de información
 
 ### Referencias
 * [Holistic Security: 2.4 Understanding and Cataloguing our Information](https://holistic-security.tacticaltech.org/chapters/explore/2-4-understanding-and-cataloguing-our-information)
