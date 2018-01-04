@@ -11,6 +11,6 @@ Acá se pueden generar políticas de retención de información
 * ¿Algunos de los anteriores se consideran canales inseguros?
 * ¿Quiénes manejan la información vs quiénes deberían manejarla? - Mínimo privilegio (explicar ventajas)
 
-7. Mapear de dispositivos y canales de comunicación usados.
-8. Mapear de personas que manejan las piezas.
+7. Mapeo de dispositivos y canales de comunicación usados.
+8. Mapeo de personas que manejan las piezas.
 9. Cruzar la información completa para generar directivas.
