@@ -5,6 +5,6 @@ title: Metodología
 is-parent: yes
 ---
 
-## Formato
+recorrido por las secciones, capítulos y actividades
 
-## Cómo usar esta guía
+Modularidad de la sección 2 (políticas y directivas)

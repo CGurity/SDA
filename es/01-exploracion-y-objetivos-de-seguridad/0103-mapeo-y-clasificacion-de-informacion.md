@@ -48,18 +48,18 @@ La idea de esta actividad es mapear todos los objetos de datos que maneja la org
 
   ![Gráfico con notas de ejemplo](../img/0103-1.jpg)
 
-2. Con las piezas de información a la vista, explicar brevemente los conceptos de Disponibilidad, Integridad y Confidencialidad, los cuales son utilizados frecuentemente en seguridad de la información para explicar los diferentes tipos de compromiso con la información. Se sugiere desarrollar conceptos breves y revisar otras referencias para tener un entendimiento más amplio:
+2. Con las piezas de información a la vista, explicar brevemente los conceptos de Disponibilidad, Integridad y Confidencialidad, los cuales son utilizados frecuentemente en seguridad de la información para explicar los diferentes tipos de compromiso de la información. Se sugiere desarrollar conceptos breves y revisar otras referencias para tener un entendimiento más amplio:
   * **Disponibilidad:** Es la capacidad de estar siempre al alcance de quien la necesite. Por ejemplo, cuando un servidor se queda sin electricidad atenta contra la disponibilidad de la información contenida en el mismo.
   * **Integridad:** Es la capacidad de ser confiable, en  el mero sentido de que su contenido no ha sido manipulado o alterado por un tercero. Por ejemplo, que un tercero malintencionado tome una base de datos de víctimas y modifique la información se considera una amenaza a la integridad de esa base de datos.
   * **Confidencialidad:** Es la capacidad de ser accesible sólo a quienes corresponde por definición. Por ejemplo, cuando un tercero puede leer correos electrónicos que se envían dos personas se considera una amenaza a la confidencialidad de la información transmitida por el correo.
 
   ![Gráfico CIA](../img/0103-2.jpg)
 
-3. Conversar con los participantes sobre los tipos de consecuencias negativas que puede afrontar la organización ante algún compromiso con la información que se maneja. Crear aparte de la lluvia de ideas de piezas de información una lista horizontal con los **tipos de consecuencias** como se muestra en la figura.
+3. Conversar con los participantes sobre los tipos de consecuencias negativas que puede afrontar la organización ante algún compromiso de la información que se maneja. Crear aparte de la lluvia de ideas de piezas de información una lista horizontal con los **tipos de consecuencias** como se muestra en la figura.
 
   ![Grafico con los ejes propuestos más abajo](../img/0103-3.jpg)
   La idea es generar una matriz cuyo eje horizontal corresponda a esta clasificación de consecuencias, una propuesta completa (o simplificada dependiendo del facilitador y del grupo) puede ser la que se encuentra a continuación:
-  * **Consecuencias digitales:** Que afecten la presencia online de la organización. Por ejemplo, relacionadas a los medios sociales, servidores, cuentas de correo, servicios usados por el equipo interno, etc.
+  * **Consecuencias digitales:** Que afecten la presencia online o recursos digitales de la organización. Por ejemplo, relacionadas a los medios sociales, servidores, cuentas de correo, servicios usados por el equipo interno, etc.
   * **Consecuencias físicas:**  Son las relacionadas a la integridad de personas, objetos y espacios. Por ejemplo, agresiones físicas, muerte, destrucción de espacios, pérdida de recursos, etc.
   * **Consecuencias emocionales:** Son las relacionadas al bienestar psicosocial de las personas involucradas con la organización, esto no solo incluye al equipo sino tambien a proveedores, beneficiarios, víctimas, etc. Normalmente están relacionados a situaciones que crean miedos, estrés, fatiga y traumas a los actores relacionados.
   * **Consecuencias judiciales:** Son aquellas que afectan la integridad judicial de personas asociadas a la organización. Por lo general, están relacionadas a arrestos, retenciones, allanamientos, juicios, etc.
@@ -68,7 +68,7 @@ La idea de esta actividad es mapear todos los objetos de datos que maneja la org
 
   Estos tipos de consecuencias son propuestos, en el caso de querer simplificar el ejercicio se pueden combinar o excluir explícitamente algunos de los ejes propuestos, incluso si el equipo lo considera pertinente se pueden agregar nuevos tipos. Por ejemplo, consecuencias de imagen o religiosas (si aplican).
 
-4. Teniendo claro los tipos de consecuencias, se sugiere pedir a los participantes que piensen en posibles consecuencias producto del compromiso de las piezas de infromación mapeadas en términos de disponibilidad, integridad y confidencialidad, tomar notas de estos y colocarlos en notas adhesivas o su equivalente digital debajo del tipo de consecuencia al que pertenece (digital, físico, legal, etc.)
+4. Teniendo claro los tipos de consecuencias, se sugiere pedir a los participantes que piensen en posibles consecuencias producto del compromiso de las piezas de información mapeadas en términos de disponibilidad, integridad y confidencialidad, tomar notas de estos y colocarlos en notas adhesivas o su equivalente digital debajo del tipo de consecuencia al que pertenece (digital, físico, legal, etc.)
   * Es normal y esperado que muchas consecuencias se repitan, en estos casos con la nota adhesiva o equivalente ya existente será suficiente.
   * Pensar en disponibilidad, integridad y confidencialidad es una ayuda para facilitar la discusión y la lluvia de ideas de consecuencias, sin embargo, si el equipo se siente cómodo planteando las consecuencias posibles en otros términos puede funcionar sin problemas siempre y cuando representen consecuencias posibles y puedan ser priorizadas en el siguiente paso.
   * Es normal que el compromiso de una pieza de información pueda tener consecuencias en más de un eje.
@@ -91,17 +91,17 @@ La idea de esta actividad es mapear todos los objetos de datos que maneja la org
   ## Gráfico evolucionado con el desarrollo de la matriz de consecuencias
 
   Algunas consideraciones son:
-  * Es posible que algunos espacios queden en blanco, dependiendo del caso vale la pena preguntarle al equipo qué consecuencias estan faltando en esos espacios. En el caso de impactos bajos o nulos no es obligatorio colocar consecuencias directas, esto se puede explicar con que todo lo que se considere por debajo de la consecuencia con menor impacto es irrelevante en términos de consecuencias.
+  * Es posible que algunos espacios queden en blanco, dependiendo del caso vale la pena preguntarle al equipo qué consecuencias estan faltando en esos espacios. En el caso de impactos bajos o nulos no es obligatorio colocar consecuencias directas, esto se puede explicar con que todo lo que se considere por debajo de la consecuencia con menor impacto es irrelevante en términos de riesgos.
   * A esta parte de la actividad se le debe dedicar un tiempo adecuado ya que representa el pilar de la primera política de seguridad de la organización (clasificación de información).
 
-6. Una vez que el equipo esté conforme con la matriz de consecuencias, se pueden asociar las piezas de datos mapeadas al comienzo de la actividad con el nivel de impacto de las consecuencias correspondientes al compromiso. Esto puede hacerse de múltiples formas, una propuesta se dispone en el siguiente grafico.
+6. Una vez que el equipo esté conforme con la matriz de consecuencias, se pueden asociar los objetos de datos mapeadas al comienzo de la actividad con el nivel de impacto de las consecuencias correspondientes al compromiso. Esto puede hacerse de múltiples formas, una propuesta se dispone en el siguiente grafico.
 
   ## Grafico con piezas de datos asociadas a los niveles de impacto
 
 ##### Cierre de la actividad
 Al finalizar la actividad se puede discutir y hacer énfasis en lo que se logró:
 * Se definieron ejes de consecuencias y se asociaron a la información que la organización maneja.
-* Se establecieron las bases de la política de clasificación de información, así cada vez que se maneje una nueva pieza de información se puede determinar el nivel de impacto asociado al compromiso de esta, y con los productos que se generarán más adelante se puede determinar con facilidad qué medidas de seguridad se deben tomar al manipular esta nueva pieza de información.
+* Se establecieron las bases de la política de clasificación de información, así cada vez que se maneje un nuevo objeto o pieza de información se puede determinar el nivel de impacto asociado al compromiso de este, y con los productos que se generarán más adelante se puede determinar con facilidad qué medidas de seguridad se deben tomar al manipular estos nuevos objetos de datos.
 
 ### Referencias
 * [Holistic Security: 2.4 Understanding and Cataloguing our Information](https://holistic-security.tacticaltech.org/chapters/explore/2-4-understanding-and-cataloguing-our-information)
