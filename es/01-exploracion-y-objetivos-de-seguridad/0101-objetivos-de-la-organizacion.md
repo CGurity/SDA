@@ -8,7 +8,7 @@ parent-id: 01-fundacion
 ### Justificación
 Esta actividad busca poner a todo el grupo en la misma página en cuanto a las razones de ser de la organización y las metas que persigue. En el caso de las organizaciones de activismo, este puede ser un momento propicio para afianzar los conceptos y valores de justicia social que motivan al grupo para hacer el trabajo que hacen. En el caso de los medios de comunicación se pueden afianzar los valores de acceso a la información veraz y libertad de expresión que motivan a los periodistas a ejercer su labor.
 
-Esta parte busca que los participantes dejen a un lado el estrés producido por las altas cargas de trabajo para concentrarse en las motivaciones internas que llevan a cada uno a ser parte del equipo, sirviendo además como rompehielo para afrontar mejor el desarrollo de las siguientes actividades.
+Este apartado busca que los participantes dejen a un lado el estrés producido por las altas cargas de trabajo para concentrarse en las motivaciones internas que llevan a cada uno a ser parte del equipo, sirviendo además como rompehielo para afrontar mejor el desarrollo de las siguientes actividades.
 
 ### Datos de entrada
 * Misión, Visión, y Objetivos de la organización.
@@ -18,7 +18,7 @@ Esta parte busca que los participantes dejen a un lado el estrés producido por 
   * Mapa de motivos por los cuales la organización existe desde el punto de vista de los participantes.
 * **Indirectos**
   * Conciencia colectiva en función a los objetivos de la organización.
-  * Similitudes o discrepancias entre la percepción del equipo y la fundación formal de la organización.
+  * Similitudes o discrepancias entre la percepción del equipo y la función formal de la organización.
 
 ### Actividades propuestas
 
