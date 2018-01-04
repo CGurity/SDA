@@ -84,11 +84,11 @@ La idea de esta actividad es mapear todos los objetos de datos que maneja la org
   * Aumento drástico de niveles de estrés en el equipo de trabajo (consecuencia emocional).
   * Aumento excesivo de la carga de trabajo del equipo (consecuencia emocional).
 
-  ## Gráfico evolucionado del anterior con ejemplos de consecuencias
+  ![Gráfico evolucionado del anterior con ejemplos de consecuencias](../img/bocetos-sda-0103-1.png)
 
 5. Luego de obtener algunas consecuencias de cada uno de los tipos definidos se introduce la idea de calificar las consecuencias mapeadas según su nivel de impacto, se propone crear un eje vertical que represente impactos nulos, bajos, medios y altos. En el caso de que el facilitador y el equipo se sientan cómodos al respecto, se puede cambiar esta escala a cualquier otra que se considere conveniente (del 1 al 10, agregar a la propuesta impacto crítico, etc.). Luego de creado este eje se procede a ubicar con el apoyo del equipo las amenazas mapeadas en las distintas categorías como se muestra en la figura.
 
-  ## Gráfico evolucionado con el desarrollo de la matriz de consecuencias
+  ![Gráfico evolucionado con el desarrollo de la matriz de consecuencias](../img/bocetos-sda-0103-2.png)
 
   Algunas consideraciones son:
   * Es posible que algunos espacios queden en blanco, dependiendo del caso vale la pena preguntarle al equipo qué consecuencias estan faltando en esos espacios. En el caso de impactos bajos o nulos no es obligatorio colocar consecuencias directas, esto se puede explicar con que todo lo que se considere por debajo de la consecuencia con menor impacto es irrelevante en términos de riesgos.
@@ -96,7 +96,7 @@ La idea de esta actividad es mapear todos los objetos de datos que maneja la org
 
 6. Una vez que el equipo esté conforme con la matriz de consecuencias, se pueden asociar los objetos de datos mapeadas al comienzo de la actividad con el nivel de impacto de las consecuencias correspondientes al compromiso. Esto puede hacerse de múltiples formas, una propuesta se dispone en el siguiente grafico.
 
-  ## Grafico con piezas de datos asociadas a los niveles de impacto
+  ![Grafico con piezas de datos asociadas a los niveles de impacto](../img/bocetos-sda-0103-3.png)
 
 ##### Cierre de la actividad
 Al finalizar la actividad se puede discutir y hacer énfasis en lo que se logró:

@@ -45,9 +45,14 @@ Tiempo estimado: XX min
 
 ##### Instrucciones
 1. eje horizontal con lugares de reposo (Grafico)
+
+  ![Grafico](../img/bocetos-sda-0104-1.png)
 2. agregar a eje horizontal canales de transmisión (Grafico)
+  ![Grafico](../img/bocetos-sda-0104-2.png)
 3. usar de eje vertical el mismo de consecuencias de la actividad anterior (Grafico)
+  ![Grafico](../img/bocetos-sda-0104-3.png)
 4. Preguntar por los objetos de datos en cada categoría en donde se almacenar o transmiten (paso laaargo, solo marcar con X) (Grafico)
+  ![Grafico](../img/bocetos-sda-0104-4.png)
 5. Introducir los conceptos que sean pertinentes sobre seguridad para lugares de almacenamiento y canales de transmisión
   * Cifrado
   * Cifrado punto a punto
@@ -55,7 +60,9 @@ Tiempo estimado: XX min
   * Accesibilidad de recursos
   * etc.
 6. Discutir con el grupo si hay canales que se consideran inseguros y donde información sensible se almacene o transmita (Grafico "comentado")
+  ![Grafico](../img/bocetos-sda-0104-5.png)
 7. plantear una modificación en la matriz en donde se defina qué tipo de información por sensibilidad debe estar en cada columna de la matriz y consideraciones de esas columnas (que un equipo debe estar cifrado, que se debe usar VPN o https para acceder a x recurso, etc.). El uso de otro color puede ser beneficioso para trabajar sobre la misma matriz y ver las diferencias entre lo que se hace y lo que se debería hacer de ahí en adelante (Grafico)
+  ![Grafico](../img/bocetos-sda-0104-6.png)
 
 ##### Cierre de la actividad
 Al finalizar la actividad se puede discutir y hacer énfasis en lo que se logró:
