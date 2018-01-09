@@ -1,7 +1,7 @@
 ---
-sectionid: 03-03-planes-de-sucesion-y-comunicaciones
+sectionid: 03-05-documentacion-de-evidencia
 sectionclass: h2
-title: Plane de sucesión y de comunicaciones
+title: Documentación de evidencia
 parent-id: 03-modelo-de-amenazas-y-protocolos
 ---
 ### Justificación
