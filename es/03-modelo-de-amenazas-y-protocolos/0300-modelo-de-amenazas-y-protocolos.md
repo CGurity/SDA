@@ -4,7 +4,7 @@ sectionclass: h1
 title: Modelo de Amenazas
 ---
 ### Modelo de Amenazas
-La idea en esta etapa es usar los insumos de la primera fase para levantar una matriz de riesgo que comprenda las amenazas a las cuales se enfrenta la organización, y así validar que los objetivos de seguridad, el mapa de actores y el  mapa de datos sean consistentes con lo que se está documentando en este analisis. Tambien se buscar confirmar que las políticas base de seguridad sean capaces de mitigar cualquier amenaza, y se adapten a la realidad.
+La idea en esta etapa es usar los insumos de la primera fase para levantar una matriz de riesgo que considere las amenazas a las cuales se enfrenta la organización, y así validar que los objetivos de seguridad, el mapa de actores y el  mapa de datos sean consistentes con lo que se está documentando en este analisis. Tambien se buscar confirmar que las políticas base de seguridad sean capaces de mitigar cualquier amenaza, y se adapten a la realidad.
 
 ### Protocolos
 Dependiendo de las amenazas detectadas en la fase 2, el equipo de trabajo podrá decidir cuáles de estas requieren la elaboración de un protocolo de emergencia en el caso de que se concreten. Para cada una de ellas elaborar al menos:
