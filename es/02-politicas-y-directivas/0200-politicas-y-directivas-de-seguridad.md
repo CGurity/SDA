@@ -6,6 +6,8 @@ parent-id: 01-fundacion
 ---
 
 ## Incluir en esta edición
+* Política de clasificación de información*
+* Política de retención de datos*
 * Política de uso aceptable de equipos
 * Política de cuentas y contraseñas
   * Política contraseñas
