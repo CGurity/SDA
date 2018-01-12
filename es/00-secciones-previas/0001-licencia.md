@@ -5,12 +5,23 @@ title: Licencia
 is-parent: yes
 ---
 
-Cuando nos referimos a la licencia de este material nos referimos a la licencia con la que se publica el repositorio de donde se extrae el contenido usado en este material, disponible en [Github](https://hithub.com/cguerrave/SDA) para el momento de la publicación.
-
-
------- Este texto debería quedarse en inglés, traducirse al castellano y ponerse antes o después de la version original en inglés
+Cuando mencionamos la licencia de este material nos referimos a la licencia con la cual se publica el repositorio de donde se extrae el contenido usado en este material, disponible en [Github](https://hithub.com/cguerrave/SDA) para el momento de la publicación.
 
 MIT License
+
+Copyright (c) 2018 Carlos Guerra
+
+Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
+de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos
+para usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y / o vender
+copias del software, y para permitir a las personas a quienes se refiere el software
+equipado para hacerlo, sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todos
+copias o porciones sustanciales del software.
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, APTITUD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O LOS TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑOS U OTRAS RESPONSABILIDADES, YA SEA EN UNA ACCIÓN CONTRACTUAL, AGRAVIO O DE OTRO TIPO, DERIVADA DE, 
+FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.
 
 Copyright (c) 2018 Carlos Guerra
 
@@ -31,3 +42,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
