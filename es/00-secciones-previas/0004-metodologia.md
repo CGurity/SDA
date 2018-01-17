@@ -23,8 +23,8 @@ En cada sección se propone un conjunto de actividades que explican el proceso d
 * **Cierre de la actividad** en donde se hace un recuento de lo que se logró y para qué servirán los productos generados.
 * **Referencias** que se hacen durante el desarrollo de la actividad.
 
-## Sobre referencias en la versión impresa
+## Sobre las referencias en este manual
 Las referencias están numeradas en la versión impresa y pueden ser consultadas desde un explorador web de dos maneras como se muestra a continuación:
 
 1. Ingresando a [sda.guerracarlos.com/referencias](sda.guerracarlos.com/referencias), navegar a la referencia de interés y hacer clic
-2. Ingresando a [sda.guerracarlos.com/referencia/<referencia>](#), por ejemplo [sda.guerracarlos.com/referencia/19](sda.guerracarlos.com/referencia/19) para la referencia #19
+2. Ingresando a [sda.guerracarlos.com/referencia/<referencia>](#), por ejemplo [sda.guerracarlos.com/referencia/19](sda.guerracarlos.com/referencia/19) para la referencia #192. 

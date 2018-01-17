@@ -1,7 +1,7 @@
 ---
 sectionid: 01-02-mapa-de-actores-y-datos
 sectionclass: h2
-title: Mapeo de actores y datos
+title: Clasificacion y lluvia de Ideas de actores y datos
 parent-id: 01-fundacion
 ---
 ### Justificación
@@ -21,15 +21,15 @@ En esta actividad la idea es seguir explorando la organización, recopilando inf
 
 ### Actividades propuestas
 
-#### Clasificación y lluvia de ideas de actores
+### Clasificación y lluvia de ideas de actores
 Tiempo estimado: 15 min
 
 Esta actividad está basada en la sección *Expanding our knowledge of actors* de la guía de Seguridad Holística de [Tachtical Technology Collective](https://tacticaltech.org/) disponible en las referencias.
 
-##### Preparación previa
+### Preparación previa
 * Haber investigado lo suficiente a la organización como para tener ideas claras de  sus actores asociados. Esto con la idea de iniciar o reanudar la lluvia de ideas en el caso de que el grupo se sienta estancado o lento durante la actividad.
 
-##### Materiales
+### Materiales
 * En caso de realizar la actividad en físico:
   * Notas adhesivas y marcadores o
   * Piezas grandes de papel para pegar en la pared y marcadores.
@@ -38,7 +38,7 @@ Esta actividad está basada en la sección *Expanding our knowledge of actors* d
   * Proyector
   * Hoja de cálculo lista para llenar, mostrando los encabezados con categorías de actores asociados.
 
-##### Instrucciones
+### Instrucciones
 Una vez relacionados los objetivos de la organización en la actividad anterior, debería ser más claro para los participantes el enfoque que tiene el grupo, y qué tipo de actores están vinculados a su trabajo, además de las motivaciones de dichos actores de cara a la seguridad de la organización.
 
 1. Explicar brevemente que la idea es crear un espectro de aliados ordenados por su actitud ante la organización, buscando emplear pocas opciones para facilitar el proceso. Por ejemplo:
@@ -64,11 +64,10 @@ Una vez relacionados los objetivos de la organización en la actividad anterior,
 5. Discutir con los participantes sobre algunas consideraciones del mapeo de actores:
   * Los mapas de actores pueden variar en el tiempo de forma muy rápida. Hoy un aliado activo mañana puede ser un oponente activo, o un actor neutral puede tomar partido a raíz de un evento particular.
   * La categorización de los actores es perceptual, quizás para un grupo cierto actor parece un aliado, pero en la práctica puede jugar un papel diferente desconocido para la organización.
-  * Generalmente una organización está vinculada a muchos más actores de los que se pueden obtener en una lluvia de ideas de 10 minutos. Vale la pena que el grupo se sienta cómodo con la metodología para que puedan replicarla pr su cuenta cuando lo consideren conveniente.
+  * Generalmente una organización está vinculada a muchos más actores de los que se pueden obtener en una lluvia de ideas de 10 minutos. Vale la pena que el grupo se sienta cómodo con la metodología para que puedan replicarla por su cuenta cuando lo consideren conveniente.
 
 Es importante que el mapa obtenido se encuentre disponible para futuras actividades, si se hace en físico se recomienda no desmontar los papeles y/o notas adhesivas, sino moverlos a un lugar en donde sean visibles y no interfieran con las demás actividades. En caso de hacer la actividad en digital, se recomienda tener a la mano el archivo en donde se recopiló la información.
 
 ### Referencias
 * [Holistic Security: 2.3 Vision, Strategy and Actors](https://holistic-security.tacticaltech.org/chapters/explore/2-3-vision-strategy-and-actors)
 * [Security First: ChampionsCurriculum](https://github.com/securityfirst/championscurriculum/blob/master/communications.md)
-* * 

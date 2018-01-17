@@ -5,6 +5,10 @@ title: Documentación de los objetivos de la organización
 parent-id: 01-fundacion
 ---
 
+## Lluvia de ideas y validación de objetivos formales de la organizacion
+
+Tiempo estimado: 15 min
+
 ### Justificación
 Esta actividad busca poner a todo el grupo en la misma página en cuanto a las razones de ser de la organización y las metas que persigue. En el caso de las organizaciones de activismo, este puede ser un momento propicio para afianzar los conceptos y valores de justicia social que motivan al grupo para hacer el trabajo que hacen. En el caso de los medios de comunicación se pueden afianzar los valores de acceso a la información veraz y libertad de expresión que motivan a los periodistas a ejercer su labor.
 
@@ -20,20 +24,15 @@ Este apartado busca que los participantes dejen a un lado el estrés producido p
   * Conciencia colectiva en función a los objetivos de la organización.
   * Similitudes o discrepancias entre la percepción del equipo y la función formal de la organización.
 
-### Actividades propuestas
 
-#### Lluvia de ideas y validación de objetivos formales
-
-Tiempo estimado: 15 min
-
-##### Preparación previa
+### Preparación previa
 Ubicar si existe de forma pública, misión, visión, y objetivos de la organización y preparar el material correspondiente.
 
-##### Materiales
+### Materiales
 * Notas adhesivas para los participantes.
 * Papeles impresos o escritos con la misión, visión, y objetivos formales escritos de la organización o sus equivalentes en caso de que estén planteados de forma distinta.
 
-##### Instrucciones
+### Instrucciones
 Dependiendo de la cantidad de participantes y de la comodidad del facilitador, se requiere la realización de los siguientes pasos ya sea en forma individual o en parejas.
 1. Distribuir entre los participantes una cantidad adecuada de notas adhesivas y marcadores.
 2. Pedir a los participantes que se tomen 5 minutos para escribir en las notas adhesivas las razones por las cuales la organización existe, puede ser de ayuda plantear oraciones para completar como:

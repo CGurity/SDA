@@ -20,17 +20,17 @@ The main idea of this activity is to complete the information about the organiza
 
 ### Proposed activities
 
-#### Data mapping and classification
+### Data mapping and classification
 Estimated time: XX min
 
 This activity is a variation of a dynamic proposed in several resources such as Holistic Security in its "2.4 Understanding and Cataloging our Information" section of [Tactical Technology Collective](https://tacticaltech.org/) or SaferJourno of [Internews](https://internews.org) among others.
 
 The idea behind this activity is to map all the data objects that the organization manages,  to think about the possible consequences that commitment of these objects would have, to outline these possible consequences in a matrix of impact, and also associate the information objects managed with levels of impact on the matrix built.
 
-##### Previous planning
+### Previous planning
 * In case of carrying out this activity on digital equipment, it is suggested to have a spreadsheet or other software with all the necessary fields and formats.
 
-##### Materials
+### Materials
 * In case of doing the activity on paper:
   * Post-its or sticky notes and markers or
   * Large pieces of paper to stick on the wall and markers.
@@ -39,7 +39,7 @@ The idea behind this activity is to map all the data objects that the organizati
   * Projector.
   * Spreadsheet ready to fill, showing the headings with stakeholders categories.
 
-##### Instructions
+### Instructions
 1. Brainstorm the pieces of information that the organization manages. It might include complaints from victims, leaked documents, research in process, accounting books, social media publications and/or public reports. No piece of legitimate information is of little relevance to this exercise.
    * It is especially relevant to consider information on paper.
    * Each idea should be written down on post-its or sticky notes or equivalent and be visible to everyone.
@@ -99,7 +99,7 @@ Take into consideration:
 
   ## Graphic with pieces of data associated with the levels of impact
 
-##### Closure of the activity
+### Closure of the activity
 At the end of the activity you can discuss and emphasize what has been achieved:
 * Axes of consequences were defined and associated with the data the organization manages.
 * The bases of the data classification policy were established, so each time a new piece of information is handled, the level of impact associated with the commitment of this can be easily resolved, also along with the products that will be generated later,  will be possible to determine safety measures to be taken.

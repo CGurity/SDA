@@ -21,15 +21,15 @@ In this activity, the main idea is to continue exploring the organization, gathe
 
 ### Proposed activities
 
-#### Classification and stakeholders brainstorming
+### Classification and stakeholders brainstorming
  Estimated time: 15 min
 
 This activity is based on the section *Expanding our knowledge of actors* of the Holistic Security guide of [Tachtical Technology Collective](https://tacticaltech.org/) available in the references.
 
-##### Previous planning
+### Previous planning
 * Research the organization well enough to have clear ideas of its stakeholders. This might help in case of starting or resuming brainstorming in the event that the group feels stuck or slow during the following activity.
 
-##### Materials
+### Materials
 * In case of doing the activity on paper:
   * Post-its or sticky notes and markers or
   * Large pieces of paper to stick on the wall and markers.
@@ -38,7 +38,7 @@ This activity is based on the section *Expanding our knowledge of actors* of the
   * Projector.
   * Spreadsheet ready to fill, showing the headings with stakeholders categories.
 
-##### Instructions
+### Instructions
 Once the objectives of the organization have been related to the previous activity, it should be clearer for the participants about the approach of the group, the type of stakeholders linked to their work, and their motivations for the safety of the organization.
 
 1. Explain briefly that the main idea is to create a spectrum of allies sorted by their attitude towards the organization, seeking to use just a few options in order to facilitate the process. For example:

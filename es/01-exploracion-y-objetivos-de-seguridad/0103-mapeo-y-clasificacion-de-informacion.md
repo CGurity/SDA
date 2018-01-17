@@ -4,6 +4,15 @@ sectionclass: h2
 title: Mapeo y clasificación de información
 parent-id: 01-fundacion
 ---
+
+
+Tiempo estimado: 120 min
+
+Esta actividad es una variación propuesta de una dinámica planteada en varios recursos como Holistic Security en su sección "2.4 Understanding and Cataloguing our Information" de de [Tactical Technology Collective](https://tacticaltech.org/) o SaferJourno de [Internews](https://internews.org) entre otros.
+
+La idea de esta actividad es mapear todos los objetos de datos que maneja la organización, pensar en las posibles consecuencias que tendría el compromiso de estos objetos, esquematizar estas posibles consecuencias en una matriz de impactos, y asociar los objetos de información manejados con los niveles de impacto en la matriz construida.
+
+
 ### Justificación
 La idea de esta actividad es completar la recopilación de información sobre la organización, y así redirigir la misma hacia la sensibilidad de la información. En el proceso se establecerán las bases que permitirán construir las primeras políticas de seguridad para la organización.
 
@@ -18,19 +27,10 @@ La idea de esta actividad es completar la recopilación de información sobre la
   * Conciencia grupal sobre la sensibilidad de la información manejada.
   * Criterios de clasificación de información dentro de la organización.
 
-### Actividades propuestas
-
-#### Mapeo y clasificación de datos
-Tiempo estimado: XX min
-
-Esta actividad es una variación propuesta de una dinámica planteada en varios recursos como Holistic Security en su sección "2.4 Understanding and Cataloguing our Information" de de [Tactical Technology Collective](https://tacticaltech.org/) o SaferJourno de [Internews](https://internews.org) entre otros.
-
-La idea de esta actividad es mapear todos los objetos de datos que maneja la organización, pensar en las posibles consecuencias que tendría el compromiso de estos objetos, esquematizar estas posibles consecuencias en una matriz de impactos, y asociar los objetos de información manejados con los niveles de impacto en la matriz construida.
-
-##### Preparación previa
+#### Preparación previa
 * En caso de realizar la actividad en digital, se sugiere disponer de una hoja de cálculo u otro software con todos los campos y formatos necesarios.
 
-##### Materiales
+#### Materiales
 * En caso de realizar la actividad en físico:
   * Notas adhesivas y marcadores o
   * Piezas grandes de papel para pegar en la pared y marcadores
@@ -39,7 +39,7 @@ La idea de esta actividad es mapear todos los objetos de datos que maneja la org
   * Proyector
   * Hoja de cálculo u otro software con los campos y formatos necesarios.
 
-##### Instrucciones
+#### Instrucciones
 1. Realizar una lluvia de ideas con las piezas de información que maneja la organización, estas pueden incluir desde denuncias de víctimas, documentos filtrados, investigaciones en construcción hasta libros contables, publicaciones en redes sociales y/o informes públicos. Ninguna pieza de información legítima es poco relevante para este ejercicio.
   * Es especialmente relevante considerar información en físico.
   * Cada idea se debe colocar en una nota adhesiva o equivalente y estar a la vista de todos.
@@ -98,7 +98,7 @@ La idea de esta actividad es mapear todos los objetos de datos que maneja la org
 
   ![Grafico con piezas de datos asociadas a los niveles de impacto](../img/bocetos-sda-0103-3.png)
 
-##### Cierre de la actividad
+#### Cierre de la actividad
 Al finalizar la actividad se puede discutir y hacer énfasis en lo que se logró:
 * Se definieron ejes de consecuencias y se asociaron a la información que la organización maneja.
 * Se establecieron las bases de la política de clasificación de información, así cada vez que se maneje un nuevo objeto o pieza de información se puede determinar el nivel de impacto asociado al compromiso de este, y con los productos que se generarán más adelante se puede determinar con facilidad qué medidas de seguridad se deben tomar al manipular estos nuevos objetos de datos.
@@ -108,4 +108,4 @@ Al finalizar la actividad se puede discutir y hacer énfasis en lo que se logró
 * [SaferJourno](https://www.internews.org/resource/saferjourno-digital-security-resources-media-trainers)
 * [Security First: ChampionsCurriculum](https://github.com/securityfirst/championscurriculum/blob/master/communications.md)
 * [Wikipedia: Seguridad de la información](https://es.wikipedia.org/wiki/Seguridad_de_la_informaci%C3%B3n)
-*
+

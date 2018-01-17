@@ -24,16 +24,15 @@ The main idea in this activity is to understand where the information lies, thro
 
 ### Proposed activities
 
-#### Map and initial data retention policies
-estimated time: XX min
+### Mapping and initial data retention policies
+estimated time: 45 min
 
-##### Previous planning
+### Previous planning
 
-
-##### Materials
+### Materials
 * Post-its or sticky notes and markers or a digital equivalent as in previous activities.
 * Large sheet and only x on matrix.
-##### Instructions
+### Instructions
 1. Ask the participants to think and share places and devices where the data of the organization is stored. These can be on paper, digitally or in any other way. Now you can build column headers as shown in the figure:
   ![Grafico](../img/bocetos-sda-0104-1.png)
  Some examples that may help the group to a better developed brainstorming are:
@@ -62,6 +61,7 @@ estimated time: XX min
 3. Thinking about the headings of the columns written as one of the axes of a matrix, place on the vertical axis levels of impact used in the previous activity:
   ![Grafico](../img/bocetos-sda-0104-3.png)
 It is important to use the same levels of impact if  the participants defined differently to those proposed in this guide.
+
 4. Ask about the data objects in each level of impact where they are stored or transmitted. It is recommended not to take note of each data object, but to mark each coincidence of impact level associated with the storage location or means to transmit data. Ideally it is recommended drawing the matrix on a large sheet of paper that allows to mark with X in the corresponding places as shown in the graph.
 * This step can be long, so you must take precautions when planning.
 * It may help to have the post-its, sticky notes or equivalents of the previous activity for the data objects by impact level as a visual guide for the participants.
@@ -83,7 +83,7 @@ It is important to use the same levels of impact if  the participants defined di
 7. Suggest to the group a modification in the matrix where it is defined what type of information per level of impact should be in each column, and the pertinent considerations in each case (if a computer must be encrypted to contain certain information, if you must use VPN or https to access a specific resource, etc.). The use of another color can be effective and useful to work on the same matrix, makes  the activity easier to see the differences between what is currently done in the organization and what should be done from that moment on.
   ![Grafico](../img/bocetos-sda-0104-6.png)
 
-##### Closure of the activity
+### Closure of the activity
 At the end of the activity you may discuss and emphasize all what has been achieved:
 * Sereral forms of communication and places for data storage were mapped.
 * The data objects of the organization were associated in channels and storage places.

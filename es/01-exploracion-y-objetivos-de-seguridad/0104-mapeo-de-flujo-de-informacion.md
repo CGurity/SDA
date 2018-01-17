@@ -5,6 +5,8 @@ title: Mapeo de flujos de información
 parent-id: 01-fundacion
 ---
 
+Tiempo estimado: 90 min
+
 ### Justificación
 La idea en esta actividad es entender dónde reposa la informacion, a través de cuales canales se transmite la información, discutir los niveles de seguridad que brindan estos canales, y asociar los objetos de datos mapeados en la actividad anterior para definir factores clave en la construcción de una política de retención de datos.
 
@@ -22,19 +24,21 @@ La idea en esta actividad es entender dónde reposa la informacion, a través de
   * Criterios de selección de canales de transmisión y lugares de reposo seguros para la información.
   * Conocimiento de qué canales de transmisión y cuales lugares de reposo se deben emplear con objetos de datos existentes y nuevos.
 
-### Actividades propuestas
 
-#### Mapa y directivas iniciales de retención de datos
-Tiempo estimado: XX min
-
-##### Preparación previa
+### Preparación previa
 
 
-##### Materiales
-* Notas adhesivas y marcadores o un equivalente digital al igual que en las actividades anteriores.
-* Hoja grande y solo x en matriz.
+### Materiales
 
-##### Instrucciones
+Notas adhesivas y marcadores o un equivalente digital al igual que en las actividades anteriores.
+* Hojas de papel grandes.
+* En caso de realizar la actividad en digital: 
+   * Computadora
+   * Proyector 
+   * Hoja de cálculo lista para llenar, mostrando los encabezados con sus categorías.
+
+
+### Instrucciones
 1. Pedir a los participantes que piensen y compartan los lugares y dispositivos en donde reposa la información de la organización. Estos pueden ser físicos y digitales, con estos lugares se puede construir encabezados de columnas como se muestra en la figura:
   ![Grafico](../img/bocetos-sda-0104-1.png)
   Algunos ejemplos que pueden ayudar al grupo a desarrollar mejor la lluvia de ideas son:
@@ -63,6 +67,7 @@ Tiempo estimado: XX min
 3. Pensando en los encabezados de las columnas escritos como uno de los ejes de una matriz, colocar en el eje vertical los niveles de impacto usados en la actividad anterior:
   ![Grafico](../img/bocetos-sda-0104-3.png)
   Debemos tener cuidado de utilizar los mismos niveles de impacto en caso de que hayan sido definidos de diferente forma a los propuestos en esta guía.
+ 
 4. Preguntar por los objetos de datos en cada nivel de impacto en donde se almacenan o se transmiten. Se recomienda no tomar nota de cada objeto de datos, sino marcar cada coincidencia de nivel de impacto asociado con el lugar de almacenaje o medio de transmisión de información. idealmente se recomienda tener la matriz en una hoja grande papel que permita marcar con X en los lugares que corresponda como se muestra en el gráfico.
   * Este paso puede ser largo, hay que tomar previsiones en la planificación de la agenda.
   * Puede ayudar tener las notas adhesivas o equivalentes de la actividad anterior para los objetos de datos por nivel de impacto como guía visual para los participantes.
@@ -76,6 +81,7 @@ Tiempo estimado: XX min
   * etc.
 
   El éxito de este paso está muy relacionado con el conocimiento que tenga el facilitador y el grupo sobre los equipos y servicios utilizados. Puede suceder que en alguna actividad aparezcan servicios que el facilitador desconoce, es importante tener la capacidad de preguntar al grupo lo que sepan y de investigar por cuenta propia cualquier consideración de seguridad pertinente al item desconocido.
+  
 6. Discutir con el grupo si hay canales que se consideren inseguros donde información sensible se almacene o transmita. Algunas preguntas clave pueden ser:
   * ¿Algunos de los anteriores se consideran canales inseguros?.
   * ¿Algunos de estos lugares de almacenaje es de facil acceso para personas no autorizadas?.
@@ -83,7 +89,7 @@ Tiempo estimado: XX min
 7. Plantear al grupo una modificación en la matriz en donde se defina qué tipo de información por nivel de impacto debe estar en cada columna de la matriz, y las consideraciones pertinetes en cada caso (si un equipo debe estar cifrado para contener cierta información, si se debe usar VPN o https para acceder a un recurso específico, etc.). El uso de otro color puede ser beneficioso para trabajar sobre la misma matriz, facilita la actividad para ver mejor las diferencias entre lo que se hace actualmente en la organización y lo que se debería hacer desde ese momento en adelante.
   ![Grafico](../img/bocetos-sda-0104-6.png)
 
-##### Cierre de la actividad
+### Cierre de la actividad
 Al finalizar la actividad se puede discutir y hacer énfasis en lo que se logró:
 * Se mapearon todas las formas de comunicación y los lugares de reposo de la información.
 * Se asociaron los objetos de datos de la organización en estos canales y lugares de reposo.
@@ -91,8 +97,7 @@ Al finalizar la actividad se puede discutir y hacer énfasis en lo que se logró
 
 Es necesario tomar en cuenta que para elaborar una política de retención de datos completa es importante considerar otras cosas además de los medios de almacenamiento y comunicación de los objetos de datos, por ejemplo:
 * Por cuánto tiempo cada objeto de datos debe ser guardado (caducidad de la información).
-  * De qué forma se deben borrar los objetos de datos por caducidad.
-    * Ejemplo: procesar estadísticas anuales de denuncias que se van a borrar.
+  * De qué forma se deben borrar los objetos de datos por caducidad. Ejemplo: procesar estadísticas anuales de denuncias que se van a borrar.
 * Quiénes manejan la información: implementacion del principio del mínimo privilegio.
 * Quiénes son responsables de la generación, almacenamiento y custodia de la información.
 
