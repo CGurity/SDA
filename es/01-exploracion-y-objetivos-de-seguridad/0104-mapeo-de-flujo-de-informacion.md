@@ -4,6 +4,7 @@ sectionclass: h2
 title: Mapeo de flujos de información
 parent-id: 01-fundacion
 ---
+Tiempo estimado: XX min
 
 ### Justificación
 La idea en esta actividad es entender dónde reposa la informacion, a través de cuales canales se transmite la información, discutir los niveles de seguridad que brindan estos canales, y asociar los objetos de datos mapeados en la actividad anterior para definir factores clave en la construcción de una política de retención de datos.
@@ -21,11 +22,6 @@ La idea en esta actividad es entender dónde reposa la informacion, a través de
 * Indirectos
   * Criterios de selección de canales de transmisión y lugares de reposo seguros para la información.
   * Conocimiento de qué canales de transmisión y cuales lugares de reposo se deben emplear con objetos de datos existentes y nuevos.
-
-### Actividades propuestas
-
-#### Mapa y directivas iniciales de retención de datos
-Tiempo estimado: XX min
 
 ##### Preparación previa
 * En caso de realizar la actividad en digital, se sugiere disponer de una hoja de cálculo u otro software con todos los campos y formatos necesarios.

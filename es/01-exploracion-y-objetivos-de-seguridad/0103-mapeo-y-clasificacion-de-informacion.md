@@ -1,10 +1,16 @@
 ---
 sectionid: 01-02-mapeo-y-clasificacion-de-informacion
 sectionclass: h2
-title: Mapeo y clasificación de información
+title: Mapeo y clasificación de datos
 parent-id: 01-fundacion
 ---
+Tiempo estimado: XX min
+
+Esta actividad es una variación propuesta de una dinámica planteada en varios recursos como Holistic Security en su sección "2.4 Understanding and Cataloguing our Information" de de [Tactical Technology Collective](https://tacticaltech.org/) o SaferJourno de [Internews](https://internews.org) entre otros.
+
 ### Justificación
+La idea de esta actividad es mapear todos los objetos de datos que maneja la organización, pensar en las posibles consecuencias que tendría el compromiso de estos objetos, esquematizar las posibles consecuencias en una matriz de impactos, y asociar los objetos de información manejados con los niveles de impacto en la matriz construida.
+
 La idea de esta actividad es completar la recopilación de información sobre la organización, y así redirigir la misma hacia la sensibilidad de la información. En el proceso se establecerán las bases que permitirán construir las primeras políticas de seguridad para la organización.
 
 ### Datos de entrada
@@ -17,15 +23,6 @@ La idea de esta actividad es completar la recopilación de información sobre la
 * Indirectos
   * Conciencia grupal sobre la sensibilidad de la información manejada.
   * Criterios de clasificación de información dentro de la organización.
-
-### Actividades propuestas
-
-#### Mapeo y clasificación de datos
-Tiempo estimado: XX min
-
-Esta actividad es una variación propuesta de una dinámica planteada en varios recursos como Holistic Security en su sección "2.4 Understanding and Cataloguing our Information" de de [Tactical Technology Collective](https://tacticaltech.org/) o SaferJourno de [Internews](https://internews.org) entre otros.
-
-La idea de esta actividad es mapear todos los objetos de datos que maneja la organización, pensar en las posibles consecuencias que tendría el compromiso de estos objetos, esquematizar estas posibles consecuencias en una matriz de impactos, y asociar los objetos de información manejados con los niveles de impacto en la matriz construida.
 
 ##### Preparación previa
 * En caso de realizar la actividad en digital, se sugiere disponer de una hoja de cálculo u otro software con todos los campos y formatos necesarios.

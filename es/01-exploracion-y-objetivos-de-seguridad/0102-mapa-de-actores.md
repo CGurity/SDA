@@ -1,9 +1,13 @@
 ---
 sectionid: 01-02-mapa-de-actores-y-datos
 sectionclass: h2
-title: Mapeo de actores y datos
+title: Clasificación y lluvia de ideas de actores
 parent-id: 01-fundacion
 ---
+Tiempo estimado: 15 min
+
+Esta actividad está basada en la sección *Expanding our knowledge of actors* de la guía de Seguridad Holística de [Tachtical Technology Collective](https://tacticaltech.org/) disponible en las referencias.
+
 ### Justificación
 En esta actividad la idea es seguir explorando la organización, recopilando información directamente relacionada con la seguridad de la misma, la cual es necesaria para levantar un modelo de amenazas óptimo en lo sucesivo. Además, resulta un insumo valioso para estudiar la evolución de la organización, su entorno, y los cambios en el modelo de amenazas correspondiente.
 
@@ -18,13 +22,6 @@ En esta actividad la idea es seguir explorando la organización, recopilando inf
   * Mapa de actores.
 * Indirectos
   * Conciencia grupal sobre los actores relacionados a la organización.
-
-### Actividades propuestas
-
-#### Clasificación y lluvia de ideas de actores
-Tiempo estimado: 15 min
-
-Esta actividad está basada en la sección *Expanding our knowledge of actors* de la guía de Seguridad Holística de [Tachtical Technology Collective](https://tacticaltech.org/) disponible en las referencias.
 
 ##### Preparación previa
 * Haber investigado lo suficiente a la organización como para tener ideas claras de  sus actores asociados. Esto con la idea de iniciar o reanudar la lluvia de ideas en el caso de que el grupo se sienta estancado o lento durante la actividad.
@@ -64,7 +61,11 @@ Una vez relacionados los objetivos de la organización en la actividad anterior,
 5. Discutir con los participantes sobre algunas consideraciones del mapeo de actores:
   * Los mapas de actores pueden variar en el tiempo de forma muy rápida. Hoy un aliado activo mañana puede ser un oponente activo, o un actor neutral puede tomar partido a raíz de un evento particular.
   * La categorización de los actores es perceptual, quizás para un grupo cierto actor parece un aliado, pero en la práctica puede jugar un papel diferente desconocido para la organización.
-  * Generalmente una organización está vinculada a muchos más actores de los que se pueden obtener en una lluvia de ideas de 10 minutos. Vale la pena que el grupo se sienta cómodo con la metodología para que puedan replicarla pr su cuenta cuando lo consideren conveniente.
+  * Generalmente una organización está vinculada a muchos más actores de los que se pueden obtener en una lluvia de ideas de 10 minutos. Vale la pena que el grupo se sienta cómodo con la metodología para que puedan replicarla por su cuenta cuando lo consideren conveniente.
+
+##### Cierre de la actividad
+Al finalizar la actividad se puede discutir y hacer énfasis en lo que se logró:
+* Se levantó un mapa de actores de la organización y se discutieron sus motivaciones y capacidades.
 
 Es importante que el mapa obtenido se encuentre disponible para futuras actividades, si se hace en físico se recomienda no desmontar los papeles y/o notas adhesivas, sino moverlos a un lugar en donde sean visibles y no interfieran con las demás actividades. En caso de hacer la actividad en digital, se recomienda tener a la mano el archivo en donde se recopiló la información.
 

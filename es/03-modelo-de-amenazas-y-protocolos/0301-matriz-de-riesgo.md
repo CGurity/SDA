@@ -4,8 +4,10 @@ sectionclass: h2
 title: Modelo de amenazas y matriz de riesgo
 parent-id: 03-modelo-de-amenazas-y-protocolos
 ---
-### Justificación
+Tiempo estimado: XX min
 
+### Justificación
+La idea de esta actividad es introducir el concepto de análisis de riesgo a la organización y utilizar una abstracción de la metodología de matrices de riesgo para hacer un primer analisis del contexto de seguridad de la organización, el cual será utilizado para seleccionar escenarios de seguridad para elaborar procedimientos de seguridad en la segunda actividad.
 
 ### Datos de entrada
 * Niveles de consecuencias desarrollados en la actividad de Mapeo y clasificación de información de la sección 1
@@ -17,13 +19,6 @@ parent-id: 03-modelo-de-amenazas-y-protocolos
   * Mejor entendimiento de los posibles escenarios adversos por los que puede atravesar la organización
   * Mejores criterios de categorización colectiva de amenazas posibles
   * Mejores criterios de priorización de amenazas potenciales para su atención y establecimiento de controles de seguridad
-
-### Actividades propuestas
-
-#### Creación de una matriz de riesgo
-Tiempo estimado: XX min
-
-sss
 
 ##### Preparación previa
 * En caso de realizar la actividad en digital, se sugiere disponer de una hoja de cálculo u otro software con todos los campos y formatos necesarios.

@@ -1,9 +1,10 @@
 ---
 sectionid: 01-01-documentacion-de-objetivos-de-la-organizacion
 sectionclass: h2
-title: Documentación de los objetivos de la organización
+title: Lluvia de ideas y validación de objetivos formales
 parent-id: 01-fundacion
 ---
+Tiempo estimado: 15 min
 
 ### Justificación
 Esta actividad busca poner a todo el grupo en la misma página en cuanto a las razones de ser de la organización y las metas que persigue. En el caso de las organizaciones de activismo, este puede ser un momento propicio para afianzar los conceptos y valores de justicia social que motivan al grupo para hacer el trabajo que hacen. En el caso de los medios de comunicación se pueden afianzar los valores de acceso a la información veraz y libertad de expresión que motivan a los periodistas a ejercer su labor.
@@ -19,12 +20,6 @@ Este apartado busca que los participantes dejen a un lado el estrés producido p
 * **Indirectos**
   * Conciencia colectiva en función a los objetivos de la organización.
   * Similitudes o discrepancias entre la percepción del equipo y la función formal de la organización.
-
-### Actividades propuestas
-
-#### Lluvia de ideas y validación de objetivos formales
-
-Tiempo estimado: 15 min
 
 ##### Preparación previa
 Ubicar si existe de forma pública, misión, visión, y objetivos de la organización y preparar el material correspondiente.
@@ -47,6 +42,9 @@ Dependiendo de la cantidad de participantes y de la comodidad del facilitador, s
 
   En cualquier caso, no es responsabilidad del facilitador iniciar una discusión a fondo sobre estas diferencias, sino invitar a la reflexión y a la revisión en un momento adecuado para la organización, manteniendo un lenguaje amigable y respetuoso al reconocer el valor que tuvo el ejercicio. Para esta metodología saber cómo funciona la organización **hoy** es suficiente para continuar con las actividades, por lo que dichas discrepancias no deberían afectar el éxito de la sesión de trabajo.
 
+##### Cierre de la actividad
+Al finalizar la actividad se puede discutir y hacer énfasis en lo que se logró:
+* Se comparó lo que hay escrito sobre la organización con la misión y las metas que los integrantes perciben en la práctica.
 
 ### Referencias
 * [A Step-by-Step Exercise for
