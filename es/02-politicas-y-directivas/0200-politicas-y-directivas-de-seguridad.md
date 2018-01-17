@@ -29,6 +29,7 @@ parent-id: 01-fundacion
 * Uso de teléfonos celulares al manejar
 * Violencia en el lugar de trabajo
 * Política de armas
+* Change management
 
 
 https://www.sans.org/security-resources/policies

@@ -69,13 +69,13 @@ sss
   Esta redacción puede adaptarse para considerar amenazas sin adversarios o eventos claros, así como cualquier otra variación de las amenazas que no cubren directamente estas propuestas de redacción
 
 2. Pedir a los participantes que piensen en amenazas sobre la organización, tomar nota de estas y colocarlas de forma visible para todos
-  ![## Gráfico](../img/bocetos-sda-0301-1.png)
+  ![## Gráfico](../img/0301/bocetos-sda-0301-1.png)
 3. Con todas las amenazas en un mismo sitio, utilizar los niveles de impacto desarrollados en la actividad de *Mapeo y clasificación de información* y colocarlos como el eje vertical de una matriz y con la ayuda de los participantes asignar a cada amenaza un nivel de impacto y ubicar la nota adhesiva o equivalente a la altura del nivel de impacto seleccionado
   * Se sugiere además de colocar los niveles de impacto cualitativos definidos anteriormente, también colocar una escala numérica como se muestra en el gráfico, esta puede ayudar a a cuantificar el nivel de riesgo luego de completar la actividad
-  ![## Gráfico](../img/bocetos-sda-0301-2.png)
+  ![## Gráfico](../img/0301/bocetos-sda-0301-2.png)
   Agregando los niveles de impacto
 
-  ![## Gráfico](../img/bocetos-sda-0301-3.png)
+  ![## Gráfico](../img/0301/bocetos-sda-0301-3.png)
   Reorganizando las amenazas
 
 4. Plantear el concepto de probabilidad de ocurrencia y definir una escala para representarla en nuestra matriz de riesgo, colocándola en el eje horizontal de la matriz y con la ayuda del grupo reorganizando las amenazas para que coincidan no solo con la escala de impacto sino tambien con la probabilidad de ocurrencia seleccionada en cada caso, completando la matriz de riesgo de la organización, como se muestra en el gráfico
@@ -83,10 +83,10 @@ sss
     * Probabilidad baja, media y alta
     * Probabilidad nula, baja, alta y certeza de ocurrencia
     * Escala del 1 al 5
-    ![## Gráfico](../img/bocetos-sda-0301-4.png)
+    ![## Gráfico](../img/0301/bocetos-sda-0301-4.png)
     Agregando los niveles de probabilidad de ocurrencia
 
-    ![## Gráfico](../img/bocetos-sda-0301-5.png)
+    ![## Gráfico](../img/0301/bocetos-sda-0301-5.png)
     Reorganizando las amenazas
 
 7. Discutir sobre niveles de riesgo presentes en la matriz y realizar una lectura del contexto de seguridad de la organización a través de esta herramienta
@@ -95,7 +95,7 @@ sss
   * Este ejercicio tiene como resultado un análisis **subjetivo** por parte de los miembros de la organización, por ningún motivo representa un análisis riguroso y preciso del contexto de riesgo de la organización. Incluso si el mismo equipo repitiera la actividad al día siguiente pudiera resultar una matriz de riesgo diferente
   * Esta matriz de riesgo, asi como cualquier otro insumo que represente el contexto de riesgo de la organización, es un insumo **temporal** que no considera que los riesgos cambian a través del tiempo. Es muy importante hacer énfasis con los participantes que esta matriz representa "una foto" del estado de riesgo para ese momento en particular, y que la invitación es a repetir este ejercicio periódicamente para actualizar esta representación obtenida.
 
-  ![## Gráfico](../img/bocetos-sda-0301-6.png)
+  ![## Gráfico](../img/0301/bocetos-sda-0301-6.png)
   Agregando los niveles de impacto
 
 ##### Cierre de la actividad

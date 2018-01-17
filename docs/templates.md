@@ -1,8 +1,11 @@
 ---
 Front Matter
 ---
-### Justificación
+# Título de la actividad propuesta
+Tiempo estimado: 15 min
 
+### Justificación
+texto
 
 ### Datos de entrada
 *
@@ -12,12 +15,6 @@ Front Matter
   *
 * Indirectos
   *
-
-### Actividades propuestas
-
-#### Lluvia de ideas y validación de objetivos formales
-
-Tiempo estimado: 15 min
 
 ##### Preparación previa
 
@@ -29,6 +26,7 @@ Tiempo estimado: 15 min
 1.
 
 ##### Cierre de la actividad
+texto
 
 ### Referencias
 *

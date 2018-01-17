@@ -48,7 +48,7 @@ Una vez relacionados los objetivos de la organización en la actividad anterior,
   * Aliados
   * Aliados activos
 
-    ![espectro-de-actores-holistic](https://holistic-security.tacticaltech.org/ckeditor_assets/pictures/24/content_spectrumallies.png)
+    ![espectro-de-actores-holistic](../img/0102/boceto-sda-xxxx.png)
     (pie de foto)
 
     Si el grupo y el facilitador lo consideran necesario, podrán dedicar unos minutos a discutir acerca de los criterios por los cuales se desarrollarían las categorías a estudiar.
@@ -71,4 +71,4 @@ Es importante que el mapa obtenido se encuentre disponible para futuras activida
 ### Referencias
 * [Holistic Security: 2.3 Vision, Strategy and Actors](https://holistic-security.tacticaltech.org/chapters/explore/2-3-vision-strategy-and-actors)
 * [Security First: ChampionsCurriculum](https://github.com/securityfirst/championscurriculum/blob/master/communications.md)
-* * 
+* *
