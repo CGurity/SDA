@@ -1,9 +1,10 @@
 ---
 sectionid: 01-01-documentacion-de-objetivos-de-la-organizacion
 sectionclass: h2
-title: Documentación de los objetivos de la organización
+title: Lluvia de ideas y validación de objetivos formales
 parent-id: 01-fundacion
 ---
+Tiempo estimado: 15 min
 
 ## Lluvia de ideas y validación de objetivos formales de la organizacion
 
@@ -24,8 +25,12 @@ Este apartado busca que los participantes dejen a un lado el estrés producido p
   * Conciencia colectiva en función a los objetivos de la organización.
   * Similitudes o discrepancias entre la percepción del equipo y la función formal de la organización.
 
+<<<<<<< HEAD
 
 ### Preparación previa
+=======
+##### Preparación previa
+>>>>>>> d98a881b3980bf3b900b0239ac30a753bada3074
 Ubicar si existe de forma pública, misión, visión, y objetivos de la organización y preparar el material correspondiente.
 
 ### Materiales
@@ -46,6 +51,9 @@ Dependiendo de la cantidad de participantes y de la comodidad del facilitador, s
 
   En cualquier caso, no es responsabilidad del facilitador iniciar una discusión a fondo sobre estas diferencias, sino invitar a la reflexión y a la revisión en un momento adecuado para la organización, manteniendo un lenguaje amigable y respetuoso al reconocer el valor que tuvo el ejercicio. Para esta metodología saber cómo funciona la organización **hoy** es suficiente para continuar con las actividades, por lo que dichas discrepancias no deberían afectar el éxito de la sesión de trabajo.
 
+##### Cierre de la actividad
+Al finalizar la actividad se puede discutir y hacer énfasis en lo que se logró:
+* Se comparó lo que hay escrito sobre la organización con la misión y las metas que los integrantes perciben en la práctica.
 
 ### Referencias
 * [A Step-by-Step Exercise for
