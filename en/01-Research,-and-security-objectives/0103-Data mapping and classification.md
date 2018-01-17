@@ -87,7 +87,7 @@ These types of consequences are just hints. In case of requiring simplify this e
 
   ## Graphic evolved from the previous one with examples of consequences
 
-5. After compiling a number consequences of each type, the idea of grading mapped consequences according to their level of impact is introduced, then it is later suggested to create a vertical axis that represents null, low, medium and high impacts. In the event that the facilitator and the team feel comfortable about it, you can change this scale to any other considered convenient (from 1 to 10, add to the proposal critical impact, etc.). After creating this axis, we proceed to locate the threats mapped into those different categories with the support of the team, as shown in the figure.
+5. After compiling a number consequences of each type, the idea of grading mapped consequences according to their level of impact is introduced, then is later suggested to create a vertical axis that represents null, low, medium and high impacts. In the event that the facilitator and the team feel comfortable about it, you can change this scale to any other considered convenient (from 1 to 10, add to the proposal critical impact, etc.). After creating this axis, we proceed to locate the threats mapped into those different categories with the support of the team, as shown in the figure.
 
   ## Graphic evolved for the development of the consequences matrix
 
