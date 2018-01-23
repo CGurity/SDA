@@ -14,7 +14,7 @@ La idea de esta actividad es complementar las políticas desarrolladas anteriorm
 
 ### Productos
 * Directos
-  * Procedimiento de seguridad inicial para uno o dos escenarios puntuales seleccionados
+  * Procedimiento de seguridad inicial para uno o dos escenarios puntuales seleccionados.
 * Indirectos
   * Herramientas para desarrollar cualquier otro procedimiento de seguridad faltante por parte de la organización.
   * Mejor entendimiento de la importancia de las comunicaciones internas, externas y de la sucesión de responsabilidades durante la atención de incidentes de seguridad.
@@ -24,7 +24,7 @@ La idea de esta actividad es complementar las políticas desarrolladas anteriorm
 
 ### Materiales
 * Pliegos de papel grandes para pegar en la pared.
-* Notas adhesivas (preferíblemente de varios colores).
+* Notas adhesivas (preferiblemente de varios colores).
 * Marcadores para escribir en las notas adhesivas.
 
 ### Instrucciones
@@ -62,7 +62,7 @@ La idea de esta actividad es complementar las políticas desarrolladas anteriorm
 ### Cierre de la actividad
 Al finalizar la actividad se puede discutir y hacer énfasis en lo que se logró:
 * Se elaboraron procedimientos reales para incidentes específicos.
-* Se asociaron los pasos del procedimiento con encargados y sucesores en caso de no estra disponible.
+* Se asociaron los pasos del procedimiento con encargados y sucesores en caso de no estar disponible.
 * Se integró un plan de comunicaciones externas al procedimiento.
 * Se establecieron las bases de comunicaciones internas durante incidentes.
 * Se exploraron los pasos para construir procedimientos de seguridad con la metodología utilizada.
