@@ -4,7 +4,7 @@ sectionclass: h2
 title: Modelo de amenazas y matriz de riesgo
 parent-id: 03-modelo-de-amenazas-y-protocolos
 ---
-Tiempo estimado: XX min
+Tiempo estimado: 120 min
 
 ### Justificación
 La idea de esta actividad es introducir el concepto de análisis de riesgo a la organización y utilizar una abstracción de la metodología de matrices de riesgo para hacer un primer analisis del contexto de seguridad de la organización, el cual será utilizado para seleccionar escenarios de seguridad y asi elaborar procedimientos pertinentes al caso en la segunda actividad.
@@ -42,24 +42,28 @@ La idea de esta actividad es introducir el concepto de análisis de riesgo a la 
   Por lo general, es más fácil para los participantes usar una estructura en la redacción de amenazas similares a estas:
   > [Algo malo pasa]
 
-  1. Ausencia del director.
-  2. Ladrones entran a la oficina.
+  **A.** Ausencia del director.
+  
+  **B.** Ladrones entran a la oficina.
 
   > Que [algo malo le pase a algún recurso o actor vinculado a la organización]
 
-  1. Que hackeen la cuenta de Twitter.
-  2. Que se pierda el acceso a las cuentas bancarias.
+ **A.** Que hackeen la cuenta de Twitter.
+ 
+ **B.** Que se pierda el acceso a las cuentas bancarias.
 
   Sin embargo, en algunas ocasiones esta forma de construir las amenazas puede resultar tan vaga que no representen posibles eventos sino otras cosas, como por ejemplo vulnerabilidades o ausencia de medidas de seguridad. En ese sentido se recomienda a los facilitadores *asegurarse de que la redacción de las amenazas a lo largo del ejercicio corresponda a eventos*. Si el facilitador lo considera conveniente, puede plantear una estructura de redacción que ayude a disminuir errores, por ejemplo:
   > Que [un actor] [ejecute una acción] a/sobre [un recurso] [provocando ciertas consecuencias – opcional]
 
-  1. Que un hacker introduzca un malware en la computadora del director de la organización.
-  2. Que el organismo de Inteligencia de mi país monitoree las llamadas telefónicas con las fuentes periodísticas exponiendo la integridad física de estas.
+ **A.** Que un hacker introduzca un malware en la computadora del director de la organización.
+ 
+ **B.**  Que el organismo de Inteligencia de mi país monitoree las llamadas telefónicas con las fuentes periodísticas exponiendo la integridad física de estas.
 
   > Que [un evento] [ejerza una acción] a/sobre [un recurso][provocando ciertas consecuencias – opcional]
 
-  1. Que ocurra un terremoto de 7.5 o más, destruyendo el datacenter de la empresa donde se aloja la página web.
-  2. Que un apagón deje sin electricidad a la oficina imposibilitando el trabajo en las computadoras.
+  **A.** Que ocurra un terremoto de 7.5 o más, destruyendo el datacenter de la empresa donde se aloja la página web.
+  
+ **B.** Que un apagón deje sin electricidad a la oficina imposibilitando el trabajo en las computadoras.
 
   Esta redacción puede adaptarse para considerar amenazas sin adversarios o eventos claros, así como cualquier otra variación de las amenazas que no cubren directamente estas propuestas de redacción.
 
@@ -84,7 +88,7 @@ La idea de esta actividad es introducir el concepto de análisis de riesgo a la 
     ![## Gráfico](../img/0301/bocetos-sda-0301-5.png)
     Reorganizando las amenazas.
 
-7. Discutir sobre niveles de riesgo presentes en la matriz y realizar una lectura del contexto de seguridad de la organización a través de esta herramienta.
+5. Discutir sobre niveles de riesgo presentes en la matriz y realizar una lectura del contexto de seguridad de la organización a través de esta herramienta.
   * Es esencial que los participantes tengan claro que las amenazas más importantes para atender deben ser aquellas que tienen altos niveles de impacto y altas probabilidades de ocurrencia asociados (en este caso aquellas más cercanas a la esquina superior derecha de la matriz).
   * En el caso de querer hacer un análisis cuantitaivo de los niveles de riesgo habiendo usado escalas numéricas en los niveles de impacto y probabilidad de ocurrencia, bastará con multiplicar estos valores para cada amenaza y ordenar de mayor a menor los resultados obtenidos (niveles de riesgo).
   * Este ejercicio tiene como resultado un análisis **subjetivo** por parte de los miembros de la organización, por ningún motivo representa un análisis riguroso y preciso del contexto de riesgo de la organización. Incluso si el mismo equipo repitiera la actividad al día siguiente pudiera resultar una matriz de riesgo diferente.

@@ -8,7 +8,7 @@ parent-id: 01-fundacion
 The main idea of this activity is to complete the information about the organization, and thus redirect it towards its sensitivity. In the process, the bases that will easily allow the construction of the first security policies for the organization will be established.
 
 ### Input data
-* Stakeholders map.
+* Stakeholder map.
 
 ### Products
 * Direct
@@ -37,7 +37,7 @@ The idea behind this activity is to map all the data objects that the organizati
 * In case of doing the activity in digital equipment:
   * Computer.
   * Projector.
-  * Spreadsheet ready to fill, showing the headings with stakeholders categories.
+  * Spreadsheet ready to fill, showing the headings with stakeholder categories.
 
 ### Instructions
 1. Brainstorm the pieces of information that the organization manages. It might include complaints from victims, leaked documents, research in process, accounting books, social media publications and/or public reports. No piece of legitimate information is of little relevance to this exercise.
@@ -48,10 +48,10 @@ The idea behind this activity is to map all the data objects that the organizati
 
   ![Gráfico con notas de ejemplo](../img/0103-1.jpg)
 
-2. Along with the pieces of information in view, briefly explain the concepts of Availability, Integrity and Confidentiality, which are frequently used in information security to explain the different types of commitment to information. It is suggested to develop concise concepts and review other references to have a broader understanding:
+2. Along with the pieces of information into view, briefly explain the concepts of Availability, Integrity and Confidentiality, which are frequently used in information security to explain the different types of commitment to information. It is suggested to develop concise concepts and review other references to have a broader understanding:
    * **Availability:** It is the ability to always be within reach of those who need it. For example, when a server runs out of power, it threatens the availability of the information contained in it.
    *  **Integrity:** Is the ability to be reliable, in the sense that its content has not been manipulated or altered by a third party. For example, for a malicious third party to take a database of victims and modify the information is considered a threat to the integrity.
-   * **Confidentiality:** It is the ability to be accessible only to those who correspond by definition. For example, when a third party can read emails that are sent by two people, it is considered a threat to the confidentiality of the information transmitted by the mail.
+   * **Confidentiality:** It is the ability to be accessible only to those who correspond by definition. For example, when a third party can read emails that are sent by two people, it is considered a threat to the confidentiality of the information transmitted by mail.
 
   ![Gráfico CIA](../img/0103-2.jpg)
 
@@ -61,19 +61,19 @@ The idea behind this activity is to map all the data objects that the organizati
   The point here is to generate a matrix in whose horizontal axis corresponds to this classification of consequences, a complete proposal (or simplified depending on the facilitator and the group) can be found below:
 
    * **Digital consequences:** That affects the organization's online presence, e.g., related to social media, servers, mail accounts, services used by the internal team, etc.
-   * **Physical consequences:** Are those related to integrity of people, objects and spaces, e.g., physical aggression, death, destruction of spaces, loss of resources, etc.
-   * **Emotional consequences:** Are those related to the psychosocial well-being of people involved with the organization, this not only includes the team but also providers, beneficiaries, victims, etc. Frequently, some stakeholders are related to situations that create fears, stress, fatigue and traumas.
+   * **Physical consequences:** Are those related to the integrity of people, objects and spaces, e.g., physical aggression, death, destruction of spaces, loss of resources, etc.
+   * **Emotional consequences:** Are those related to the psychosocial well-being of people involved with the organization, this not only includes the team, but also providers, beneficiaries, victims, etc. Frequently, some stakeholders are related to situations that create fears, stress, fatigue and traumas.
    * **Legal consequences:** Those that affect the judicial integrity of people associated with the organization. Usually, they are related to arrests, withholdings, legal investigations, trials, etc.
    * **Administrative consequences:** Are those related to the legal status of organizations and people beyond the judicial field. Frequently related to compliance with regulations, taxes, surveillance, loss of legal status, infractions of laws, etc.
    * **Economic consequences:** Are those directly related to the loss of money and assets by the organization and/or its members.
 
-These types of consequences are just hints. In case of requiring simplify this exercise, some of the proposed axes might be explicitly combined or excluded, even if the team considers it pertinent, new types may be added. For example, image or religious consequences (if applicable).
+These types of consequences are just hints. In case of requiring simplified this exercise, some of the proposed axes might be explicitly combined or excluded, even if the team considers it pertinent, new types may be added. For example, image or religious consequences (if applicable).
 
-4. Once you have clear understanding of all sort of consequences, it is suggested to ask the participants to think about possible consequences of the commitment to pieces of information mapped in terms of availability, integrity and confidentiality, take notes of these and place them on sticky notes or onto their  digital equivalent below the type of consequence to which it belongs (digital, physical, legal, etc.)
-* It is often and expected that many consequences are repeated, in these cases with the post-it or equivalent already existing will be enough.
+4. Once you have a clear understanding of all sorts of consequences, it is suggested to ask the participants to think about possible consequences of the commitment to pieces of information mapped in terms of availability, integrity and confidentiality, take note of these and place them on sticky notes or onto their  digital equivalent below the type of consequence to which it belongs (digital, physical, legal, etc.)
+* It is often expected that many consequences are repeated, in these cases with the Post-it or equivalent already existing will be enough.
  
 * Thinking about availability, integrity and confidentiality is an aid to facilitate discussion and brainstorming of consequences, however, if the team feels comfortable on it, raising the possible consequences in other terms might work as well without  any problem as long as they can be prioritized in the next step.
-* It is spected that commitment to a piece of information may have consequences on more than one axis.
+* It is expected the commitment to a piece of information may have consequences on more than one axis.
 * Some examples of consequences can be:
   * Loss of legal status of the organization (administrative consequence).
   * Death of complainants (physical consequence).
@@ -87,11 +87,11 @@ These types of consequences are just hints. In case of requiring simplify this e
 
   ## Graphic evolved from the previous one with examples of consequences
 
-5. After compiling a number consequences of each type, the idea of grading mapped consequences according to their level of impact is introduced, then is later suggested to create a vertical axis that represents null, low, medium and high impacts. In the event that the facilitator and the team feel comfortable about it, you can change this scale to any other considered convenient (from 1 to 10, add to the proposal critical impact, etc.). After creating this axis, we proceed to locate the threats mapped into those different categories with the support of the team, as shown in the figure.
+5. After compiling a number consequences of each type, the idea of grading mapped consequences, according to their level of impact is introduced, then is later suggested to create a vertical axis that represents null, low, medium and high impacts. In the event that the facilitator and the team feel comfortable about it, you can change this scale to any other considered convenient (from 1 to 10, add to the proposed critical impact, etc.). After creating this axis, we proceed to locate the threats mapped into those different categories with the support of the team, as shown in the figure.
 
-  ## Graphic evolved for the development of the consequences matrix
+  ## Graphic evolved in the development of the consequence matrix
 
-Take into consideration:
+Take this into consideration:
 * It is possible to end up with some blank spaces, depending on the case it is worthwhile asking the team what consequences are missing in those spaces. In the case of low or null impact it is not mandatory to place direct consequences, this can be explained by the fact that everything that is considered below the consequence with the least impact is irrelevant.
 * This part of the activity should own an adequate amount of time since it represents the pillar of the first security policy of the organization (data classification).
 

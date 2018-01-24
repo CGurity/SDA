@@ -4,13 +4,13 @@ sectionclass: h1
 title: Model-of-threats
 ---
 ### Threats model
-La idea en esta etapa es usar los insumos de la primera fase para levantar una matriz de riesgo que considere las amenazas a las cuales se enfrenta la organización, y así validar que los objetivos de seguridad, el mapa de actores y el  mapa de datos sean consistentes con lo que se está documentando en este analisis. Tambien se busca confirmar que las políticas base de seguridad sean capaces de mitigar cualquier amenaza.
+The idea behind this is to use inputs of the first phase to build a risk matrix that considers the threats that the organization faces, and thus validate that security objectives, map of stakeholders and data mapping are consistent with all that is being documented throughout this analysis. It also seeks to confirm that basic security policies are capable of mitigating any possible threat.
 
 ### Protocols
-Dependiendo de las amenazas detectadas en la fase 2, el equipo de trabajo podrá decidir cuáles de estas requieren la elaboración de un protocolo de emergencia en el caso de que se concreten. Para cada una de ellas elaborar al menos:
+Depending on the threats detected in phase 2, the work team will be able to decide which of these may require the assignment of an emergency protocol. For each one of them elaborate at least:
 
-	A. Plan de sucesión: cómo quedan distribuidas las responsabilidades durante la emergencia.
-	B. Pasos a seguir: secuencia de actividades que conforman el protocolo.
-	C. Plan de comunicación: definir quienes dentro del equipo comunican qué a ciertos actores externos durante la emergencia, también debe comprender los medios de comunicación interna del equipo.
-	D. Documentación de evidencia: para cada caso, qué se puede recopilar y cómo, para que sirva de insumo interno, para análisis posterior, evidencia judicial o información que ayude a recuperarse del incidente.
-	E. Frecuencia de revisión del protocolo.
+	A. Succession planning: how responsibilities are distributed during the emergency.
+	B. Steps to follow: sequence of activities followed to execute the protocol.
+	C. Communication plan: defining who within the team communicates what to certain external actors during the emergency, must also understand the internal communication means of the team.
+	D. Documentation of evidence: for each case, what can be collected and how, to serve as an internal input, for further analysis, judicial evidence or information to help recover from the incident.
+	E. Frequency of protocol revision.

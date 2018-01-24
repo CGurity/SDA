@@ -1,104 +1,105 @@
 ---
-sectionid: 03-01-matriz-de-riesgo
+sectionid: 03-01-Risk-matrix
 sectionclass: h2
-title: Modelo de amenazas y matriz de riesgo
-parent-id: 03-modelo-de-amenazas-y-protocolos
+title: Threats-model-and-risk-matrix
+parent-id: 03-Threats-model-and-protocol
 ---
-Tiempo estimado: XX min
+Estimated time: XX min
 
-### Justificación
-La idea de esta actividad es introducir el concepto de análisis de riesgo a la organización y utilizar una abstracción de la metodología de matrices de riesgo para hacer un primer analisis del contexto de seguridad de la organización, el cual será utilizado para seleccionar escenarios de seguridad y asi elaborar procedimientos pertinentes al caso en la segunda actividad.
+### Justification
+The idea of this activity is introducing the concept of risk analysis of the organization and also to use an abstraction of the risk matrix methodology to make a first analysis of the organization's security context, which will be used to select security scenarios in order to elaborate procedures to the case in the second activity.
 
-### Datos de entrada
-* Niveles de consecuencias desarrollados en la actividad de Mapeo y clasificación de información en la sección 01.
+### Input data
+* Levels of consequences developed in activity data mapping and classification in section 01.
 
-### Productos
-* Directos
-  * Listado de amenazas posibles a la organización priorizado por impacto posible y probabilidad de ocurrencia estimada por el equipo.
-* Indirectos
-  * Mejor entendimiento de los posibles escenarios adversos por los que puede atravesar la organización.
-  * Mejores criterios de categorización colectiva de amenazas posibles.
-  * Mejores criterios de priorización de amenazas potenciales para su atención y establecimiento de controles de seguridad.
+### Products
+* Direct
+  * List of possible threats to the organization prioritized by possible impact and probability of occurrence estimated by the team.
+* Indirect
+  * Better understanding of possible adverse scenarios through which the organization might undergo.
+  * Better criteria for collective categorization of possible threats.
+  * Better criteria of prioritization of potential threats and establishment of security controls.
 
-### Preparación previa
-* En caso de realizar la actividad en digital, se sugiere disponer de una hoja de cálculo u otro software con todos los campos y formatos necesarios.
+### Previous planning
+* In case of carrying out the activity in digital, it is suggested to have a spreadsheet or other software with all the necessary fields and formats.
 
-### Materiales
-* En caso de realizar la actividad en físico:
-  * Notas adhesivas y marcadores o
-  * Piezas grandes de papel para pegar en la pared y marcadores
-* En caso de realizar la actividad en digital:
-  * Computadora
-  * Proyector
-  * Hoja de cálculo u otro software con los campos y formatos necesarios.
+### Materials
+* In case of doing the activity on paper:
+  * Post-its or sticky notes and markers or
+  * Large pieces of paper to stick on the wall and markers.
+* In case of doing the activity in digital equipment:
+  * Computer.
+  * Projector.
+  * Spreadsheet ready to fill, showing the headings with stakeholder categories. 
 
-### Instrucciones
-1. Introducir al grupo el concepto de amenaza (**Posible evento negativo** ocurrido a un recurso determinado), considerando los siguientes aspectos:
-  * Estas pueden tener causas humanas y no humanas (desastres naturales, reacciones espontáneas, desgaste y malfunciones no programadas, etc.).
-  * Estas pueden ser intencionales o accidentales.
-  * Estas pueden ser provocadas o fortuitas.
-  * Estas pueden afectar a recursos físicos, digitales, humanos, legales y administrativos entre otros. De hecho muchas organizaciones consideran la afectación de su imagen y posicionamiento como un recurso, siendo una consideración válida dentro del ejercicio.
 
-  Por lo general, es más fácil para los participantes usar una estructura en la redacción de amenazas similares a estas:
-  > [Algo malo pasa]
+### Instructions
+1. Introduce to the group the concept of threat (**Possible negative event** occurred to a given resource), considering the following aspects:
+* These can occur by human and non-human causes (natural disasters, spontaneous reactions, wear and unscheduled malfunctions, etc.).
+* These can be intentional or accidental.
+* These can be provoked or fortuitous.
+* These can affect physical, digital, human, legal and administrative resources among others. In fact, many organizations consider the affectation of their image and positioning as a resource, being a valid consideration within the exercise.
 
-  1. Ausencia del director.
-  2. Ladrones entran a la oficina.
+In general, it seems easier for participants to use a structure in the wording of threats similar to these:
+  > [Something is wrong]
 
-  > Que [algo malo le pase a algún recurso o actor vinculado a la organización]
+  1. Absence of the director.
+  2. Thieves break in the office.
 
-  1. Que hackeen la cuenta de Twitter.
-  2. Que se pierda el acceso a las cuentas bancarias.
+  > [Something bad happens to some resource or stakeholder linked to the organization]
 
-  Sin embargo, en algunas ocasiones esta forma de construir las amenazas puede resultar tan vaga que no representen posibles eventos sino otras cosas, como por ejemplo vulnerabilidades o ausencia de medidas de seguridad. En ese sentido se recomienda a los facilitadores *asegurarse de que la redacción de las amenazas a lo largo del ejercicio corresponda a eventos*. Si el facilitador lo considera conveniente, puede plantear una estructura de redacción que ayude a disminuir errores, por ejemplo:
-  > Que [un actor] [ejecute una acción] a/sobre [un recurso] [provocando ciertas consecuencias – opcional]
+  1. The twitter account has been hacked.
+  2. Access to the bank account is lost.
 
-  1. Que un hacker introduzca un malware en la computadora del director de la organización.
-  2. Que el organismo de Inteligencia de mi país monitoree las llamadas telefónicas con las fuentes periodísticas exponiendo la integridad física de estas.
+ However, sometimes this way of building threats can be so vague that they do not represent possible events, but other things such as vulnerabilities or lack of security measures. In this regard, facilitators are recommended *to ensure that the wording of threats throughout the exercise corresponds to events*. If the facilitator deems it appropriate, a drafting structure can be proposed that helps reduce errors, for example:
+  > [A stakeholder] [execute an action] to/about [a resource] [provoking certain consequences – optional]
 
-  > Que [un evento] [ejerza una acción] a/sobre [un recurso][provocando ciertas consecuencias – opcional]
+  1. A hacker introduces a malware into the computer of the organization's director.
+  2. The intelligence agency of my country monitors telephone calls from journalistic sources exposing the physical integrity of those. 
 
-  1. Que ocurra un terremoto de 7.5 o más, destruyendo el datacenter de la empresa donde se aloja la página web.
-  2. Que un apagón deje sin electricidad a la oficina imposibilitando el trabajo en las computadoras.
+  > [A event] [make an action] to/about [a resource][provoking certain consequences – optional]
 
-  Esta redacción puede adaptarse para considerar amenazas sin adversarios o eventos claros, así como cualquier otra variación de las amenazas que no cubren directamente estas propuestas de redacción.
+  1.  An earthquake measuring 7.5 on the Richter scale or more occurs, destroying the data center of the company where the website is hosted.
+  2. A blackout leaves the office without electricity, making it impossible to work on computers.
 
-2. Pedir a los participantes que piensen en amenazas para la organización, tomar nota de estas y colocarlas de forma visible para todos.
+  This wording can be adapted to consider threats without adversaries or clear events, as well as any other variation of threats that do not directly cover these drafting proposals.
+
+2. Ask the participants to think about threats to the organization, take note and place them visible for everyone.
   ![## Gráfico](../img/0301/bocetos-sda-0301-1.png)
-3. Con todas las amenazas en un mismo sitio, utilizar los niveles de impacto desarrollados en la actividad de *Mapeo y clasificación de información* y colocarlos como el eje vertical de una matriz, luego con la ayuda de los participantes asignar a cada amenaza un nivel de impacto ubicando la nota adhesiva o equivalente a la altura del nivel de impacto seleccionado.
-  * Se sugiere además de colocar los niveles de impacto cualitativos definidos anteriormente, disponer de una escala numérica como se muestra en el gráfico. Esto puede ayudar a cuantificar el nivel de riesgo luego de completar la actividad.
+3. With all the threats in one place, use levels of impact development in the activity *Data mapping and classification* and place them as the vertical axis of a matrix, then along with the help of participants assign each threat a level of impact locating the sticky note or equivalent to the height of the selected impact level.
+* It is also suggested to place the qualitative impact levels defined above, then put a numerical scale as shown in the graph. This can help quantifying the level of risks after completing the activity.
   ![## Gráfico](../img/0301/bocetos-sda-0301-2.png)
-  Agregando los niveles de impacto.
+  Adding impact levels.
 
   ![## Gráfico](../img/0301/bocetos-sda-0301-3.png)
-  Reorganizando las amenazas.
+  Rearranging threats.
 
-4. Plantear el concepto de probabilidad de ocurrencia y definir una escala para representarla en la matriz de riesgo elaborada. Reorganizar en el eje horizontal con la ayuda del grupo las amenazas de tal modo que coincidan no solo con la escala de impacto sino tambien con la probabilidad de ocurrencia seleccionada en cada caso, completando la matriz de riesgo de la organización, como se muestra en el gráfico.
-  * En los gráficos se sugiere una escala del 1 al 10, esta puede ser cambiada por otro tipo de escalas como por ejemplo las descritas abajo. Sin embargo, si se quiere hacer un análisis numérico de las amenazas es necesario que la escala también sea numérica e igual a la escala utilizada para los niveles de riesgo,
-    * Probabilidad baja, media y alta.
-    * Probabilidad nula, baja, alta y certeza de ocurrencia.
-    * Escala del 1 al 5.
+4. Explain the concept of occurrence probability and define a scale to represent it onto the risk matrix. Reorganize the threats on the horizontal axis with the help of the group in such a way that they coincide not only with the impact scale but also with the probability of occurrence selected in each case, completing the risk matrix of the organization, as shown in graphic.
+  * In the graphics a scale of 1 to 10 is suggested, this can be changed by another type of scales such as those described below. However, if you want to make a numerical analysis of the threats it is necessary that the scale is also numerically and equal to the scale used for the risk levels,
+    * Low, medium and high probability.
+    * Null, low, high probability and certainty of occurrence.
+    * Scale from 1 to 5.
     ![## Gráfico](../img/0301/bocetos-sda-0301-4.png)
-    Agregando los niveles de probabilidad de ocurrencia.
+   Adding occurrence probability levels.
 
     ![## Gráfico](../img/0301/bocetos-sda-0301-5.png)
-    Reorganizando las amenazas.
+  Rearranging threats.
 
-7. Discutir sobre niveles de riesgo presentes en la matriz y realizar una lectura del contexto de seguridad de la organización a través de esta herramienta.
-  * Es esencial que los participantes tengan claro que las amenazas más importantes para atender deben ser aquellas que tienen altos niveles de impacto y altas probabilidades de ocurrencia asociados (en este caso aquellas más cercanas a la esquina superior derecha de la matriz).
-  * En el caso de querer hacer un análisis cuantitaivo de los niveles de riesgo habiendo usado escalas numéricas en los niveles de impacto y probabilidad de ocurrencia, bastará con multiplicar estos valores para cada amenaza y ordenar de mayor a menor los resultados obtenidos (niveles de riesgo).
-  * Este ejercicio tiene como resultado un análisis **subjetivo** por parte de los miembros de la organización, por ningún motivo representa un análisis riguroso y preciso del contexto de riesgo de la organización. Incluso si el mismo equipo repitiera la actividad al día siguiente pudiera resultar una matriz de riesgo diferente.
-  * Esta matriz de riesgo, asi como cualquier otro insumo que represente el contexto de riesgo de la organización, es un insumo **temporal** que no considera que los riesgos cambian a través del tiempo. Es muy importante hacer énfasis con los participantes que esta matriz representa "una foto" del estado de riesgo para ese momento en particular, y que la invitación es a repetir este ejercicio periódicamente para actualizar esta representación obtenida.
+5. Discuss levels of risk present in the matrix and read the security context of the organization through this tool.
+  * It is essential that participants come clear that the most important threats to attend must be those that have high levels of impact and associated high probability of occurrence (in this case those closest to the upper right corner of the matrix).
+  * In case of wanting to perform a quantitative analysis of the risk levels, when previously has been used numerical scales in levels of impact and occurrence probability, it will be enough to multiply these values for each threat and then organize the results obtained from highest to lowest (risk levels).
+  * This exercise results in a **subjective** analysis by the members of the organization, and for no reason represents a rigorous and accurate analysis of the risk context of the organization. Even if the same team repeated the activity the next day it could result in a different risk matrix.
+  * This risk matrix, as well as any other input that represents the risk context of the organization, is a **temporary** input that does not consider risks to change over time. It is very important to emphasize with the participants that this matrix represents "a picture" of the state of risk for that particular moment, and the invitation is to repeat this exercise periodically to update this obtained representation.
 
   ![## Gráfico](../img/0301/bocetos-sda-0301-6.png)
-  Agregando los niveles de impacto.
+  Adding impact levels.
 
-### Cierre de la actividad
-Al finalizar la actividad se puede discutir y hacer énfasis en lo que se logró:
-* Se definieron criterios para la detección de amenazas, y se hizo un mapeo contenido de las amenazas actuales propuestas por el equipo.
-* Se desarrollaron criterios de estudio y priorización de las amenazas. También se emplearon estos criterios durante el ejercicio de amenazas mapeadas.
-* Se introdujo una metodología de construcción de matrices de riesgo que puede ser replicada en el futuro por la organización.
+### Closure of the activity
+At the end of the activity you can discuss and emphasize what has been achieved:
+* Criteria for the detection of threats were defined, and a map of current threats proposed by the team was made.
+* Criteria for the study and prioritization of threats were developed. These criteria were also used during the exercise of threats mapping.
+* A risk matrix building methodology was introduced, and it can be replicated in the future of the organization.
 
-### Referencias
+### References
 * SAFETAG
 * SaferJourno
