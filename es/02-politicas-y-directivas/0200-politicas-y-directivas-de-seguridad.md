@@ -24,17 +24,16 @@ Nucleación de políticas en la industria de la seguridad por simplicidad
 * Training
 
 ## Incluir en esta edición
-* 0201 Política de protección de información*
+* 0202 Política de protección de información*
   * Política de clasificación de información
   * Política de retención de datos/información
-* 0202 Política de uso aceptable de equipos
-* 0203 Política de cuentas y contraseñas
+* 0203 Política de uso aceptable de equipos
+* 0204 Política de cuentas y contraseñas
   * Política contraseñas
   * Política de uso aceptable de internet
   * Política de uso aceptable de correo
   * Política de uso de redes sociales
-* 0204 Clean desk policy
-* 0205 Política de acceso a datos (#)
+* 0205 Clean desk policy
 
 ## Wishlist para ediciones futuras (nombrar formalmente)
 * Política de offboarding
