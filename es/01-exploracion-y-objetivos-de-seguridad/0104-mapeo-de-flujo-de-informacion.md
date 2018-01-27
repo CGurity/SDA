@@ -25,23 +25,16 @@ La idea en esta actividad es entender dónde reposa la informacion, a través de
   * Criterios de selección de canales de transmisión y lugares de reposo seguros para la información.
   * Conocimiento de qué canales de transmisión y cuales lugares de reposo se deben emplear con objetos de datos existentes y nuevos.
 
-<<<<<<< HEAD
-
-### Preparación previa
-
-
 ### Materiales
-
 Notas adhesivas y marcadores o un equivalente digital al igual que en las actividades anteriores.
 * Hojas de papel grandes.
-* En caso de realizar la actividad en digital: 
+* En caso de realizar la actividad en digital:
    * Computadora
-   * Proyector 
+   * Proyector
    * Hoja de cálculo lista para llenar, mostrando los encabezados con sus categorías.
-=======
+
 ##### Preparación previa
 * En caso de realizar la actividad en digital, se sugiere disponer de una hoja de cálculo u otro software con todos los campos y formatos necesarios.
->>>>>>> d98a881b3980bf3b900b0239ac30a753bada3074
 
 
 ### Instrucciones
@@ -73,7 +66,7 @@ Notas adhesivas y marcadores o un equivalente digital al igual que en las activi
 3. Pensando en los encabezados de las columnas escritos como uno de los ejes de una matriz, colocar en el eje vertical los niveles de impacto usados en la actividad anterior:
   ![Grafico](../img/0104/bocetos-sda-0104-3.png)
   Debemos tener cuidado de utilizar los mismos niveles de impacto en caso de que hayan sido definidos de diferente forma a los propuestos en esta guía.
- 
+
 4. Preguntar por los objetos de datos en cada nivel de impacto en donde se almacenan o se transmiten. Se recomienda no tomar nota de cada objeto de datos, sino marcar cada coincidencia de nivel de impacto asociado con el lugar de almacenaje o medio de transmisión de información. idealmente se recomienda tener la matriz en una hoja grande papel que permita marcar con X en los lugares que corresponda como se muestra en el gráfico.
   * Este paso puede ser largo, hay que tomar previsiones en la planificación de la agenda.
   * Puede ayudar tener las notas adhesivas o equivalentes de la actividad anterior para los objetos de datos por nivel de impacto como guía visual para los participantes.
@@ -87,7 +80,7 @@ Notas adhesivas y marcadores o un equivalente digital al igual que en las activi
   * etc.
 
   El éxito de este paso está muy relacionado con el conocimiento que tenga el facilitador y el grupo sobre los equipos y servicios utilizados. Puede suceder que en alguna actividad aparezcan servicios que el facilitador desconoce, es importante tener la capacidad de preguntar al grupo lo que sepan y de investigar por cuenta propia cualquier consideración de seguridad pertinente al item desconocido.
-  
+
 6. Discutir con el grupo si hay canales que se consideren inseguros donde información sensible se almacene o transmita. Algunas preguntas clave pueden ser:
   * ¿Algunos de los anteriores se consideran canales inseguros?.
   * ¿Algunos de estos lugares de almacenaje es de facil acceso para personas no autorizadas?.

@@ -8,11 +8,9 @@ A juicio del faciltador y la organización algunas de estas actividades pueden r
 
 Nucleación de políticas en la industria de la seguridad por simplicidad
 
-### Conceptos en esta sección
-
-#### Política:
-
-#### Directiva:
+### Conceptos abordados en esta sección
+* **Política de seguridad:** Documento formal que recopila las estrategias de seguridad que una organización toma en ámbitos específicos de sus operaciones, brindan un panorama general del estado de la seguridad de la organización, los objetivos que persigue en términos de seguridad y criterios para determinar posibles excepciones a la política o acciones a tomar ante situaciones que escapen al alcance actual del documento.
+* **Directiva de seguridad:** Conjunto de reglas específicas que son implementadas por el equipo de trabajo y sus aliados relevantes para implementar las políticas de seguridad en el trabajo diario. Estas directivas pueden ser más concretas en el uso de herramientas y equipos específicos y pueden cambiar en el tiempo con más frecuencia.
 
 ### Secciones a considerar en todas las políticas
 
@@ -42,12 +40,13 @@ Nucleación de políticas en la industria de la seguridad por simplicidad
 * Política de compras
 * Política de plan de recuperación de desastres
 * Política de respuesta al compromiso de datos
+* * Change management
 
 ## Mencionar como políticas complementarias
 * Uso de teléfonos celulares al manejar
 * Violencia en el lugar de trabajo
 * Política de armas
-* Change management
+
 
 
 https://www.sans.org/security-resources/policies

@@ -16,3 +16,9 @@ Entre las actividades que componen este paso están:
 	C. Definición de los objetivos de seguridad (Revisar cómo se facilita).
 	D. Definición de políticas base de seguridad (Clasificación de información, retención de datos, uso aceptable de equipos, manejo de cuentas y contraseñas).
 	E. Definición de directivas de seguridad.
+
+### Conceptos abordados en esta sección
+* **Actores:** personas, grupos u organizaciones formales o informales que interactúan con nuestra organización dentro de un espectro que va desde aliados hasta adversarios
+* **Lugares de reposo de la información:** Lugares físicos y digitales en donde la información se almacena para ser usada, transmitida o archivada. En el ámbito digital coincide mayormente con dispositivos
+* **Medios de transmisión de información:** Canales usados para transferir información entre el equipo de trabajo o entre la organización y actores externos. Aplica tanto para canales físicos tradicionales como para medios digitales
+* **Nivel de impacto:** gravedad de las consecuencias negativas que pueden experimentarse luego de concretarse una hecho específico

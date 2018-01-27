@@ -4,22 +4,12 @@ sectionclass: h2
 title: Mapeo y clasificación de datos
 parent-id: 01-fundacion
 ---
-<<<<<<< HEAD
-
-
 Tiempo estimado: 120 min
 
-Esta actividad es una variación propuesta de una dinámica planteada en varios recursos como Holistic Security en su sección "2.4 Understanding and Cataloguing our Information" de de [Tactical Technology Collective](https://tacticaltech.org/) o SaferJourno de [Internews](https://internews.org) entre otros.
+Esta actividad es una variación propuesta de una dinámica planteada en varios recursos como Holistic Security en su sección "2.4 Understanding and Cataloguing our Information" de [Tactical Technology Collective](https://tacticaltech.org/) o SaferJourno de [Internews](https://internews.org) entre otros.
 
 La idea de esta actividad es mapear todos los objetos de datos que maneja la organización, pensar en las posibles consecuencias que tendría el compromiso de estos objetos, esquematizar estas posibles consecuencias en una matriz de impactos, y asociar los objetos de información manejados con los niveles de impacto en la matriz construida.
 
-
-=======
-Tiempo estimado: XX min
-
-Esta actividad es una variación propuesta de una dinámica planteada en varios recursos como Holistic Security en su sección "2.4 Understanding and Cataloguing our Information" de de [Tactical Technology Collective](https://tacticaltech.org/) o SaferJourno de [Internews](https://internews.org) entre otros.
-
->>>>>>> d98a881b3980bf3b900b0239ac30a753bada3074
 ### Justificación
 La idea de esta actividad es mapear todos los objetos de datos que maneja la organización, pensar en las posibles consecuencias que tendría el compromiso de estos objetos, esquematizar las posibles consecuencias en una matriz de impactos, y asociar los objetos de información manejados con los niveles de impacto en la matriz construida.
 

@@ -1,11 +1,7 @@
 ---
 sectionid: 01-02-mapa-de-actores-y-datos
 sectionclass: h2
-<<<<<<< HEAD
-title: Clasificacion y lluvia de Ideas de actores y datos
-=======
-title: Clasificación y lluvia de ideas de actores
->>>>>>> d98a881b3980bf3b900b0239ac30a753bada3074
+title: Clasificacion y lluvia de ideas de actores
 parent-id: 01-fundacion
 ---
 Tiempo estimado: 15 min
@@ -27,18 +23,7 @@ En esta actividad la idea es seguir explorando la organización, recopilando inf
 * Indirectos
   * Conciencia grupal sobre los actores relacionados a la organización.
 
-<<<<<<< HEAD
-### Actividades propuestas
-
-### Clasificación y lluvia de ideas de actores
-Tiempo estimado: 15 min
-
-Esta actividad está basada en la sección *Expanding our knowledge of actors* de la guía de Seguridad Holística de [Tachtical Technology Collective](https://tacticaltech.org/) disponible en las referencias.
-
-### Preparación previa
-=======
 ##### Preparación previa
->>>>>>> d98a881b3980bf3b900b0239ac30a753bada3074
 * Haber investigado lo suficiente a la organización como para tener ideas claras de  sus actores asociados. Esto con la idea de iniciar o reanudar la lluvia de ideas en el caso de que el grupo se sienta estancado o lento durante la actividad.
 
 ### Materiales
