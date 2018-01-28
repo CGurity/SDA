@@ -5,7 +5,7 @@ title: Who is this manual for?
 is-parent: yes
 ---
 
-This manual is a practical manual written to be used by information security facilitators who wish to complement their training and/or accompaniment work in civil society organizations (especially human rights defenders and independent media). However, it can be applied by people within this type of organization, external coaches, not directly related to information security who are interested in the subject and practically any interested person that feels comfortable in following the instructions of these activities.
+This manual is a practical manual written to be used by information security facilitators who wish to complement their training and/or accompaniment work in civil society organizations (especially human rights defenders and independent media). However, it can be applied by people within this type of organization, external facilitators, not directly related to information security who are interested in the subject and practically any interested person that feels comfortable in following the instructions of these activities.
 
 The content of this manual can also be adapted to any other type of organization that handles sensitive information, desires to increase security in the handling of it, and wishes to document security policies that last over time.
 
