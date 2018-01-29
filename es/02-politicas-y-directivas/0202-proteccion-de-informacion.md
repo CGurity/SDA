@@ -11,8 +11,8 @@ Tiempo estimado: 15 min
 Uno de los aspectos medulares de cualquier organización es la manipulación de información, ya que cualquier proceso que se realice puede ser abstraido a la generación, procesamiento, almacenamiento y publicación de información.En el caso de organizaciones que realizan activismo o documentación en el área de Derechos Humanos existe una variedad importante de tipos de información cuyo compromiso puede desencadenar consecuencias negativas para la organización, sus miembros o actores relacionados. La idea de desarrollar una política de protección de información es establecer una serie de lineamientos que ayuden a tratar cada pieza de información de la forma más adecuada posible y acorde a la sensibilidad de la misma.
 
 ### Datos de entrada
-* Mapa de datos desarollado en la sección *Mapeo y clasificación de información*
-* Mapa de flujos de datos desarollado en la sección *Mapeo de flujos de información*
+* Mapa de datos desarrollado en la sección *Mapeo y clasificación de información*
+* Mapa de flujos de datos desarrollado en la sección *Mapeo de flujos de información*
 * [Plantilla 1: Política de protección de información](https://sdamanual.org/es/plantillas/p1) abierta en un equipo para alimentarla en el transcurso de la actividad.
 
 ### Conceptos Asociados
@@ -23,7 +23,7 @@ Uno de los aspectos medulares de cualquier organización es la manipulación de 
 * Disposición de información.
 
 ### Políticas a desarrollar
-La **Política de Protección de Información** a desarrollarse en esta actividad, abstrae contenidos existentes en las siguientes políticas descritas en marcos de referencia estandarizados:
+* **Política de Protección de Información** a desarrollarse en esta actividad, abstrae contenidos existentes en las siguientes políticas descritas en marcos de referencia estandarizados:
 * **Política de clasificación de información:** Define criterios por los cuales se determina el nivel de sensibilidad de la información manejada y lineas estratégicas de manejo de esta información a los niveles de sensibilidad propuestos. También define usualmente los responsables del manejo y resguardo de las piezas de información trabajadas en la organización.
 * **Política de retención de datos:** Define entre otras cosas el tiempo que la organización puede conservar cierto tipo de información sensible, cómo disponer de ella, cuando se desincorpora, en qué dispositivos, qué prácticas de seguridad deben aplicarse a cada tipo de información sensible, y cómo se procesa la información sensible de acuerdo a regulaciones legales y mejores prácticas.
 * **Politica de acceso a datos:** Esta define las piezas de información que pueden ser accedidas y manipuladas por los distintos grupos y personas de la organización, en función de disminuir las posibilidades de compromiso de la misma y de hacer más eficientes los flujos de información dentro de los procesos de la organización.
@@ -103,8 +103,7 @@ Por simplicidad, si la organización y el facilitador lo consideran conveniente,
 * Disposición de la información: cómo se debe eliminar la información según su tipo de sensibilidad, con la intención de evitar la reconstrucción de esta información o el rastreo de la existencia de los datos.
 * Detalle de riesgos asociados a esta política: en donde se elabore en qué tipo de riesgos se están atacando con el cumplimiento de esta política.
 * Responsabilidades puntuales: donde se pueden especificar responsabilidades que escapan de ser custodio de la información y pueden ser relevantes para la organización.
-* Plan de capacitación en los conceptos, tecnicas y herramientas propuestos en la política.
+* Plan de capacitación en los conceptos, técnicas y herramientas propuestos en la política.
 
 ### Referencias
 * [Information Classification Policy | ISO](http://www.iso27001security.com/ISO27k_Model_policy_on_information_classification.pdf)
-* 

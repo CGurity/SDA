@@ -10,7 +10,7 @@ Tiempo estimado: 15 min
 ### Justificación
 Antes de empezar las actividades que buscan generar documentos conteniendo políticas y directivas de seguridad, es muy importante que los participantes entiendan qué son y para qué sirven, disminuyendo los errores, mejorando el flujo de las actividades e involucrando de mejor manera a los participantes. La idea de esta actividad es introducir los conceptos de políticas y directivas de seguridad.
 
-A diferencia de otras actividades en este manual, la presente es de caracter expositivo y menos interactivo. En la medida en que el facilitador se sienta cómodo puede diseñar una actividad que logre introducir los conceptos.
+A diferencia de otras actividades en este manual, la presente es de carácter expositivo y menos interactivo. En la medida en que el facilitador se sienta cómodo puede diseñar una actividad que logre introducir los conceptos.
 
 ### Productos
 * Indirectos
