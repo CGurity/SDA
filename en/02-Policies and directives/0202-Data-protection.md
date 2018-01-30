@@ -4,13 +4,13 @@ sectionclass: h2
 title: Política de protección de información
 parent-id: 02-politicas-y-directivas
 ---
-# Política de protección de información
-Tiempo estimado: 15 min
+# policy and Data protection
+Estimated time: 15 min
 
-### Justificación
+### Justification
 Uno de los aspectos medulares de cualquier organización es la manipulación de información, ya que cualquier proceso que se realice puede ser abstraido a la generación, procesamiento, almacenamiento y publicación de información.En el caso de organizaciones que realizan activismo o documentación en el área de Derechos Humanos existe una variedad importante de tipos de información cuyo compromiso puede desencadenar consecuencias negativas para la organización, sus miembros o actores relacionados. La idea de desarrollar una política de protección de información es establecer una serie de lineamientos que ayuden a tratar cada pieza de información de la forma más adecuada posible y acorde a la sensibilidad de la misma.
 
-### Datos de entrada
+### Input data
 * Mapa de datos desarrollado en la sección *Mapeo y clasificación de información*
 * Mapa de flujos de datos desarrollado en la sección *Mapeo de flujos de información*
 * [Plantilla 1: Política de protección de información](https://sdamanual.org/es/plantillas/p1) abierta en un equipo para alimentarla en el transcurso de la actividad.
