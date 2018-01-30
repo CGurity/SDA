@@ -5,10 +5,13 @@ title: Política de protección de información
 parent-id: 02-politicas-y-directivas
 ---
 # Data protection 
+
+
 Estimated time: 15 min
 
+
 ### Justification
-One of the core aspects of any organization is the manipulation of data given that any carried out process can be abstracted to generation, processing, storage, and publication of information. In the case of organizations performing activism or documentation in the area of Human Rights, there is an important variety of types of information whose commitment may trigger negative consequences for any organization, its members or related actors. The idea of developing a data protection policy is to establish a series of guidelines that help to treat each piece of information in the most appropriate way possible according to its sensitivity.
+One of the core aspects of any organization is the manipulation of data given that any carried out process can be abstracted to the generation, processing, storage, and publication of information. In the case of organizations performing activism or documentation in the area of Human Rights, there is an important variety of types of information whose commitment may trigger negative consequences for any organization, its members or related actors. The idea of developing a data protection policy is to establish a series of guidelines that help to treat each piece of information in the most appropriate way possible according to its sensitivity.
 
 ### Input data
 * Data mapping developed in the section *Data mapping and classification*
@@ -19,12 +22,12 @@ One of the core aspects of any organization is the manipulation of data given th
 * **Sensitivity data levels:** It is a scale by which is established how much a piece of information is considered delicate and needs to be protected. There are many proposed scales and their application depends on the organization's needs.
 * **Principle of the minimum privilege**: Proposes that data should be accessible only to those people who need to use it within their usual processes, reducing the attack surface and consequently the risks associated with minimizing the exposure of information. This principle is related to the *principle of need to know*.
 * **Responsible for the information:** Are those people with direct competencies in the manipulation of information. In some frames of reference they are divided depending on who creates the information, who manipulates it, who custody it, who destroys it and who is responsible for its commitment among other schemes. In this manual we try to abstract these differentials to the maximum, thinking of small work groups and the simplification of security policies, however, if the organization believes it is convenient to make this type of differentiation, it is also recommended to adopt the policies described to this need.
-* **Disposition of information:** Refers to the techniques used to dispose of data pieces once they have reached their useful life or that must be destroyed for any kind of regulations and safety reasons. Generally, these techniques have a different level of complexity and information in more or less secure archived, especially in terms of their possible reconstruction.
+* **Disposing of information:** Refers to the techniques used to dispose of data pieces once they have reached their useful life or that must be destroyed for any kind of regulations and safety reasons. Generally, these techniques have a different level of complexity and information in more or less secure archived, especially in terms of their possible reconstruction.
 
 ### Policies to be developed
 * **Data Protection Policy** to be developed in this activity, abstracts existing content in the following policies described in standardized reference frames:
-* **Data classification policy:** Defines criteria by which the sensitivity level of the information handled is determined, and strategic lines of management of this information at the proposed sensitivity levels. It also usually delineates those responsible for managing and safeguarding this pieces of information worked on in the organization.
-* **Data retention policy:** Defines, among other things, the time the organization can keep certain types of sensitive information, how to dispose of it, when it is disincorporated, in which devices, which security practices should be applied to each type of sensitive information, and how sensitive information is processed according to legal regulations and best practices.
+* **Data classification policy:** Defines criteria by which the sensitivity level of the information handled is determined, and strategic lines of management of this information at the proposed sensitivity levels. It also usually delineates those responsible for managing and safeguarding this piece of information worked on in the organization.
+* **Data retention policy:** Defines, among other things, the time the organization can keep certain types of sensitive information, how to dispose of it, when it is removed, in which devices, which security practices should be applied to each type of sensitive information, and how sensitive information is processed according to legal regulations and best practices.
 * **Data access policy:** Defines the pieces of information that can be accessed and manipulated by the different groups of the organization, in order to diminish the possibilities of commitment of the same and to make more efficient the information flow within the processes of the organization.
 
 #### Guiding questions
@@ -48,16 +51,16 @@ It is suggested to discuss both aspects and put down the results of the discussi
 > What levels of sensitivity does the information handled by the organization have and how are they described?
 > How can any piece of information be classified according to the sensitivity levels proposed?
 
-1. Check the matrix of consequences in the activity *data mapping and classification.*
+1. Check the matrix of consequences of the activity *data mapping and classification.*
 2. Introduce some types of information in classification schemes commonly used in information security, then propose to keep up with impact levels developed.
 * Public/confidential/secret/internal/regulatory data classifications, among others, are often used, taking into account the damage that may be caused by their commitment. In terms of our methodology, the same levels of impact proposed in previous sections can fill this space and therefore are suggested for reasons of simplicity.
-3. Unify in a single table cell the content of each row by the level of impact developed and empty this information in section (2) as shown in the graph.
+3. Unify in a single table cell the content of each row by the level of impact developed and empty this information in section the (2) as shown in the graph.
   ![Grafico](../img/0202/0202-01.png)
 
 ##### 3. Responsible for information
 > Who is responsible for the data protection?
 
-When handling information with different levels of sensitivity, it is important to ensure that security measures are put in place to protect data, so it becomes relevant to know who is responsible for implementing and maintaining the suggested security measures. Although standardized reference frames propose several figures regarding responsibility for information, it is recommended only to use the figure of the *custodian of the information*. Depending on the needs and dynamics of the organization, there are several approaches to determining who are the custodians of the information. e.g.:
+When handling information with different levels of sensitivity, it is important to ensure that security measures are put in place to protect data, so it becomes relevant to know who is responsible for implementing and maintaining the suggested security measures. Although standardized reference frames propose several figures regarding responsibility for information, it is recommended only to use the figure of the *custodian of the information*. Depending on the needs and dynamics of the organization, there are several approaches to determining who are the custodians of the information. E.g.:
 * People who generate the information objects.
 * Coordinators of departments or areas associated with information objects.
 * People who manipulate the information at every moment.
@@ -83,7 +86,7 @@ In the event that the organization manages very sensitive information, is intere
 
 Using the matrix developed in the activity *information flow*, the general criteria described for each level of impact can be collected and depicted in section (5) of the template.
 
-It is important that in this section you avoid describing specific tools or services, but the associated security features, which allow in case of changing any of them, have the criteria to select a new one that meets the same or better benefits. e.g.: do not suggest for communications *Signal* but Chat services with end-to-end encryption.
+It is important that in this section you avoid describing specific tools or services, but the associated security features, which allow in case of changing any of them, have the criteria to select a new one that meets the same or better benefits. E.g.: do not suggest for communications *Signal* but Chat services with end-to-end encryption.
 
   ![Grafico](../img/0202/0202-03.png)
 
@@ -99,7 +102,7 @@ For simplicity, if the organization and the facilitator consider it convenient, 
 
 ### Aspects excluded in the policy
 * Information lifetime: where is specified for how long the organization will retain certain types of information and what kind of processing will need to be done before deletion.
-* Disposition of the information: how the information should be eliminated according to its type of sensitivity, with intention of avoiding reconstruction of this information or tracking of data.
+* Disposition of the information: how the information should be eliminated, according to its type of sensitivity, with intention of avoiding reconstruction of this information or tracking of data.
 * Detail of risks associated with this policy: where it is elaborated in what kind of risks are being attacked with the fulfillment of this policy.
 * Specific responsibilities: where you can specify responsibilities that escape being the custodian of the information and may be relevant to the organization.
 * Training plan on the concepts, techniques and tools proposed in the policy.

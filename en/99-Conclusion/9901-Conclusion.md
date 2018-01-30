@@ -17,7 +17,7 @@ Below are some projects of interest to security facilitators for organizations, 
 
 ![logo](../img/9901/safetag.jpg)
 
-[SAFETAG | Internews](https://safetag.org): Complete methodology for the evaluation and proposition of roadmaps for the resolution of vulnerabilities and confrontation of threats for organizations that carry out activism.
+[SAFETAG | Internews](https://safetag.org): Complete methodology for the evaluation and proposition of road maps for the resolution of vulnerabilities and confrontation of threats for organizations that carry out activism.
 
 ![logo](../img/9901/umbrella.png)
 

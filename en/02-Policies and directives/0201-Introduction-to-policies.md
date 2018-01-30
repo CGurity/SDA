@@ -41,11 +41,6 @@ Security policies must be respected by all members of the organization, for this
 
  > **Security Directive:** Set of specific rules carried out by the work team and its relevant allies to implement security policies in daily work. These directives can be more specific in the use of specific tools and equipment and can change over time more frequently.
 
-Este concepto puede ser planteado como la unión de varias ideas:
-  * Son reglas puntuales.
-  * Su misión es ayudar al cumplimiento de las políticas.
-  * Se relacionan con los procesos del día a día.
-
 This concept can be proposed as the union of several ideas:
 * They are specific rules.
 * Its mission is to help compliance with the policies.
@@ -57,13 +52,13 @@ This concept can be proposed as the union of several ideas:
 
 In general, security policies own a clear instructional language, specifying specific actions to take in certain scenarios, take for example:
 * X piece of information is transmitted through these channels: ...
-* It is not allowed to use Y device to store highly sensitive information.
-* Z piece of information can be transmitted by W channel under the following conditions: ...
+* It is not allowed to use the Y device to store highly sensitive information.
+* Z piece of information can be transmitted by the W channel under the following conditions: ...
 
 Remarkable differences between security policies and directives are:
 * Its scope: the policies are general and the directives are specific.
 * Its dependence: security policies are a part of security policies.
-* Its evolution over time: generally the security policies change in the order of the years, the security directives in the order of the months.
+* Its evolution over time: generally security policies change in the order of the years, the security directives in the order of the months.
 
 In many of the information security reference frameworks, the concept of security policy is represented under other documents or names and may generate confusion when consulting other types of literature. In this case, the most important thing to adapt this concept is to understand that it is about *clear instructions to execute a determined action complying with the security policies*, in this manual the concept of a directive is abstracted to build a model that is fast understanding and facilitation for the target groups.
 
