@@ -38,7 +38,7 @@ A diferencia de otras actividades en este manual, la presente es de carácter ex
 
 2. Presentar el concepto de directiva de seguridad al grupo:
 
-  > **Directiva de seguridad:** Conjunto de reglas específicas que son implementadas por el equipo de trabajo y sus aliados relevantes para implementar las políticas de seguridad en el trabajo diario. Estas directivas pueden ser más concretas en el uso de herramientas y equipos específicos, y pueden cambiar en el tiempo con más frecuencia.
+  > **Directiva de seguridad:** Conjunto de reglas específicas ejecutadas por el equipo de trabajo y sus aliados relevantes para implementar las políticas de seguridad en el trabajo diario. Estas directivas pueden ser más concretas en el uso de herramientas y equipos específicos, y pueden cambiar en el tiempo con más frecuencia.
 
   Este concepto puede ser planteado como la unión de varias ideas:
   * Son reglas puntuales.
