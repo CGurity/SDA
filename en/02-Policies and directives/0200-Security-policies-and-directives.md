@@ -41,7 +41,6 @@ Nucleación de políticas en la industria de la seguridad por simplicidad.
 * Política de plan de recuperación de desastres
 * Política de respuesta al compromiso de datos
 * * Change management
-* Llamadas telefónicas !!!!!!!
 
 ## Mencionar como políticas complementarias
 * Uso de teléfonos celulares al manejar
