@@ -50,7 +50,7 @@ Se propone discutir ambos aspectos y colocar el resultado de la discusión en la
 
 1. Revisar la matriz de consecuencias de la actividad de mapeo y clasificación de información ya sea en físico o transcrita en digital.
 2. Introducir algunos tipos de información en esquemas de clasificación utilizados habitualmente en seguridad de la información y proponer mantenerse con los niveles de impacto desarrollados.
-  * Frecuentemente se emplean las clasificaciones de información pública/confidencial/secreta o pública/interna/confidencial/regulatoria entre otras, tomando en cuenta el daño que puede generar su compromiso. En términos de nuestra metodología, los mismos niveles de impacto propuestos en secciones anteriores pueden llenar este espacio y por eso se proponen por motivos de simplicidad.
+  * Frecuentemente se emplean las clasificaciones de información pública/confidencial/secreta/interna/regulatoria entre otras, tomando en cuenta el daño que puede generar su compromiso. En términos de nuestra metodología, los mismos niveles de impacto propuestos en secciones anteriores pueden llenar este espacio y por eso se proponen por motivos de simplicidad.
 3. Unificar en una sola celda de tabla el contenido de cada fila por nivel de impacto desarrollado y vaciar esta información en la sección (2) de la plantilla como muestra el gráfico.
   ![Grafico](../img/0202/0202-01.png)
 

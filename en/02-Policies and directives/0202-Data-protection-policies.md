@@ -13,96 +13,96 @@ One of the core aspects of any organization is the manipulation of data given th
 ### Input data
 * Data mapping developed in the section *Data mapping and classification*
 * Information flow mapping developed in the section *Information flow mapping*
-* [Template 1: Data protection policy](https://sdamanual.org/es/plantillas/p1) open in a team to fill it up during the course of the activity..
+* [Template 1: Data protection policy](https://sdamanual.org/es/plantillas/p1) open in a team to fill it up during the course of the activity.
 
-### Conceptos Asociados
-* **Niveles de sensibilidad de información:** Es una escala por la cual se establece qué tanto una pieza de información se considera delicada y que necesita ser protegida. Hay muchas escalas propuestas ysu aplicación depende de las necesidades de la organización
-* **Principio del minimo privilegio**: Propone que la información debe ser accesible sólo a aquellas personas que necesitan usarla dentro de sus procesos habituales, disminuyendo la superficie de ataque y por consiguiente los riesgos asociados al reducir al mínimo la exposición de la información. Este principio se relaciona con el *principio de necesidad de saber* (o need to know en Inglés)
-* **Responsables de la información:** Son aquellas personas con competencias directas en la manipulación de la información. En algunos marcos de referencia se dividen dependiendo de quién crea la información, quién la manipula, quién la custodia, quién la destruye y quién es responsable de su compromiso entre otros esquemas. En este manual se intenta abstraer al máximo estas diferenciaciones pensando en grupos de trabajo pequeños y en la simplificación de las políticas de seguridad, sin embargo, si la organización cree conveniente hacer este tipo de diferenciaciones se recomienda adaptar las políticas descritas a esta necesidad.
-* **Disposición de la información:** Se refiere a las técnicas utilizadas para deshacerse de piezas de información una vez que han cumplido su vida útil o que debe ser destruida por motivos de regulaciones y seguridad. Generalmente estas técnicas tienen diferente nivel de complejidad y disponen de la información de formas más o menos seguras, especialmente en términos de su posible reconstrucción después de dispuesta.
+### Associated Concepts
+* **Sensitivity data levels:** It is a scale by which is established how much a piece of information is considered delicate and needs to be protected. There are many proposed scales and their application depends on the organization's needs.
+* **Principle of the minimum privilege**: Proposes that data should be accessible only to those people who need to use it within their usual processes, reducing the attack surface and consequently the risks associated with minimizing the exposure of information. This principle is related to the *principle of need to know*.
+* **Responsible for the information:** Are those people with direct competencies in the manipulation of information. In some frames of reference they are divided depending on who creates the information, who manipulates it, who custody it, who destroys it and who is responsible for its commitment among other schemes. In this manual we try to abstract these differentials to the maximum, thinking of small work groups and the simplification of security policies, however, if the organization believes it is convenient to make this type of differentiation, it is also recommended to adopt the policies described to this need.
+* **Disposition of information:** Refers to the techniques used to dispose of data pieces once they have reached their useful life or that must be destroyed for any kind of regulations and safety reasons. Generally, these techniques have a different level of complexity and information in more or less secure archived, especially in terms of their possible reconstruction.
 
-### Políticas a desarrollar
-* **Política de Protección de Información** a desarrollarse en esta actividad, abstrae contenidos existentes en las siguientes políticas descritas en marcos de referencia estandarizados:
-* **Política de clasificación de información:** Define criterios por los cuales se determina el nivel de sensibilidad de la información manejada y lineas estratégicas de manejo de esta información a los niveles de sensibilidad propuestos. También define usualmente los responsables del manejo y resguardo de las piezas de información trabajadas en la organización.
-* **Política de retención de datos:** Define entre otras cosas el tiempo que la organización puede conservar cierto tipo de información sensible, cómo disponer de ella, cuando se desincorpora, en qué dispositivos, qué prácticas de seguridad deben aplicarse a cada tipo de información sensible, y cómo se procesa la información sensible de acuerdo a regulaciones legales y mejores prácticas.
-* **Politica de acceso a datos:** Esta define las piezas de información que pueden ser accedidas y manipuladas por los distintos grupos y personas de la organización, en función de disminuir las posibilidades de compromiso de la misma y de hacer más eficientes los flujos de información dentro de los procesos de la organización.
+### Policies to be developed
+* **Data Protection Policy** to be developed in this activity, abstracts existing content in the following policies described in standardized reference frames:
+* **Data classification policy:** Defines criteria by which the sensitivity level of the information handled is determined, and strategic lines of management of this information at the proposed sensitivity levels. It also usually delineates those responsible for managing and safeguarding this pieces of information worked on in the organization.
+* **Data retention policy:** Defines, among other things, the time the organization can keep certain types of sensitive information, how to dispose of it, when it is disincorporated, in which devices, which security practices should be applied to each type of sensitive information, and how sensitive information is processed according to legal regulations and best practices.
+* **Data access policy:** Defines the pieces of information that can be accessed and manipulated by the different groups of the organization, in order to diminish the possibilities of commitment of the same and to make more efficient the information flow within the processes of the organization.
 
-#### Preguntas guía
-1. ¿Cuál es el alcance de la política propuesta?
-2. ¿Qué niveles de sensibilidad tiene la información manejada por la organización y cómo se describen?
-  * ¿Cómo se puede clasificar cualquier pieza de información en los niveles de sensibilidad propuestos?
-3. ¿Quiénes son los responsables del resguardo de la información?
-4. ¿Quiénes deben tener acceso a la información y quienes no?
-5. ¿Qué medidas se deben tomar para manipular información según su nivel de sensibilidad? (Plantear conceptos clave)
-6. ¿Qué herramientas, prácticas y dispositivos específicos se deben emplear para manipular la información según su nivel de sensibilidad?
+#### Guiding questions
+1. What is the scope of the proposed policy?
+2. What levels of sensitivity does the information handled by the organization have and how are they described?
+* How can any piece of information be classified at the proposed sensitivity levels?
+4. Who is responsible for the protection of the information?
+5. Who should have access to information and who should not?
+6. What measures should be taken to manipulate information according to their level of sensitivity? (Raise key concepts)
+7. What specific tools, practices and devices should be used to manipulate the information according to their level of sensitivity?
 
 
-##### 1. Alcance de la política
-En esencia, el alcance asociado a esta política abarca dos aspectos:
-* **Las personas del equipo afectadas:** Pudiendo abarcar por ejemplo todos los miembros del equipo, sólo algunos de ellos (equipo de periodismo de investigación, encargados de manejar denuncias, etc.), personas puntuales o incluso todos los miembros de la organización y cualquier aliado externo que colabore con el equipo en ciertos temas.
-* **Los tipos de datos considerados:** Teniendo como opciones sólo ciertos tipos de información manejados por la organización o todas las piezas de información manejadas por el grupo. Este ejercicio está diseñado para considerar el segundo caso, sin embargo, se puede manejar como mejor juzgue el grupo siempre que se pueda desarrollar la actividad con fluidez.
+##### 1. Scope of the policy
+Basically, the scope associated with this policy covers two aspects:
+* **Affected team members:** Take, for example, all the members of the team, only some of them (investigative journalism team, people in charge of handling complaints, etc.), even all the members of the organization or any external ally that somewhat collaborates on certain topics.
+* **Types of data considered:** Having as options only certain types of information handled by the organization or all the pieces of information handled by the group. This exercise is designed to consider the second case, however, it can be handled as best the group judges as long as the activity can be developed fluently.
 
-Se propone discutir ambos aspectos y colocar el resultado de la discusión en la sección (1) de la plantilla.
+It is suggested to discuss both aspects and put down the results of the discussion in section (1) of the template.
 
-##### 2. Niveles de sensibilidad de la información manejada
-> ¿Qué niveles de sensibilidad tiene la información manejada por la organización y cómo se describen?
-> ¿Cómo se puede clasificar cualquier pieza de información en los niveles de sensibilidad propuestos?
+##### 2. Sensitivity levels of information
+> What levels of sensitivity does the information handled by the organization have and how are they described?
+> How can any piece of information be classified according to the sensitivity levels proposed?
 
-1. Revisar la matriz de consecuencias de la actividad de mapeo y clasificación de información ya sea en físico o transcrita en digital.
-2. Introducir algunos tipos de información en esquemas de clasificación utilizados habitualmente en seguridad de la información y proponer mantenerse con los niveles de impacto desarrollados.
-  * Frecuentemente se emplean las clasificaciones de información pública/confidencial/secreta o pública/interna/confidencial/regulatoria entre otras, tomando en cuenta el daño que puede generar su compromiso. En términos de nuestra metodología, los mismos niveles de impacto propuestos en secciones anteriores pueden llenar este espacio y por eso se proponen por motivos de simplicidad.
-3. Unificar en una sola celda de tabla el contenido de cada fila por nivel de impacto desarrollado y vaciar esta información en la sección (2) de la plantilla como muestra el gráfico.
+1. Check the matrix of consequences in the activity *data mapping and classification.*
+2. Introduce some types of information in classification schemes commonly used in information security, then propose to keep up with impact levels developed.
+* Public/confidential/secret/internal/regulatory data classifications, among others, are often used, taking into account the damage that may be caused by their commitment. In terms of our methodology, the same levels of impact proposed in previous sections can fill this space and therefore are suggested for reasons of simplicity.
+3. Unify in a single table cell the content of each row by the level of impact developed and empty this information in section (2) as shown in the graph.
   ![Grafico](../img/0202/0202-01.png)
 
-##### 3. Responsables de la información
-> ¿Quiénes son los responsables del resguardo de la información?
+##### 3. Responsible for information
+> Who is responsible for the data protection?
 
-Cuando se maneja información con diferentes niveles de sensibilidad es importante garantizar que hay medidas de seguridad puestas en marcha para proteger esta información, y se vuelve relevante saber quiénes son los responsables de implementar y mantener las medidas de seguridad propuestas. Aunque marcos de referencias estandarizados proponen varias figuras relativas a la responsabilidad sobre la información, se propone sólo emplear la figura del *custodio de la información*. Dependiendo de las necesidades y dinámicas de la organización hay varias aproximaciones a la determinación de quiénes son los custodios de la información, algunos ejemplos son:
-  * Las personas que generan los objetos de información
-  * Coordinadores de departamentos o áreas asociadas a los objetos de información
-  * Las personas que en cada momento manipulan la información
-  * Personas específicas designadas caso a caso
-  * Otros criterios de asignación
+When handling information with different levels of sensitivity, it is important to ensure that security measures are put in place to protect data, so it becomes relevant to know who is responsible for implementing and maintaining the suggested security measures. Although standardized reference frames propose several figures regarding responsibility for information, it is recommended only to use the figure of the *custodian of the information*. Depending on the needs and dynamics of the organization, there are several approaches to determining who are the custodians of the information. e.g.:
+* People who generate the information objects.
+* Coordinators of departments or areas associated with information objects.
+* People who manipulate the information at every moment.
+* Specific people designated case by case.
+* Other allocation criteria.
 
-La propuesta es presentar estas opciones y discutir cual de ellas aplica mejor para la organización y dejarlo por escrito en la sección (3) de la plantilla.
+The idea is to present these options and discuss which of them best applies to the organization and write it down in section (3) of the template.
 
-##### 4. Restricción base de acceso a la información
-> ¿Quiénes deben tener acceso a la información y quienes no?
+##### 4. Restriction basis of access to information
+> Who should have access to information and who should not?
 
-En el marco del establecimiento de políticas de protección de la información, es importante considerar el control del acceso a la misma por parte del equipo, esto se logra teniendo listas o reglas de control de acceso que determinan quiénes pueden acceder a cada tipo de información y quienes no. Usualmente estas consideraciones se incluyen en una *Política de acceso a datos*, sin embargo, este tipo de políticas se fundamentan en el principio del *mínimo privilegio*, en donde se propone que sólo las personas que necesitan manipular cierta información sean capaces de acceder a ella por regla, minimizando las posibilidades de compromiso de la misma.
+In the framework of establishing data protection policies, it is important to consider the control of access to it by the team, this is achieved by having access control lists or rules that determine who can access each type of information and who does not Usually these considerations are included in a *Data access policy*, however, this type of policy is based on the principle of *minimum privilege*, where it is proposed that only people who need to manipulate certain information are able to access to it by rule, minimizing the possibilities of commitment.
 
-La primera premisa que se quiere validar con el grupo es si ellos estarían de acuerdo con seguir formalmente este principio, se espera que el grupo esté de acuerdo pero vale la pena explorar cualquier escenario en donde se dificulte. En estos casos se debe dejar claro que las probabilidad de compromiso de la información puede subir considerablemente. El principio del mínimo privilegio se tiene escrito por defecto en la sección (4) de la plantilla.
+The first premise that you want to validate with the group is if they would agree to formally follow this principle, it is expected that the agrees but it is worth exploring any scenario where it might be difficult. In these cases, it must be made clear that probability of compromising the information can go up considerably. The principle of the minimum privilege is written by default in section (4) of the template.
 
-###### 4a. Políticas de control de acceso (opcional)
-En el caso en que la organización maneje información muy sensible, se muestre interesada en profundizar en el control de acceso a información y se disponga del tiempo, se puede desarrollar una primera versión de una matriz de control de acceso. En la sección (4a) de la plantilla se encuentra un ejemplo de matriz en donde se colocan como columnas diferentes departamentos, áreas, coordinaciones o inclusive cargos específicos dependiendo de la estructura y dinámicas de la organización, y como filas piezas de información con niveles de sensibilidad altos, y básicamente se describe qué áreas o personas pueden acceder a qué piezas.
+##### 4a. Access control policies (optional)
+In the event that the organization manages very sensitive information, is interested in deepening the control of access to information and the time is available, the first version of an access control matrix can be developed. In the section (4) of the template is an example of a matrix where different departments, areas, or even specific positions are placed as columns depending on the structure and dynamics of the organization, and as rows pieces of information with levels of high sensitivity, and then basically describe what areas or people can access to what pieces.
 
   ![Grafico](../img/0202/0202-02.png)
 
-##### 5. Directivas generales de manipulación de información
-> ¿Qué medidas se deben tomar para manipular información según su nivel de sensibilidad?
+##### 5. General data manipulation directives
+> What measures should be taken to manipulate information according to their level of sensitivity?
 
-Usando la matriz desarrollada en la actividad de flujos de información se pueden recopilar los criterios generales descritos para cada nivel de impacto y describirlos en la sección (5) de la plantilla.
+Using the matrix developed in the activity *information flow*, the general criteria described for each level of impact can be collected and depicted in section (5) of the template.
 
-Es importante que en esta sección se evite escribir herramientas o servicios específicos, sino las características de seguridad asociadas, que permitan en el caso de cambiar una herramienta, tener el criterio para seleccionar una nueva que cumpla con las mismas o mejores prestaciones. Por ejemplo: no colocar para comunicaciones *Signal* sino Servicios de chat con cifrado de extremo a extremo.
+It is important that in this section you avoid describing specific tools or services, but the associated security features, which allow in case of changing any of them, have the criteria to select a new one that meets the same or better benefits. e.g.: do not suggest for communications *Signal* but Chat services with end-to-end encryption.
 
   ![Grafico](../img/0202/0202-03.png)
 
-##### 6. Directivas específicas de manipulación de información
-> ¿Qué herramientas, prácticas y dispositivos específicos se deben emplear para manipular la información según su nivel de sensibilidad?
+##### 6. Specific data manipulation directives
+> What specific tools, practices and devices should be used to manipulate the information according to their level of sensitivity?
 
-De forma similar al paso anterior, para cada nivel de impacto o sensibilidad se recopilarán los dispositivos, otros lugares de reposo de la información y canales de comunicación que se seleccionaron para cada nivel, y así colocarlos en las tablas de la sección (6) de la plantilla como se indica. Se deja el espacio para colocar las consideraciones necesarias que se necesiten cumplir en cada caso si aplica.
+In a similar way to the previous step, for each level of impact or sensitivity, devices, other resting places of the information and communication channels that were selected for each level will be collected, and thus placed in the template of section (6)   as shown in the table. Space is left to place all necessary considerations that need to be met in each case if applicable.
 
   ![Grafico](../img/0202/0202-04.png)
 
-Por simplicidad, si la organización y el facilitador lo consideran conveniente, se pueden considerar sólo los niveles de impacto más altos, dado que los niveles más bajos pueden requerir más tiempo y esfuerzo para llenar la información solicitada en la plantilla, en ese caso las tablas para niveles bajo y medio se pueden borrar de la plantilla.
+For simplicity, if the organization and the facilitator consider it convenient, only the highest levels of impact can be considered, since the lower levels may require quite more time and effort to fill in the information requested in the template, in this case, the tables for low and medium levels can be deleted.
 
 
-### Aspectos excluidos en la política
-* Tiempo de vida de la información: donde se especifique por cuanto tiempo la organización retendrá ciertos tipos de información y qué tipo de procesamiento se necesitará realizar antes de desincorporarlos o borrarlos.
-* Disposición de la información: cómo se debe eliminar la información según su tipo de sensibilidad, con la intención de evitar la reconstrucción de esta información o el rastreo de la existencia de los datos.
-* Detalle de riesgos asociados a esta política: en donde se elabore en qué tipo de riesgos se están atacando con el cumplimiento de esta política.
-* Responsabilidades puntuales: donde se pueden especificar responsabilidades que escapan de ser custodio de la información y pueden ser relevantes para la organización.
-* Plan de capacitación en los conceptos, técnicas y herramientas propuestos en la política.
+### Aspects excluded in the policy
+* Information lifetime: where is specified for how long the organization will retain certain types of information and what kind of processing will need to be done before deletion.
+* Disposition of the information: how the information should be eliminated according to its type of sensitivity, with intention of avoiding reconstruction of this information or tracking of data.
+* Detail of risks associated with this policy: where it is elaborated in what kind of risks are being attacked with the fulfillment of this policy.
+* Specific responsibilities: where you can specify responsibilities that escape being the custodian of the information and may be relevant to the organization.
+* Training plan on the concepts, techniques and tools proposed in the policy.
 
-### Referencias
+### References
 * [Information Classification Policy | ISO](http://www.iso27001security.com/ISO27k_Model_policy_on_information_classification.pdf)
