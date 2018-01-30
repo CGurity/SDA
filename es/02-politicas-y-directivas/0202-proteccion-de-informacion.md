@@ -16,11 +16,10 @@ Uno de los aspectos medulares de cualquier organización es la manipulación de 
 * [Plantilla 1: Política de protección de información](https://sdamanual.org/es/plantillas/p1) abierta en un equipo para irla alimentando en el transcurso de la actividad
 
 ### Conceptos Asociados
-Niveles de sensibilidad de información
-Principio de "necesidad de saber" (Need to know)
-Responsables de la información
-  Custodio de la información (ver cuales mas faltan)
-Disposición de información
+* **Niveles de sensibilidad de información:** Es una escala por la cual se establece qué tanto una pieza de información se considera delicada y que necesita ser protegida. Hay muchas escalas propuestas ysu aplicación depende de las necesidades de la organización
+* **Principio del minimo privilegio**: Propone que la información debe ser accesible sólo a aquellas personas que necesitan usarla dentro de sus procesos habituales, disminuyendo la superficie de ataque y por consiguiente los riesgos asociados al reducir al mínimo la exposición de la información. Este principio se relaciona con el *principio de necesidad de saber* (o need to know en Inglés)
+* **Responsables de la información:** Son aquellas personas con competencias directas en la manipulación de la información. En algunos marcos de referencia se dividen dependiendo de quién crea la información, quién la manipula, quién la custodia, quién la destruye y quién es responsable de su compromiso entre otros esquemas. En este manual se intenta abstraer al máximo estas diferenciaciones pensando en grupos de trabajo pequeños y en la simplificación de las políticas de seguridad, sin embargo, si la organización cree conveniente hacer este tipo de diferenciaciones se recomienda adaptar las políticas descritas a esta necesidad.
+* **Disposición de la información:** Se refiere a las técnicas utilizadas para deshacerse de piezas de información una vez que han cumplido su vida útil o que debe ser destruida por motivos de regulaciones y seguridad. Generalmente estas técnicas tienen diferente nivel de complejidad y disponen de la información de formas más o menos seguras, especialmente en términos de su posible reconstrucción después de dispuesta.
 
 ### Políticas a desarrollar
 La **Política de Protección de Información** a desarrollarse en esta actividad, abstrae contenidos existentes en las siguientes políticas descritas en marcos de referencia estandarizados:
@@ -58,7 +57,7 @@ Se propone discutir ambos aspectos y colocar el resultado de la discusión en la
 ##### 3. Responsables de la información
 > ¿Quiénes son los responsables del resguardo de la información?
 
-Cuando se maneja información con diferentes niveles de sensibilidad es importante garantizar que hay medidas de seguridad puestas en marcha para proteger esta información, y se vuelve relevante saber quiénes son los responsables de implementar y mantener las medidas de seguridad propuestas. Aunque marcos de referencias estandarizados proponen varias figuras relativas a la responsabilidad sobre la información, se propone sólo emplear la figura del *custodio de información*. Dependiendo de las necesidades y dinámicas de la organización hay varias aproximaciones a la determinación de quiénes son los custodios de la información, algunos ejemplos son:
+Cuando se maneja información con diferentes niveles de sensibilidad es importante garantizar que hay medidas de seguridad puestas en marcha para proteger esta información, y se vuelve relevante saber quiénes son los responsables de implementar y mantener las medidas de seguridad propuestas. Aunque marcos de referencias estandarizados proponen varias figuras relativas a la responsabilidad sobre la información, se propone sólo emplear la figura del *custodio de la información*. Dependiendo de las necesidades y dinámicas de la organización hay varias aproximaciones a la determinación de quiénes son los custodios de la información, algunos ejemplos son:
   * Las personas que generan los objetos de información
   * Coordinadores de departamentos o áreas asociadas a los objetos de información
   * Las personas que en cada momento manipulan la información
@@ -70,9 +69,9 @@ La propuesta es presentar estas opciones y discutir cual de ellas aplica mejor p
 ##### 4. Restricción base de acceso a la información
 > ¿Quiénes deben tener acceso a la información y quienes no?
 
-En el marco del establecimiento de políticas de protección de la información, es importante considerar el control del acceso a la misma por parte del equipo, esto se logra teniendo listas o reglas de control de acceso que determinan quiénes pueden acceder a cada tipo de información y quienes no. Usualmente estas consideraciones se incluyen en una *Política de acceso a datos*, sin embargo, este tipo de políticas se fundamentan en el principio de la *necesidad de saber* (o need to know en Inglés), en donde se propone que sólo las personas que necesitan manipular cierta información sean capaces de acceder a ella por regla, minimizando las posibilidades de compromiso de la misma.
+En el marco del establecimiento de políticas de protección de la información, es importante considerar el control del acceso a la misma por parte del equipo, esto se logra teniendo listas o reglas de control de acceso que determinan quiénes pueden acceder a cada tipo de información y quienes no. Usualmente estas consideraciones se incluyen en una *Política de acceso a datos*, sin embargo, este tipo de políticas se fundamentan en el principio del *mínimo privilegio*, en donde se propone que sólo las personas que necesitan manipular cierta información sean capaces de acceder a ella por regla, minimizando las posibilidades de compromiso de la misma.
 
-La primera premisa que se quiere validar con el grupo es si ellos estarían de acuerdo con seguir formalmente este principio, se espera que el grupo esté de acuerdo pero vale la pena explorar cualquier escenario en donde se dificulte. En estos casos se debe dejar claro que las probabilidad de compromiso de la información puede subir considerablemente. El principio de la necesidad de saber se tiene escrito por defecto en la sección (4) de la plantilla.
+La primera premisa que se quiere validar con el grupo es si ellos estarían de acuerdo con seguir formalmente este principio, se espera que el grupo esté de acuerdo pero vale la pena explorar cualquier escenario en donde se dificulte. En estos casos se debe dejar claro que las probabilidad de compromiso de la información puede subir considerablemente. El principio del mínimo privilegio se tiene escrito por defecto en la sección (4) de la plantilla.
 
 ###### 4a. Políticas de control de acceso (opcional)
 En el caso en que la organización maneje información muy sensible, se muestre interesada en profundizar en el control de acceso a información y se disponga del tiempo, se puede desarrollar una primera versión de una matriz de control de acceso. En la sección (4a) de la plantilla se encuentra un ejemplo de matriz en donde se colocan como columnas diferentes departamentos, áreas, coordinaciones o inclusive cargos específicos dependiendo de la estructura y dinámicas de la organización y como filas piezas de información con niveles de sensibilidad altos, y básicamente se describe qué áreas o personas pueden acceder a qué piezas.
