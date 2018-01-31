@@ -12,8 +12,6 @@ Actualmente la mayoría de organizaciones independientemente del campo que desar
 
 ## Datos de entrada
 * Política de protección de información
-
-## Datos de entrada
 * [Plantilla 2: Política de uso aceptable de equipos, cuentas y contraseñas](https://sdamanual.org/es/plantillas/p2) abierta en un equipo para irla alimentando en el transcurso de la actividad
 
 ## Conceptos Asociados
