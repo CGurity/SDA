@@ -19,7 +19,7 @@ Actualmente la mayoría de organizaciones independientemente del campo que desar
 * **Actualizaciones de software:** Parches de código de algunas partes del sistema operativo que buscan mejorar funcionalidades y corregir nuevas vulnerabilidades de seguridad.
 * **Cifrado:** Capacidad de transformar un mensaje en algo ininteligible para otros y poder revertirlo al contenido original por quienes queremos que tengan acceso a la informacion.
 * **Cifrado de disco o de dispositivo:** Proceso que permite cifrar todo el contenido del disco duro de un equipo de tal forma que sólo sea accesible y usable cuando al encender se introduzca una contraseña u otro método de autenticación que aplique.
-* **Software pirata:** Cualquier software que se instale por fuera de los canales oficiales sin pagar su valor de licenciamientio.
+* **Software pirata:** Cualquier software que se instale por fuera de los canales oficiales sin pagar su valor de licenciamiento.
 * **Malware:** Cualquier software malintencionado que ejecute acciones en un equipo sin autorización de su propietario o responsable.
 * **Phishing:** Una serie de ataques que utilizan la suplantación de identidad como un mecanismo para lograr que un usuario realice una acción perjudicial para si mismo, los equipos que utiliza, los datos que almacena y su red.
 * **Contraseña:** Secuencia de caracteres secretos que son usados para ingresar a un servicio o dispositivo.
@@ -36,9 +36,9 @@ Actualmente la mayoría de organizaciones independientemente del campo que desar
 La **Política de uso aceptable, cuentas y contraseñas** a desarrollarse en esta actividad, abstrae contenidos existentes en las siguientes políticas descritas en marcos de referencia estandarizados:
 * **Política de uso aceptable de equipos:** Define condiciones básicas para usar de forma segura computadoras, teléfonos y otros equipos móviles. usualmente trata temas como contraseñas de acceso, bloqueo de equipo, cifrado y reporte de incidentes entre otros.
 * **Política de uso aceptable de internet:** Establece algunos principios de seguridad relacionados al uso de navegadores y otras aplicaciones que se conectan a internet en función de proteger los equipos usados y la información contenida en estos.
-* **Política de uso aceptable del correo electrónico:** Establece lineamientos específicos al uso del correo electrónico. En principio busca disminuir los ataques de phishing, de exfiltración de información y las infecciones de equipos por malware, tambien puede incluir lineamientos sobre los propósitos con los que se usa el correo, lenguaje y otros aspectos relevantes para el buen uso del correo electrónico en la organización.
+* **Política de uso aceptable del correo electrónico:** Establece lineamientos específicos al uso del correo electrónico. En principio busca disminuir los ataques de phishing, de exfiltración de información y las infecciones de equipos por malware, también puede incluir lineamientos sobre los propósitos con los que se usa el correo, lenguaje y otros aspectos relevantes para el buen uso del correo electrónico en la organización.
 * **Política de uso aceptable de redes sociales:** Determina medidas de seguridad a tomar en el uso y administración de redes sociales de la organización. Normalmente tiene un conjunto de reglas generales y otras específicas por cada servicio de interés.
-* **Politica de cuentas y contraseñas:** En esta política se establecen un conjunto de reglas que rigen la creación, el uso y mantenimiento de contraseñas en diferentes servicios y de acceso a dispositivos, en caso de que la organización maneje algunos sistemas propios, puede especificar lineamientos de administración de contraseñas para sus usuarios. En ocasiones, esta política también considera aspectos diferentes a las contraseñas, como biometría u otros factores de autenticación.
+* **Política de cuentas y contraseñas:** En esta política se establecen un conjunto de reglas que rigen la creación, el uso y mantenimiento de contraseñas en diferentes servicios y de acceso a dispositivos, en caso de que la organización maneje algunos sistemas propios, puede especificar lineamientos de administración de contraseñas para sus usuarios. En ocasiones, esta política también considera aspectos diferentes a las contraseñas, como biometría u otros factores de autenticación.
 
 ## Preguntas guía
 1. ¿Cuál es el alcance de la política propuesta?
@@ -73,7 +73,7 @@ Para esta sección se debe discutir, modificar y aprobar el contenido de la secc
 > ¿Quiénes son responsables de implementar y mantener las medidas de seguridad en los equipos?
 
 Discutir, modificar y aprobar el contenido de la sección (2) de la plantilla de política de uso aceptable de equipos, cuentas y contraseñas que trata sobre la propiedad de los equipos y las responsabilidades de uso de los mismos y sobre el reporte de incidentes.
-  * La variación más notable en este paso depende de si la organización tiene sus propios equipos, todos los equipos son propiedad de los miembros de la organización (BYOD) o una mezcla de ambas modalidades. En la plantilla se encuentran varios ejemplos ejemplos que puede ser reducidos al caso particular de la organización ejecutando la actividad.
+  * La variación más notable en este paso depende de si la organización tiene sus propios equipos, todos los equipos son propiedad de los miembros de la organización (BYOD) o una mezcla de ambas modalidades. En la plantilla se encuentran varios ejemplos que puede ser reducidos al caso particular de la organización ejecutando la actividad.
 
 ### 3. Uso general de equipos
 > ¿Cuáles son las medidas de seguridad generales y directivas en el manejo de equipos?
@@ -94,7 +94,7 @@ Discutir, modificar y aprobar el contenido de la sección (3) de la plantilla de
 
 #### Directivas de uso aceptable de equipos
 
-Discutir, modificar y aprobar la sección de directivas que se encuentra en la sección (3) de la plantilla de política correspondiente. Es ideal que el grupo tenga un conocimiento previo de temas puntuales de serguridad, siendo el caso óptimo tener esta discusión posterior a la realización de un taller de seguridad digital, así a medida que se cubra cada aspecto trabajado en este manual, se pueda discutir cómo se quiere implementar este concepto o herramienta a la política correspondiente. Como ejemplos en la plantilla que pueden ser utilizados como aparecen, editados o eliminados se encuentran, entre otros:
+Discutir, modificar y aprobar la sección de directivas que se encuentra en la sección (3) de la plantilla de política correspondiente. Es ideal que el grupo tenga un conocimiento previo de temas puntuales de seguridad, siendo el caso óptimo tener esta discusión posterior a la realización de un taller de seguridad digital, así a medida que se cubra cada aspecto trabajado en este manual, se pueda discutir cómo se quiere implementar este concepto o herramienta a la política correspondiente. Como ejemplos en la plantilla que pueden ser utilizados como aparecen, editados o eliminados se encuentran, entre otros:
 
 * El uso obligatorio de contraseñas de usuario en las computadoras y teléfonos celulares usados para tratar temas sensibles de la organización. Estas contraseñas deben cumplir con las políticas de contraseñas al final de este mismo documento.
 * El uso obligatorio de protectores de pantalla que bloquean los usuarios en computadoras y celulares después de cierto tiempo de inactividad.
@@ -116,14 +116,14 @@ Discutir, modificar y aprobar el contenido de la sección (4) de la plantilla co
 > ¿Cuáles son las medidas de seguridad generales al usar internet?
 Discutir, modificar y aprobar el contenido de la sección (5) de la plantilla correspondiente. En caso de que alguna consideración no aplique a la organización se puede eliminar sin problemas. Algunos de los aspectos más importantes tratados en esta sección son:
 
-* El uso de herramientas de circunvención y anonimato en internet al usar los equipos como Redes Privadas Virtuales (o VPNs en Inglés), Tor u otro tipo de herramientas afines. Normalmente estas medidas van asociadas a niveles de sensibilidad de la información manejada. Dado que es una directiva se puede ser específico en heramientas puntuales aprobadas o criterios de selección.
+* El uso de herramientas de circunvención y anonimato en internet al usar los equipos como Redes Privadas Virtuales (o VPNs en Inglés), Tor u otro tipo de herramientas afines. Normalmente estas medidas van asociadas a niveles de sensibilidad de la información manejada. Dado que es una directiva se puede ser específico en herramientas puntuales aprobadas o criterios de selección.
 * La prohibición de actividades que deterioren injustificadamente la calidad de la conexión (por ejemplo descargas de torrents o streaming de contenidos no relacionados al trabajo).
 
 #### Estrategias contra la suplantación de identidad
 Dado que los ataques más frecuentes a organizaciones en la actualidad están relacionados en gran medida a ataques de suplantación de identidad (o phishing en Inglés), es importante especificar estrategias claras para enfrentar estos riesgos. Se propone revisar en la sección (5) de la plantilla en uso la sección correspondiente y discutir, editar, agregar y aprobar algunas de las estrategias propuestas, relacionadas a temas como:
 
 * El conocimiento por toda la organización de los canales de comunicación oficiales de los actores relevantes relacionados (por ejemplo proveedores, personal, instituciones públicas) y evitar cualquier comunicación o intercambio de información sensible por canales diferentes. (direcciones de correo electrónico, cuentas en redes sociales y números telefónicos entre otros)
-* El manejo de comunicaciones que solicite información sensible como credenciales, información bancaria y personal ademas del desarrollo de una serie de indicadores que ayuden a detectar posibles casos de suplantación de identidad.
+* El manejo de comunicaciones que solicite información sensible como credenciales, información bancaria y personal además del desarrollo de una serie de indicadores que ayuden a detectar posibles casos de suplantación de identidad.
 * El desarrollo de reglas de manejo de archivos adjuntos sospechosos.
 
 ### 6. Gestión de cuentas
@@ -200,7 +200,7 @@ Discutir, modificar y aprobar el contenido de la sección (4) de la plantilla co
 
 ### Aspectos excluidos en la política
 * Gestión remota de equipos.
-* Monitoreo y auditoría del cumplimiento de las polítcicas de seguridad en equipos.
+* Monitoreo y auditoría del cumplimiento de las políticas de seguridad en equipos.
 * Prohibición explícita del monitoreo de red, análisis de puertos y uso de honeypots y honeynets.
 * Prohibición explícita de ejecución de cualquier tarea ilegal, por ejemplo ataques de denegación de servicio (DoS y DDoS) y bloqueo en el acceso a recursos a otros usuarios de forma injustificada.
 
@@ -209,4 +209,3 @@ Discutir, modificar y aprobar el contenido de la sección (4) de la plantilla co
 * [Sample Acceptable Usage Policy | getsafeonline.org](https://www.getsafeonline.org/themes/site_themes/getsafeonline/download_centre/sample_acceptable_usage_policy.pdf)
 * [Email policy template | Sans institute](https://www.sans.org/security-resources/policies/general/pdf/email-policy)
 * [Password Protection Policy template | SANS Institute](https://www.sans.org/security-resources/policies/general/pdf/password-protection-policy)
-* 

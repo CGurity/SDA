@@ -18,13 +18,13 @@ En principio, la **Política de limpieza de escritorio** o (Clean desk policy en
 
 ## Preguntas guía
 1. ¿Cuál es el alcance de esta política?
-2. ¿Qué medidas de deben tomar en los espacios de trabajo en la organziación?
-3. ¿Cómo se debe manejar la informacion en físico en los espacios de trabajo?
-4. ¿Cómo se debe disponer de la infromación física una vez que debe ser descartada?
+2. ¿Qué medidas de deben tomar en los espacios de trabajo en la organización?
+3. ¿Cómo se debe manejar la información en físico en los espacios de trabajo?
+4. ¿Cómo se debe disponer de la información física una vez que debe ser descartada?
 
 
 ### Alcance de la política
-En resumen, el alcance asociado a esta política, disponible en la sección (1) de la plantilla de políitca de limpieza de escritorio abarca los siguientes aspectos:
+En resumen, el alcance asociado a esta política, disponible en la sección (1) de la plantilla de política de limpieza de escritorio abarca los siguientes aspectos:
 * Espacios de trabajo afectados por esta política.
 * Personal afectado por esta política.
 
@@ -36,7 +36,7 @@ Discutir, modificar y aprobar el contenido de la sección (2) de la plantilla co
 * Uso de mecanismo de resguardo físico para los dispositivos en los espacios de trabajo.
 
 ### Manejo de información en físico en los espacios de trabajo
-> ¿Cómo se debe manejar la informacion en físico en los espacios de trabajo?
+> ¿Cómo se debe manejar la información en físico en los espacios de trabajo?
 Discutir, modificar y aprobar el contenido de la sección (3) de la plantilla correspondiente. Algunos de los aspectos más importantes tratados en esta sección son:
 
 * Procesos a seguir al final del día para mantener los espacios de trabajo libres de información sensible.  
@@ -44,8 +44,8 @@ Discutir, modificar y aprobar el contenido de la sección (3) de la plantilla co
 * Manejo de llaves de muebles y cajas de seguridad.
 * Existencia de información sensible en espacios de trabajo.
 * Manejo de papeles en impresoras.
-* Manejo de informacion en pizarras y carteleras.
-* Manejo de dispositivos de almacenamiento digital portatil.
+* Manejo de información en pizarras y carteleras.
+* Manejo de dispositivos de almacenamiento digital portátil.
 
 ### Disposición de información en físico
 > ¿Cómo se debe disponer de la información física una vez que debe ser descartada?
