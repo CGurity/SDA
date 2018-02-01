@@ -8,7 +8,7 @@ parent-id: 02-politicas-y-directivas
 Tiempo estimado: 15 min
 
 ## Justificación
-texto
+En cualquier tipo de organización, independientemente del uso que hagan de la tecnología, es normal que se tengan grandes cantidades de información de alta sensibilidad en físico, además, cuando hablamos de espacios de trabajo los equipos utilizados para almacenar y manipular información pasan a ser objetos físicos de interés para aquellos que quieran comprometer los datos de la organización. La idea detrás de esta política es establecer un conjunto de estrategias que permitan asegurar tanto la información en físico como la integridad de los equipos que se utilizan en los espacios de trabajo de la organización. Esta política es una de las más vinculadas al día a día del equipo ya que considera actividades que deben realizarse durante toda la jornada de trabajo.
 
 ## Datos de entrada
 * [Plantilla 3: Política de limpieza de escritorio](https://sdamanual.org/es/plantillas/p3) abierta en un equipo para irla alimentando en el transcurso de la actividad
