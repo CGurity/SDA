@@ -122,7 +122,7 @@ Discutir, modificar y aprobar el contenido de la sección (5) de la plantilla co
 #### Estrategias contra la suplantación de identidad
 Dado que los ataques más frecuentes a organizaciones en la actualidad están relacionados en gran medida a ataques de suplantación de identidad (o phishing en Inglés), es importante especificar estrategias claras para enfrentar estos riesgos. Se propone revisar en la sección (5) de la plantilla en uso la sección correspondiente y discutir, editar, agregar y aprobar algunas de las estrategias propuestas, relacionadas a temas como:
 
-* El conocimiento por toda la organización de los canales de comunicación oficiales de los actores relevantes relacionados (por ejemplo proveedores, personal, instituciones públicas) y evitar cualquier comunicación o intercambio de información sensible por canales diferentes. (direcciones de correo electrónico, cuentas en redes sociales y números telefónicos entre otros)
+* El conocimiento por toda la organización de los canales de comunicación oficiales de los actores relevantes relacionados (por ejemplo proveedores, personal, instituciones públicas) y evitar cualquier comunicación o intercambio de información sensible por canales diferentes. (direcciones de correo electrónico, cuentas en redes sociales y números telefónicos entre otros).
 * El manejo de comunicaciones que solicite información sensible como credenciales, información bancaria y personal además del desarrollo de una serie de indicadores que ayuden a detectar posibles casos de suplantación de identidad.
 * El desarrollo de reglas de manejo de archivos adjuntos sospechosos.
 
