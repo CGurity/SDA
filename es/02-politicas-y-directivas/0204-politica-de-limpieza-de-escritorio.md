@@ -20,7 +20,7 @@ En principio, la **Política de limpieza de escritorio** o (Clean desk policy en
 1. ¿Cuál es el alcance de esta política?
 2. ¿Qué medidas de deben tomar en los espacios de trabajo en la organización?
 3. ¿Cómo se debe manejar la información en físico en los espacios de trabajo?
-4. ¿Cómo se debe disponer de la información física una vez que debe ser descartada?
+4. ¿Cómo se debe disponer de la información física una vez descartada?
 
 
 ### Alcance de la política
