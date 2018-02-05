@@ -54,7 +54,7 @@ It is suggested to discuss both aspects and put down the results of the discussi
 1. Check the matrix of consequences of the activity *data mapping and classification.*
 2. Introduce some types of information in classification schemes commonly used in information security, then propose to keep up with impact levels developed.
 * Public/confidential/secret/internal/regulatory data classifications, among others, are often used, taking into account the damage that may be caused by their commitment. In terms of our methodology, the same levels of impact proposed in previous sections can fill this space and therefore are suggested for reasons of simplicity.
-3. Unify in a single table cell the content of each row by the level of impact developed and empty this information in section the (2) as shown in the graph.
+3. Unify in a single table cell the content of each row by the level of impact developed and empty this information in the section (2) as shown in the graph.
   ![Grafico](../img/0202/0202-01.png)
 
 ##### 3. Responsible for information
@@ -74,7 +74,7 @@ The idea is to present these options and discuss which of them best applies to t
 
 In the framework of establishing data protection policies, it is important to consider the control of access to it by the team, this is achieved by having access control lists or rules that determine who can access each type of information and who does not Usually these considerations are included in a *Data access policy*, however, this type of policy is based on the principle of *minimum privilege*, where it is proposed that only people who need to manipulate certain information are able to access to it by rule, minimizing the possibilities of commitment.
 
-The first premise that you want to validate with the group is if they would agree to formally follow this principle, it is expected that the agrees but it is worth exploring any scenario where it might be difficult. In these cases, it must be made clear that probability of compromising the information can go up considerably. The principle of the minimum privilege is written by default in section (4) of the template.
+The first premise that you want to validate with the group is if they would agree to formally follow this principle, it is expected that the agrees, but it is worth exploring any scenario where it might be difficult. In these cases, it must be made clear that the probability of compromising the information can go up considerably. The principle of the minimum privilege is written by default in section (4) of the template.
 
 ##### 4a. Access control policies (optional)
 In the event that the organization manages very sensitive information, is interested in deepening the control of access to information and the time is available, the first version of an access control matrix can be developed. In the section (4) of the template is an example of a matrix where different departments, areas, or even specific positions are placed as columns depending on the structure and dynamics of the organization, and as rows pieces of information with levels of high sensitivity, and then basically describe what areas or people can access to what pieces.
@@ -102,7 +102,7 @@ For simplicity, if the organization and the facilitator consider it convenient, 
 
 ### Aspects excluded in the policy
 * Information lifetime: where is specified for how long the organization will retain certain types of information and what kind of processing will need to be done before deletion.
-* Disposition of the information: how the information should be eliminated, according to its type of sensitivity, with intention of avoiding reconstruction of this information or tracking of data.
+* Disposition of the information: how the information should be eliminated, according to its type of sensitivity, with the intention of avoiding reconstruction of this information or tracking of data.
 * Detail of risks associated with this policy: where it is elaborated in what kind of risks are being attacked with the fulfillment of this policy.
 * Specific responsibilities: where you can specify responsibilities that escape being the custodian of the information and may be relevant to the organization.
 * Training plan on the concepts, techniques and tools proposed in the policy.

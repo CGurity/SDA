@@ -25,7 +25,7 @@ The main idea in this activity is to understand where the information lies, thro
 ### Proposed activities
 
 ### Mapping and initial data retention policies
-estimated time: 45 min
+Estimated time: 45 min
 
 ### Previous planning
 

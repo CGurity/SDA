@@ -7,7 +7,7 @@ parent-id: 03-Threats model-and-protocols
 Estimated time: 45 min
 
 ### Justification
-The idea behind this activity is to complement policies revealed previously as **preventive strategies** along with the development of procedures to be applied during security incidents such as **reactive strategies** pursuing to mitigate impact of threats once they have been implemented. Specifically, this activity seeks to abstract the concepts of procedures training, communications plans, succession plans and arrangement activities in a single dynamic serving as an introduction to the area of *incident response* developed in the information security literature.
+The idea behind this activity is to complement policies revealed previously as **preventive strategies** along with the development of procedures to be applied during security incidents such as **reactive strategies** pursuing to mitigate impact of threats once they have been implemented. Specifically, this activity seeks to abstract the concepts of procedures, training, communications plans, succession plans and arrangement activities in a single dynamic serving as an introduction to the area of *incident response* developed in the information security literature.
 
 ### Input data
 * Risk matrix
@@ -32,7 +32,7 @@ The idea behind this activity is to complement policies revealed previously as *
 
 ### Instructions
 1. Check risk matrix raised in the previous activity and select one or two threats considered relevant to raise security procedures.
-* It is natural that there are threats depending highly on personnel or external allies for their resolution, although it is desirable they are resolvable threats to a greater extent by the same members of the organization.
+* It is natural that there are threats depending highly on the personnel or external allies for their resolution, although it is desirable they are resolvable threats to a greater extent by the same members of the organization.
 
 2. For each threat, which from now on will be treated as security incidents since procedures for its occurrence will be prepared, make a brainstorm of actions that should be taken as steps, write down each one on sticky notes, put them on paper or onto the wall, then reorder as new steps are added. As an aid to the group, usually  actions taken in a procedure follow:
 * Minimize the damage.
@@ -40,7 +40,7 @@ The idea behind this activity is to complement policies revealed previously as *
 * Resume activities as soon as possible.
   ![Gráfico](../img/0302/bocetos-sda-0302-1.png)
 
-3. For each step ask to the group who would execute the procedure. Write down on a sticky note and place it in a second column on the wall next to the step in issued, you also can ask the group who would supply this responsible in case that is not present during the incident. If applies, take note and place these substitutes below the principal responsible as shown in the graph.
+3. For each step ask the group who would execute the procedure. Write down on a sticky note and place it in a second column on the wall next to the step in issued, you also can ask the group who would supply this responsible person in case that is not present during the incident. If applies, take note and place these substitutes below the principal responsible as shown in the graph.
   ![Gráfico](../img/0302/bocetos-sda-0302-2.png)
 
 4. With consent in the group on the steps of the procedure to take, ask at what point should establish communication with the organization's external stakeholders. The idea behind this is to write down these mentioned communication points as new steps (ideally in a different color) in order to include them into steps of the procedure by rearranging the existing ones.

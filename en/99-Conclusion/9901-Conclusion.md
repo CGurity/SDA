@@ -9,7 +9,7 @@ After executing the activities proposed in this manual, we will have equipped th
 
 In addition to developing formal policies on organizational security, it is recommended to consult references on information security and complement the development of policies and procedures with the generation of a safety training plan for the entire team of the organization. This training process can help to maintain in a more effective way the policies and procedures developed as well as an adequate integration of security principles in the daily processes of the organization.
 
-Below are some projects of interest to security facilitators for organizations, which in addition to serving as inspiration and input for this manual, are complementary references to expand the scope of security work that can be carried out by an organization that does activism or any other form of advocacy in the area of ​​Human Rights:
+Below are some projects of interest to security facilitators for organizations, which in addition to serving as inspiration and input for this manual, are complementary references to expand the scope of security work that can be carried out by an organization that works on activism or any other form of advocacy in the area of ​​Human Rights:
 
 ![logo](../img/9901/holistic.png)
 
@@ -21,7 +21,7 @@ Below are some projects of interest to security facilitators for organizations, 
 
 ![logo](../img/9901/umbrella.png)
 
-[Umbrella](https://secfirst.org): Android application with training material in strategies against physical, digital and emotional security risks, contains checklists proposed in specific situations.
+[Umbrella](https://secfirst.org): Android application with training material in strategies against physical, digital and emotional security risks, contain checklists proposed in specific situations.
 
 ![logo](../img/9901/dfak.png)
 

@@ -29,7 +29,7 @@ Unlike other activities in this manual, the present is more of an expository nat
 * Describes security objectives and strategies.
 * It must cover as many cases as possible in the areas that define it.
 
-  In addition to these considerations, security policies should be aligned with the mission and vision of the organization, in order to be designed so that they can be applied for long periods of time without requiring any major changes. It is normal for policy reviews to be made only when some of these conditions are met:
+  In addition to these considerations, the security policies should be aligned with the mission and vision of the organization, in order to be designed so that they can be applied for long periods of time without requiring any major changes. It is normal for policy reviews to be made only when some of these conditions are met:
 
 * A long period of time has passed since your last review. Normally in the order of the years (e.g., between every 3 and 5 years).
 * There was a security incident which clearly showed that the policy is not effective in a certain scenario and must be reformulated to better face future risks.
@@ -37,7 +37,7 @@ Unlike other activities in this manual, the present is more of an expository nat
 
 Security policies must be respected by all members of the organization, for this reason, it is important that those in charge of management and operations are involved in the process, approve these policies and help their compliance during daily basis operations.
 
-2. Expose the concept of security directive to the group:
+2. Expose the concept of the security directive to the group:
 
  > **Security Directive:** Set of specific rules carried out by the work team and its relevant allies to implement security policies in daily work. These directives can be more specific in the use of specific tools and equipment and can change over time more frequently.
 
@@ -50,7 +50,7 @@ This concept can be proposed as the union of several ideas:
 * An amount of time has passed and now some security practices could be questioned or improved thanks to discoveries or updates. Take for example, when a critical vulnerability is discovered in a tool or when a new product emerges improving the conditions of the organization's processes so is desirable to be implemented. Normally these times are measured in months (e.g., between every 3 to 12 months).
 * There were changes related to security policies, including ones as a result of security incidents that affect the policy in question.
 
-In general, security policies own a clear instructional language, specifying specific actions to take in certain scenarios, take for example:
+In general, the security policies own a clear instructional language, specifying specific actions to take in certain scenarios, take for example:
 * X piece of information is transmitted through these channels: ...
 * It is not allowed to use the Y device to store highly sensitive information.
 * Z piece of information can be transmitted by the W channel under the following conditions: ...

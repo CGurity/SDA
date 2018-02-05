@@ -57,7 +57,7 @@ In general, it seems easier for participants to use a structure in the wording o
   1. A hacker introduces a malware into the computer of the organization's director.
   2. The intelligence agency of my country monitors telephone calls from journalistic sources exposing the physical integrity of those. 
 
-  > [A event] [make an action] to/about [a resource][provoking certain consequences – optional]
+  > [An event] [make an action] to/about [a resource][provoking certain consequences – optional]
 
   1.  An earthquake measuring 7.5 on the Richter scale or more occurs, destroying the data center of the company where the website is hosted.
   2. A blackout leaves the office without electricity, making it impossible to work on computers.
@@ -75,7 +75,7 @@ In general, it seems easier for participants to use a structure in the wording o
   Rearranging threats.
 
 4. Explain the concept of occurrence probability and define a scale to represent it onto the risk matrix. Reorganize the threats on the horizontal axis with the help of the group in such a way that they coincide not only with the impact scale but also with the probability of occurrence selected in each case, completing the risk matrix of the organization, as shown in graphic.
-  * In the graphics a scale of 1 to 10 is suggested, this can be changed by another type of scales such as those described below. However, if you want to make a numerical analysis of the threats it is necessary that the scale is also numerically and equal to the scale used for the risk levels,
+  * In the graphics a scale of 1 to 10 is suggested, this can be changed by another type of scales such as those described below. However, if you want to make a numerical analysis of the threats it is necessary that the scale be also quantified in numbers and equal to the scale used for the risk levels.
     * Low, medium and high probability.
     * Null, low, high probability and certainty of occurrence.
     * Scale from 1 to 5.
@@ -103,3 +103,4 @@ At the end of the activity you can discuss and emphasize what has been achieved:
 ### References
 * SAFETAG
 * SaferJourno
+* 

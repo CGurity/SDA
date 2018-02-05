@@ -45,7 +45,7 @@ Depending on the number of participants and the convenience of the facilitator, 
   * The organization to update its formal documents in order to reflect its evolution and current status.
   * The organization to realize it deviated from its initial intentions, and should consider redirecting its actions to insert itself successfully in what was initially proposed.
 
-  In any case, this it is not  the facilitator's responsibility to initiate an in-depth discussion about those differences, but to invite reflection and review at an appropriate time for the organization, maintaining a friendly and respectful language when recognizing the value the exercise had. For this methodology, knowing how the organization works ** today ** is enough to continue along with the activities, so these discrepancies should not affect the success in any work session.
+  In any case, this it is not  the facilitator's responsibility to initiate an in-depth discussion about those differences, but to invite reflection and review at an appropriate time for the organization, maintaining a friendly and respectful language when recognizing the value the exercise had. For this methodology, knowing how the organization works **today** is enough to continue along with the activities, so these discrepancies should not affect the success in any work session.
 
 ### References
 * [A Step-by-Step Exercise for

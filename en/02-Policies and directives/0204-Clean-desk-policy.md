@@ -25,8 +25,8 @@ The initial intention is, the **Clean desk policy**  is explicitly found in most
 
 ### Scope of the policy
 In summary, the scope associated with this policy, available in section (1) of the clean desk policy template, covers the following aspects:
-* Work spaces affected by this policy.
-* Person affected by this policy.
+* Workspaces affected by this policy.
+* A person affected by this policy.
 
 ### Measures in spaces with work equipment
 > What measures should be taken in the organization's workspaces?
@@ -49,10 +49,10 @@ Discuss, modify and approve the content of section (3) of the corresponding temp
 
 ### Physical information layout
 > How should physical information be available once it has to be dismissed?
-Discuss, modify and approve the content in section (4) of the corresponding template. Some of the most important aspects discussed in this section are:
+Discuss, modify and approve the content in the section (4) of the corresponding template. Some of the most important aspects discussed in this section are:
 
 * The use of equipment or techniques to make unintelligible physical information.
-* Secure places to deposit information in physical after it has been processed for its disposal.
+* To secure places by depositing information in physical after it has been processed for its disposal.
 
 ## References
 * [Clean Desk Policy template | SANS Institute](https://www.sans.org/security-resources/policies/general/pdf/clean-desk-policy)

@@ -15,7 +15,7 @@ In this activity, the main idea is to continue exploring the organization, gathe
 
 ### Products
 * Direct
-  * Stakeholders map.
+  * Stakeholder map.
 * Indirect
   * Group awareness about stakeholders of the organization.
 
@@ -66,7 +66,7 @@ Once the objectives of the organization have been related to the previous activi
    * Categorization of the stakeholders is perceptual, perhaps for a group a certain name seems an ally, but in practice can play a different role unknown to the organization.
    * Generally, an organization is linked to many more stakeholders than can be obtained in a 10-minute brainstorm. It is worthwhile for the group to feel comfortable applying this methodology so they can replicate it by themselves once they consider it convenient.
 
-It is highly important that the map obtained  to be available for future activities, if done on paper, it is recommended not to dismantle these post-its and / or sticky notes, but move them to a place where they are visible and do not interfere with other activities. In case of doing the activity on digital equipment, it is recommended to have at hand the file where the information was collected.
+It is highly important that the map obtained  to be available for future activities, if done on paper, it is recommended not to dismantle these post-its and / or sticky notes, but move them to a place where they are visible and do not interfere with other activities. In a case of doing the activity on digital equipment, it is recommended to have at hand the file where the information was collected.
 
 ### References
 * [Holistic Security: 2.3 Vision, Strategy and Actors](https://holistic-security.tacticaltech.org/chapters/explore/2-3-vision-strategy-and-actors)
