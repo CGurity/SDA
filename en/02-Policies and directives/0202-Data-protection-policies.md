@@ -4,7 +4,7 @@ sectionclass: h2
 title: Política de protección de información
 parent-id: 02-politicas-y-directivas
 ---
-# Data protection 
+# Data protection policies
 
 
 Estimated time: 15 min

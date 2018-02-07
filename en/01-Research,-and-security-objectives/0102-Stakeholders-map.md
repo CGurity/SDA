@@ -1,7 +1,7 @@
 ---
 sectionid: 01-02-Stakeholders-map-y-data
 sectionclass: h2
-title: Stakeholders-map-y-data
+title: Mapping and Stakeholder classification
 parent-id: 01-fundacion
 ---
 ### Justification
@@ -72,3 +72,4 @@ It is highly important that the map obtained  to be available for future activit
 * [Holistic Security: 2.3 Vision, Strategy and Actors](https://holistic-security.tacticaltech.org/chapters/explore/2-3-vision-strategy-and-actors)
 * [Security First: ChampionsCurriculum](https://github.com/securityfirst/championscurriculum/blob/master/communications.md)
 * * * * *
+* 

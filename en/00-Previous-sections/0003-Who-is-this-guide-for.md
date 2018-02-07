@@ -12,4 +12,4 @@ The content of this manual can also be adapted to any other type of organization
 ## Objectives of this manual's application
 1. Establish security policies and protocols for civil society organizations adapted to their operations, and respond to the needs of their changing contexts and future projection.
 2. Increase the understanding of the security context within the members of civil society organizations at risk.
-3. Introduce civil society organizations (especially organizations defending human rights and independent media) in the threat model, risk analysis, and any other basic methodologies for surveying and assessing the level of organizational security 3.
+3. Introduce civil society organizations (especially organizations defending human rights and independent media) in the threat model, risk analysis, and any other basic methodologies for surveying and assessing the level of organizational security.

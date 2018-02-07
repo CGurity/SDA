@@ -24,7 +24,7 @@ This section seeks the participants to put aside the stress produced by high wor
 
 ### Brainstorming and recognition of formal objectives
 
-Estimated time: 15 min
+Estimated time: 20 min
 
 ### Previous planning
 Find out if it is easy to obtain, mission, vision, objectives of the organization and prepare the corresponding material.

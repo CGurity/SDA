@@ -4,7 +4,7 @@ sectionclass: h2
 title: Política de uso aceptable de equipos, cuentas y contraseñas
 parent-id: 02-politicas-y-directivas
 ---
-# Acceptable use policy to accounts and passwords
+# Acceptable use policy to equipment, accounts and passwords
 
 Estimated time: 15 min
 
@@ -62,8 +62,8 @@ The **Acceptable use policy, accounts, and passwords** to be developed in this a
 In summary, the scope associated with this policy covers the following aspects:
 
 * To which people this policy impact: generally all members of the organization and allies who work on specific projects are included.
-* What equipment impacts the policy:
-   * If there is only equipment include that is owned by the organization or if it also includes the equipment owned by the members of the organization used for professional purposes (work model *Bring your own equipment* or Bring Your Own Device - BYOD in English).
+* What equipment this policy impact:
+   * If there is only equipment include that is owned by the organization or if it also includes the equipment owned by the members of the organization used for professional purposes (work model *Bring your own equipment* or Bring Your Own Device - BYOD).
    * If it includes computers and/or phones and other mobile equipment.
 * What type of digital services covers: whether it includes email, general internet use, social networks or any other service that is relevant to the organization. A valid option can also be all services that are used to work in the organization.
 
@@ -167,14 +167,14 @@ Discuss, modify and approve the content of section (8) of the policy template fo
 #### For each specific service
 * What characteristics can be configured in addition to those present in the general policy?
 
-##### Example: Facebook
+##### For example: Facebook
 * Use of pages vs users or groups.
 * Management of administrators.
 * Security notifications.
 * Authentication in two factors.
 * Emergency contacts.
 
-##### Example: Twitter
+##### For example: Twitter
 * Linking phone number to the account.
 
 ### 9. Password and authentication policies and directives
@@ -209,4 +209,4 @@ Discuss, modify and approve the content of section (4) of the corresponding temp
 * [Sample Acceptable Usage Policy | getsafeonline.org](https://www.getsafeonline.org/themes/site_themes/getsafeonline/download_centre/sample_acceptable_usage_policy.pdf)
 * [Email policy template | Sans institute](https://www.sans.org/security-resources/policies/general/pdf/email-policy)
 * [Password Protection Policy template | SANS Institute](https://www.sans.org/security-resources/policies/general/pdf/password-protection-policy)
-* * 
+* * * 

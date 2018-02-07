@@ -61,7 +61,7 @@ The idea behind this activity is to complement policies revealed previously as *
 * It is worth remembering that different incidents can affect different communication channels.
   ![Gráfico](../img/0302/bocetos-sda-0302-5.png)
 
-7. Suggest the team to empty the information collected during this activity in a formal document. You can use the template available on the website of this material (https://sda.guerracarlos.com).
+7. Suggest the team to empty the information collected during this activity in a formal document. You can use the template 4 available on the website of this material (https://sda.guerracarlos.com).
 
 ### Closure of the activity
 At the end of the activity you can discuss and emphasize what has been achieved:
