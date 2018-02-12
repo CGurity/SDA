@@ -52,7 +52,7 @@ La idea de esta actividad es introducir el concepto de análisis de riesgo a la 
  
  **B.** Que se pierda el acceso a las cuentas bancarias.
 
-  Sin embargo, en algunas ocasiones esta forma de construir las amenazas puede resultar tan vaga que no representen posibles eventos sino otras cosas, como por ejemplo vulnerabilidades o ausencia de medidas de seguridad. En ese sentido se recomienda a los facilitadores *asegurarse de que la redacción de las amenazas a lo largo del ejercicio corresponda a eventos*. Si el facilitador lo considera conveniente, puede plantear una estructura de redacción que ayude a disminuir errores, por ejemplo:
+  Sin embargo, en algunas ocasiones esta forma de construir las amenazas puede resultar tan vaga que no representa posibles eventos sino otras cosas, como por ejemplo vulnerabilidades o ausencia de medidas de seguridad. En ese sentido se recomienda a los facilitadores *asegurarse de que la redacción de las amenazas a lo largo del ejercicio corresponda a eventos*. Si el facilitador lo considera conveniente, puede plantear una estructura de redacción que ayude a disminuir errores, por ejemplo:
   > Que [un actor] [ejecute una acción] a/sobre [un recurso] [provocando ciertas consecuencias – opcional]
 
  **A.** Que un hacker introduzca un malware en la computadora del director de la organización.
@@ -106,3 +106,4 @@ Al finalizar la actividad se puede discutir y hacer énfasis en lo que se logró
 ### Referencias
 * SAFETAG
 * SaferJourno
+* 

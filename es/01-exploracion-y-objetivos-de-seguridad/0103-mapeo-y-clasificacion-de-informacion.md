@@ -97,7 +97,7 @@ La idea de esta actividad es completar la recopilación de información sobre la
   * Es posible que algunos espacios queden en blanco, dependiendo del caso vale la pena preguntarle al equipo qué consecuencias estan faltando en esos espacios. En el caso de impactos bajos o nulos no es obligatorio colocar consecuencias directas, esto se puede explicar con que todo lo que se considere por debajo de la consecuencia con menor impacto es irrelevante en términos de riesgos.
   * A esta parte de la actividad se le debe dedicar un tiempo adecuado ya que representa el pilar de la primera política de seguridad de la organización (clasificación de información).
 
-6. Una vez que el equipo esté conforme con la matriz de consecuencias, se pueden asociar los objetos de datos mapeadas al comienzo de la actividad con el nivel de impacto de las consecuencias correspondientes al compromiso. Esto puede hacerse de múltiples formas, una propuesta se dispone en el siguiente grafico.
+6. Una vez que el equipo esté conforme con la matriz de consecuencias, se pueden asociar las piezas de información mapeadas al comienzo de la actividad con el nivel de impacto de las consecuencias correspondientes al compromiso. Esto puede hacerse de múltiples formas, una propuesta se dispone en el siguiente grafico.
 
   ![Grafico con piezas de datos asociadas a los niveles de impacto](../img/0103/bocetos-sda-0103-3.png)
 
@@ -116,3 +116,4 @@ Al finalizar la actividad se puede discutir y hacer énfasis en lo que se logró
 =======
 * [Hand-book Of the Modern Development Specialist | Responsible Data Forum](https://responsibledata.io/resources/handbook/)
 >>>>>>> d98a881b3980bf3b900b0239ac30a753bada3074
+>>>>>>>

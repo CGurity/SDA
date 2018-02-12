@@ -51,7 +51,7 @@ Notas adhesivas y marcadores o un equivalente digital al igual que en las activi
   * Servicios de almacenaje en la nube como Dropbox o Google Drive.
   * Teléfonos móviles.
   * Software administrativo y/o contable.
-2. Continuar la lluvia de ideas pero ahora preguntando a los participantes a través de cuales medios se transmite la información. Agregar las respuestas a la lista anterior como muestra el gráfico:
+2. Continuar la lluvia de ideas pero ahora preguntando a los participantes a través de cuáles medios se transmite la información. Agregar las respuestas a la lista anterior como muestra el gráfico:
   ![Grafico](../img/0104/bocetos-sda-0104-2.png)
   Algunos ejemplos que pueden ayudar al grupo a desarrollar mejor la lluvia de ideas son:
   * Correo electrónico convencional.

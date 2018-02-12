@@ -44,7 +44,7 @@ Dependiendo de la cantidad de participantes y de la comodidad del facilitador, s
   * La organización existe para...
   * Una razón de ser de la organización es...
 3. Luego de 5 minutos, pedir a los participantes que peguen las notas adhesivas en un lugar  definido, y se tomen unos minutos adicionales para agrupar las notas que esten repetidas o sean muy afines. Es importante que quede en evidencia fácilmente cuando un mismo grupo tenga varias notas asociadas, por lo que no se recomienda tapar por completo las notas similares.
-4. Realizar un recuento de lo que se recopiló haciendo especial énfasis en las cosas comunes.
+4. Realizar un recuento de lo que se recopiló haciendo especial énfasis en las ideas comunes.
 5. Mostrar la misión, visión, y objetivos formales disponibles discutiendo brevemente sobre las similitudes y/o discrepancias que puedan existir entre lo recopilado en la lluvia de ideas, y lo que está formalmente escrito. En caso de  encontrar diferencias muy marcadas, podría ser una señal de que:
   * La organización debe actualizar sus documentos formales para reflejar su evolución y estado actual.
   * La organización se desvió de sus intenciones iniciales, y debería plantear reconducir sus acciones para insertarse con exito en lo propuesto inicialmente.

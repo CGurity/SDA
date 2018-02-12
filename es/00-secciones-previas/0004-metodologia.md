@@ -10,7 +10,7 @@ Esta guía está dividida en 3 secciones principales, las cuales contienen un gr
 
 En la primera sección se busca explorar el contexto de la organización y algunos de sus procesos internos, una vez levantada la información se establecen las bases de las primeras políticas de seguridad de la organización (Política de clasificación de información y política de retención de datos). 
 
-La segunda sección desarrolla una por una otras políticas de seguridad a través de actividades facilitadas, mientras que la tercera sección introduce y orienta en la construcción de los conceptos de modelos de amenazas y protocolos de seguridad, haciéndo enfasis en la creación de matrices de riesgo, planes de sucesión, de comunicaciones y secuencia del protocolo.
+La segunda sección desarrolla una por una otras políticas de seguridad a través de actividades facilitadas, mientras que la tercera sección introduce y orienta en la construcción de los conceptos de modelos de amenazas y procedimientos de seguridad, haciéndo enfasis en la creación de matrices de riesgo, planes de sucesión, de comunicaciones y secuencia del protocolo.
 
 Al final se expone una sección de referencias que recopila enlaces de proyectos, bibliografía e iniciativas que complementan las actividades cubiertas, así como  los próximos pasos para ampliar, profundizar y perfeccionar las políticas construidas con este material.
 
@@ -27,4 +27,4 @@ En cada sección se propone un conjunto de actividades que explican el proceso d
 Las referencias están numeradas en la versión impresa y pueden ser consultadas desde un explorador web de dos maneras como se muestra a continuación:
 
 1. Ingresando a [sda.guerracarlos.com/referencias](sda.guerracarlos.com/referencias), navegar a la referencia de interés y hacer clic
-2. Ingresando a [sda.guerracarlos.com/referencia/<referencia>](#), por ejemplo [sda.guerracarlos.com/referencia/19](sda.guerracarlos.com/referencia/19) para la referencia #192. 
+2. Ingresando a [sda.guerracarlos.com/referencia/<referencia>](#), por ejemplo [sda.guerracarlos.com/referencia/19](sda.guerracarlos.com/referencia/19) para la referencia #192. 2. 

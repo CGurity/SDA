@@ -5,7 +5,7 @@ title: Licencia
 is-parent: yes
 ---
 
-Cuando mencionamos la licencia de este material nos referimos a la licencia con la cual se publica el repositorio de donde se extrae el contenido usado en este material, disponible en [Github](https://hithub.com/cguerrave/SDA) para el momento de la publicación.
+Cuando mencionamos la licencia de este material nos referimos a la licencia con la cual se publica el repositorio de donde se extrae el contenido usado en este material, disponible en [Github](https://hithub.com/cguerrave/SDA) para el momento de la publicación. Cuando en la licencia se habla de software, esto aplica al contenido.
 
 MIT License
 

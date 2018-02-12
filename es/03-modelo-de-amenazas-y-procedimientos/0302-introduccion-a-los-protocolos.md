@@ -57,12 +57,12 @@ La idea de esta actividad es complementar las políticas desarrolladas anteriorm
   * Vale la pena recordar que diferentes incidentes pueden afectar diferentes vías de comunicación.
   ![Gráfico](../img/0302/bocetos-sda-0302-5.png)
 
-7. Sugerir al equipo vaciar la información que se recopiló durante la actividad en un documento formal. Se puede utilizar la plantilla disponible en el sitio web de este material (https://sda.guerracarlos.com).
+7. Sugerir al equipo vaciar la información que se recopiló durante la actividad en un documento formal. Se puede utilizar la plantilla 4 disponible en el sitio web de este material (https://sdamanual.org/es).
 
 ### Cierre de la actividad
 Al finalizar la actividad se puede discutir y hacer énfasis en lo que se logró:
 * Se elaboraron procedimientos reales para incidentes específicos.
-* Se asociaron los pasos del procedimiento con encargados y sucesores en caso de no estar disponible.
+* Se asociaron los pasos del procedimiento con encargados y sucesores en caso de no estar disponibles.
 * Se integró un plan de comunicaciones externas al procedimiento.
 * Se establecieron las bases de comunicaciones internas durante incidentes.
 * Se exploraron los pasos para construir procedimientos de seguridad con la metodología utilizada.
@@ -73,7 +73,7 @@ Luego de finalizada la actividad, vale la pena proponer al grupo después de suc
   * ¿Se siguieron los procedimientos? ¿Éstos fueron adecuados?
   * ¿Hubo pasos o acciones tomadas que inhibieran la recuperación del incidente?
   * ¿Qué haría el equipo diferente si pasa algo similar en el futuro?
-  *¿Qué acciones correctivas pueden prevenir incidentes similares en el futuro?
+  * ¿Qué acciones correctivas pueden prevenir incidentes similares en el futuro?
   * ¿Qué indicadores hay que revisar en el futuro para detectar incidentes similares?
   * ¿Qué herramientas o recursos se necesitan para analizar, detectar y mitigar futuros incidentes?
 

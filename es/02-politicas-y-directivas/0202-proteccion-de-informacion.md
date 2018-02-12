@@ -98,7 +98,7 @@ Por simplicidad, si la organización y el facilitador lo consideran conveniente,
 
 
 ### Aspectos excluidos en la política
-* Tiempo de vida de la información: donde se especifique por cuanto tiempo la organización retendrá ciertos tipos de información y qué tipo de procesamiento se necesitará realizar antes de desincorporarlos o borrarlos.
+* Tiempo de vida de la información: donde se especifique por cuánto tiempo la organización retendrá ciertos tipos de información y qué tipo de procesamiento se necesitará realizar antes de desincorporarlos o borrarlos.
 * Disposición de la información: cómo se debe eliminar la información según su tipo de sensibilidad, con la intención de evitar la reconstrucción de esta información o el rastreo de la existencia de los datos.
 * Detalle de riesgos asociados a esta política: en donde se elabore en qué tipo de riesgos se están atacando con el cumplimiento de esta política.
 * Responsabilidades puntuales: donde se pueden especificar responsabilidades que escapan de ser custodio de la información y pueden ser relevantes para la organización.
