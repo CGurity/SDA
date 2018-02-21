@@ -4,7 +4,7 @@ sectionclass: h2
 title: Política de uso aceptable de equipos, cuentas y contraseñas
 parent-id: 02-politicas-y-directivas
 ---
-# Acceptable use policy to equipment, accounts and passwords
+# Acceptable use policy to devices, accounts and passwords
 
 Estimated time: 15 min
 
