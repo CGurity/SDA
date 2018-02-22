@@ -4,7 +4,7 @@ sectionclass: h1
 title: Fundación (Políticas y Directivas de seguridad)
 is-parent: yes
 ---
-The idea in this step of the methodology is to create the basis to develop all the minimum security policies of the organization. Although ideally this step should be applied at the moment of conception of the organization, this methodology is built and written to be applied in existing organizations.
+The idea behind this step of the methodology is to create the basis to develop all the minimum security policies of the organization. Although ideally this step should be applied at the moment of conception of the organization, this methodology is built and written to be applied in existing organizations.
 
 Among the activities that make up this step are:
 
