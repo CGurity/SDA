@@ -1,7 +1,7 @@
 ---
 sectionid: 01-01-Records-management-of-the-organization's objectives
 sectionclass: h2
-title: Records-management-of-the-organization's objectives
+title: Research and objectives of the organizations
 parent-id: 01-fundacion
 ---
 
