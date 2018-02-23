@@ -4,9 +4,10 @@ sectionclass: h1
 title: Generación de políticas base de seguridad
 is-parent: yes
 ---
-A juicio del faciltador y la organización algunas de estas actividades pueden realizarse con un grupo más pequeño usando los insumos que se recopilaron en secciones anteriores, o como un proceso colaborativo con el equipo de la organización completo a modo de continuación de las actividades de la sección 1.
+These activities can be carried out as a collaborative process with the organization's team as a continuation of the activities in section 01.
 
-Nucleación de políticas en la industria de la seguridad por simplicidad.
+
+
 
 ### Conceptos abordados en esta sección
 * **Política de seguridad:** Documento formal que recopila las estrategias de seguridad que una organización toma en ámbitos específicos de sus operaciones, brindan un panorama general del estado de la seguridad de la organización, los objetivos que persigue en términos de seguridad y criterios para determinar posibles excepciones a la política o acciones a tomar ante situaciones que escapen del alcance actual del documento.
