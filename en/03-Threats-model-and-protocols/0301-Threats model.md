@@ -2,9 +2,9 @@
 sectionid: 03-01-Risk-matrix
 sectionclass: h2
 title: Threats-model-and-risk-matrix
-parent-id: 03-Threats-model-and-protocol
+parent-id: 03-Threats-model-and-procedures
 ---
-Estimated time: XX min
+Estimated time: 120 min
 
 ### Justification
 The idea of this activity is introducing the concept of risk analysis of the organization and also to use an abstraction of the risk matrix methodology to make a first analysis of the organization's security context, which will be used to select security scenarios in order to elaborate procedures to the case in the second activity.
@@ -103,4 +103,4 @@ At the end of the activity you can discuss and emphasize what has been achieved:
 ### References
 * SAFETAG
 * SaferJourno
-* 
+* * 
