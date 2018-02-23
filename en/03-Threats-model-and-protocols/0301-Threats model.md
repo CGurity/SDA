@@ -2,9 +2,9 @@
 sectionid: 03-01-Risk-matrix
 sectionclass: h2
 title: Threats-model-and-risk-matrix
-parent-id: 03-Threats-model-and-protocol
+parent-id: 03-Threats-model-and-processes
 ---
-Estimated time: XX min
+Estimated time: 120 min
 
 ### Justification
 The idea of this activity is introducing the concept of risk analysis of the organization and also to use an abstraction of the risk matrix methodology to make a first analysis of the organization's security context, which will be used to select security scenarios in order to elaborate procedures to the case in the second activity.
@@ -30,7 +30,7 @@ The idea of this activity is introducing the concept of risk analysis of the org
 * In case of doing the activity in digital equipment:
   * Computer.
   * Projector.
-  * Spreadsheet ready to fill, showing the headings with stakeholder categories. 
+  * Spreadsheet ready to fill, showing the headings with stakeholder categories.
 
 
 ### Instructions
@@ -55,7 +55,7 @@ In general, it seems easier for participants to use a structure in the wording o
   > [A stakeholder] [execute an action] to/about [a resource] [provoking certain consequences – optional]
 
   1. A hacker introduces a malware into the computer of the organization's director.
-  2. The intelligence agency of my country monitors telephone calls from journalistic sources exposing the physical integrity of those. 
+  2. The intelligence agency of my country monitors telephone calls from journalistic sources exposing the physical integrity of those.
 
   > [An event] [make an action] to/about [a resource][provoking certain consequences – optional]
 
@@ -103,4 +103,4 @@ At the end of the activity you can discuss and emphasize what has been achieved:
 ### References
 * SAFETAG
 * SaferJourno
-* 
+*
