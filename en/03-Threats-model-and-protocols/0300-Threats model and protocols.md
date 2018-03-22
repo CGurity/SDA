@@ -1,7 +1,7 @@
 ---
 sectionid: 03-modelo-de-amenazas-y-protocolos
 sectionclass: h1
-title: Model-of-threats
+title: Model of threats
 ---
 ### Threat model
 The idea behind this is to use inputs of the first phase to build a risk matrix that considers the threats that the organization faces, and thus validate that security objectives, map of stakeholders and data mapping are consistent with all that is being documented throughout this analysis. It also seeks to confirm that basic security policies are capable of mitigating any possible threat.

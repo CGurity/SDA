@@ -1,7 +1,7 @@
 ---
-sectionid: 03-02-introduction-to-protocols
+sectionid: 03-02-introduction to procedures
 sectionclass: h2
-title: Introduction-to-security-procedures
+title: Introduction to security procedures
 parent-id: 03-Threats model-and-procedures
 ---
 Estimated time: 45 min

@@ -1,8 +1,7 @@
 ---
 sectionid: 03-01-Risk-matrix
 sectionclass: h2
-title: Threats-model-and-risk-matrix
-parent-id: 03-Threats-model-and-processes
+title: Threat model and Procedures
 ---
 Estimated time: 120 min
 
@@ -103,4 +102,3 @@ At the end of the activity you can discuss and emphasize what has been achieved:
 ### References
 * SAFETAG
 * SaferJourno
-*

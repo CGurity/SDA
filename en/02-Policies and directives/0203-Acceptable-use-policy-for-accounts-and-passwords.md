@@ -205,8 +205,7 @@ Discuss, modify and approve the content of section (4) of the corresponding temp
 * Explicit prohibition of execution of any illegal task, for example denial of service attacks (DoS and DDoS) and blocking of access to resources to other users without justification.
 
 ### References
-* [Acceptable use policy template | SANS Institute](https://www.sans.org/security-resources/policies/general/pdf/acceptable-use-policy)
-* [Sample Acceptable Usage Policy | getsafeonline.org](https://www.getsafeonline.org/themes/site_themes/getsafeonline/download_centre/sample_acceptable_usage_policy.pdf)
-* [Email policy template | Sans institute](https://www.sans.org/security-resources/policies/general/pdf/email-policy)
-* [Password Protection Policy template | SANS Institute](https://www.sans.org/security-resources/policies/general/pdf/password-protection-policy)
-* * * 
+* [Acceptable use policy template SANS Institute](https://www.sans.org/security-resources/policies/general/pdf/acceptable-use-policy)
+* [Sample Acceptable Usage Policy getsafeonline.org](https://www.getsafeonline.org/themes/site_themes/getsafeonline/download_centre/sample_acceptable_usage_policy.pdf)
+* [Email policy template Sans institute](https://www.sans.org/security-resources/policies/general/pdf/email-policy)
+* [Password Protection Policy template SANS Institute](https://www.sans.org/security-resources/policies/general/pdf/password-protection-policy)
