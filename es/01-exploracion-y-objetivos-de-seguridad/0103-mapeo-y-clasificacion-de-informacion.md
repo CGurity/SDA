@@ -26,11 +26,7 @@ La idea de esta actividad es completar la recopilación de información sobre la
   * Conciencia grupal sobre la sensibilidad de la información manejada.
   * Criterios de clasificación de información dentro de la organización.
 
-<<<<<<< HEAD
-#### Preparación previa
-=======
 ##### Preparación previa
->>>>>>> d98a881b3980bf3b900b0239ac30a753bada3074
 * En caso de realizar la actividad en digital, se sugiere disponer de una hoja de cálculo u otro software con todos los campos y formatos necesarios.
 
 #### Materiales
@@ -49,18 +45,18 @@ La idea de esta actividad es completar la recopilación de información sobre la
   * Se puede avanzar cuando exista consenso entre los participantes.
   * Se pueden agregar más items durante el resto de la actividad.
 
-  ![Gráfico con notas de ejemplo](../img/0103/0103-1.jpg)
+  ![Gráfico con notas de ejemplo](0103/ES-Grafico-2.png)
 
 2. Con las piezas de información a la vista, explicar brevemente los conceptos de Disponibilidad, Integridad y Confidencialidad, los cuales son utilizados frecuentemente en seguridad de la información para explicar los diferentes tipos de compromiso de la información. Se sugiere desarrollar conceptos breves y revisar otras referencias para tener un entendimiento más amplio:
   * **Disponibilidad:** Es la capacidad de estar siempre al alcance de quien la necesite. Por ejemplo, cuando un servidor se queda sin electricidad atenta contra la disponibilidad de la información contenida en el mismo.
   * **Integridad:** Es la capacidad de ser confiable, en  el mero sentido de que su contenido no ha sido manipulado o alterado por un tercero. Por ejemplo, que un tercero malintencionado tome una base de datos de víctimas y modifique la información se considera una amenaza a la integridad de esa base de datos.
   * **Confidencialidad:** Es la capacidad de ser accesible sólo a quienes corresponde por definición. Por ejemplo, cuando un tercero puede leer correos electrónicos que se envían dos personas se considera una amenaza a la confidencialidad de la información transmitida por el correo.
 
-  ![Gráfico CIA](../img/0103/0103-2.jpg)
+  ![Gráfico CIA](0103/ES-Grafico-3.png)
 
 3. Conversar con los participantes sobre los tipos de consecuencias negativas que puede afrontar la organización ante algún compromiso de la información que se maneja. Crear aparte de la lluvia de ideas de piezas de información una lista horizontal con los **tipos de consecuencias** como se muestra en la figura.
 
-  ![Grafico con los ejes propuestos más abajo](../img/0103/0103-3.jpg)
+  ![Grafico con los ejes propuestos más abajo](0103/ES-Grafico-4.png)
   La idea es generar una matriz cuyo eje horizontal corresponda a esta clasificación de consecuencias, una propuesta completa (o simplificada dependiendo del facilitador y del grupo) puede ser la que se encuentra a continuación:
   * **Consecuencias digitales:** Que afecten la presencia online o recursos digitales de la organización. Por ejemplo, relacionadas a los medios sociales, servidores, cuentas de correo, servicios usados por el equipo interno, etc.
   * **Consecuencias físicas:**  Son las relacionadas a la integridad de personas, objetos y espacios. Por ejemplo, agresiones físicas, muerte, destrucción de espacios, pérdida de recursos, etc.
@@ -87,11 +83,11 @@ La idea de esta actividad es completar la recopilación de información sobre la
   * Aumento drástico de niveles de estrés en el equipo de trabajo (consecuencia emocional).
   * Aumento excesivo de la carga de trabajo del equipo (consecuencia emocional).
 
-  ![Gráfico evolucionado del anterior con ejemplos de consecuencias](../img/0103/bocetos-sda-0103-1.png)
+  ![Gráfico evolucionado del anterior con ejemplos de consecuencias](0103/ES-Grafico-5.png)
 
 5. Luego de obtener algunas consecuencias de cada uno de los tipos definidos se introduce la idea de calificar las consecuencias mapeadas según su nivel de impacto, se propone crear un eje vertical que represente impactos nulos, bajos, medios y altos. En el caso de que el facilitador y el equipo se sientan cómodos al respecto, se puede cambiar esta escala a cualquier otra que se considere conveniente (del 1 al 10, agregar a la propuesta impacto crítico, etc.). Luego de creado este eje se procede a ubicar con el apoyo del equipo las amenazas mapeadas en las distintas categorías como se muestra en la figura.
 
-  ![Gráfico evolucionado con el desarrollo de la matriz de consecuencias](../img/0103/bocetos-sda-0103-2.png)
+  ![Gráfico evolucionado con el desarrollo de la matriz de consecuencias](0103/ES-Grafico-6.png)
 
   Algunas consideraciones son:
   * Es posible que algunos espacios queden en blanco, dependiendo del caso vale la pena preguntarle al equipo qué consecuencias estan faltando en esos espacios. En el caso de impactos bajos o nulos no es obligatorio colocar consecuencias directas, esto se puede explicar con que todo lo que se considere por debajo de la consecuencia con menor impacto es irrelevante en términos de riesgos.
@@ -99,7 +95,7 @@ La idea de esta actividad es completar la recopilación de información sobre la
 
 6. Una vez que el equipo esté conforme con la matriz de consecuencias, se pueden asociar las piezas de información mapeadas al comienzo de la actividad con el nivel de impacto de las consecuencias correspondientes al compromiso. Esto puede hacerse de múltiples formas, una propuesta se dispone en el siguiente grafico.
 
-  ![Grafico con piezas de datos asociadas a los niveles de impacto](../img/0103/bocetos-sda-0103-3.png)
+  ![Grafico con piezas de datos asociadas a los niveles de impacto](0103/ES-Grafico-7.png)
 
 #### Cierre de la actividad
 Al finalizar la actividad se puede discutir y hacer énfasis en lo que se logró:

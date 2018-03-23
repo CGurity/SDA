@@ -48,7 +48,7 @@ Once the objectives of the organization have been related to the previous activi
    * Allies
    * Active allies
 
-    ![espectro-de-actores-holistic](https://holistic-security.tacticaltech.org/ckeditor_assets/pictures/24/content_spectrumallies.png)
+    ![espectro-de-actores-holistic](0102/EN-Graphic-1.png)
     (image caption)
 
    If the group and the facilitator, consider it necessary, they may spend a few minutes discussing the criteria by which the categories to be studied would be developed.
@@ -72,4 +72,4 @@ It is highly important that the map obtained  to be available for future activit
 * [Holistic Security: 2.3 Vision, Strategy and Actors](https://holistic-security.tacticaltech.org/chapters/explore/2-3-vision-strategy-and-actors)
 * [Security First: ChampionsCurriculum](https://github.com/securityfirst/championscurriculum/blob/master/communications.md)
 * * * * *
-* 
+*

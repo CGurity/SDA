@@ -46,18 +46,18 @@ The idea behind this activity is to map all the data objects that the organizati
    * You can move forward when there is consensus among the participants.
    * More items can be added during the rest of the activity.
 
-  ![Gráfico con notas de ejemplo](../img/0103-1.jpg)
+  ![Gráfico con notas de ejemplo](0103/EN-Graphic-2.png)
 
 2. Along with the pieces of information into view, briefly explain the concepts of Availability, Integrity and Confidentiality, which are frequently used in information security to explain the different types of commitment to information. It is suggested to develop concise concepts and review other references to have a broader understanding:
    * **Availability:** It is the ability to always be within reach of those who need it. For example, when a server runs out of power, it threatens the availability of the information contained in it.
    *  **Integrity:** Is the ability to be reliable, in the sense that its content has not been manipulated or altered by a third party. For example, for a malicious third party to take a database of victims and modify the information is considered a threat to the integrity.
    * **Confidentiality:** It is the ability to be accessible only to those who correspond by definition. For example, when a third party can read emails that are sent by two people, it is considered a threat to the confidentiality of the information transmitted by mail.
 
-  ![Gráfico CIA](../img/0103-2.jpg)
+  ![Gráfico CIA](0103/EN-Graphic-3.png)
 
 3. Discuss along with participants about the negative consequences the organization can meet in the event of compromising the information handled. Create apart from the brainstorming, a horizontal list based on **types of consequences** as shown in the figure.
 
-  ! [Graphic with the axes proposed below](../img/0103-3.jpg)
+  ![Graphic with the axes proposed below](0103/EN-Graphic-4.png)
   The point here is to generate a matrix in whose horizontal axis corresponds to this classification of consequences, a complete proposal (or simplified depending on the facilitator and the group) can be found below:
 
    * **Digital consequences:** That affects the organization's online presence, e.g., related to social media, servers, mail accounts, services used by the internal team, etc.
@@ -85,11 +85,11 @@ These types of consequences are just hints. In case of requiring simplified this
   * Drastic increase in levels of stress in team work (emotional consequence).
   * Excessive increase in team workload  (emotional consequence).
 
-  ## Graphic evolved from the previous one with examples of consequences
+![Graphic evolved from the previous one with examples of consequences](0103/EN-Graphic-5.png)
 
 5. After compiling a number consequences of each type, the idea of grading mapped consequences, according to their level of impact is introduced, then is later suggested to create a vertical axis that represents null, low, medium and high impacts. In the event that the facilitator and the team feel comfortable about it, you can change this scale to any other considered convenient (from 1 to 10, add to the proposed critical impact, etc.). After creating this axis, we proceed to locate the threats mapped into those different categories with the support of the team, as shown in the figure.
 
-  ## Graphic evolved in the development of the consequence matrix
+![Graphic evolved in the development of the consequence matrix](0103/EN-Graphic-6.png)
 
 Take this into consideration:
 * It is possible to end up with some blank spaces, depending on the case it is worthwhile asking the team what consequences are missing in those spaces. In the case of low or null impact it is not mandatory to place direct consequences, this can be explained by the fact that everything that is considered below the consequence with the least impact is irrelevant.
@@ -97,7 +97,7 @@ Take this into consideration:
 
 6. Once the team is satisfied with the consequence matrix, the pieces of data mapped at the beginning of the activity can be associated with the level of impact of the consequences corresponding to the commitment. This can be done in multiple ways, a proposal is available in the following graph.
 
-  ## Graphic with pieces of data associated with the levels of impact
+![Graphic with pieces of data associated with the levels of impact](0103/EN-Graphic-7.png) 
 
 ### Closure of the activity
 At the end of the activity you can discuss and emphasize what has been achieved:

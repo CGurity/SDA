@@ -64,13 +64,13 @@ In general, it seems easier for participants to use a structure in the wording o
   This wording can be adapted to consider threats without adversaries or clear events, as well as any other variation of threats that do not directly cover these drafting proposals.
 
 2. Ask the participants to think about threats to the organization, take note and place them visible for everyone.
-  ![## Gráfico](../img/0301/bocetos-sda-0301-1.png)
+  ![## Gráfico](0301/EN-Graphic-18.png)
 3. With all the threats in one place, use levels of impact development in the activity *Data mapping and classification* and place them as the vertical axis of a matrix, then along with the help of participants assign each threat a level of impact locating the sticky note or equivalent to the height of the selected impact level.
 * It is also suggested to place the qualitative impact levels defined above, then put a numerical scale as shown in the graph. This can help quantifying the level of risks after completing the activity.
-  ![## Gráfico](../img/0301/bocetos-sda-0301-2.png)
+  ![## Gráfico](0301/EN-Graphic-19.png)
   Adding impact levels.
 
-  ![## Gráfico](../img/0301/bocetos-sda-0301-3.png)
+  ![## Gráfico](0301/EN-Graphic-20.png)
   Rearranging threats.
 
 4. Explain the concept of occurrence probability and define a scale to represent it onto the risk matrix. Reorganize the threats on the horizontal axis with the help of the group in such a way that they coincide not only with the impact scale but also with the probability of occurrence selected in each case, completing the risk matrix of the organization, as shown in graphic.
@@ -78,10 +78,10 @@ In general, it seems easier for participants to use a structure in the wording o
     * Low, medium and high probability.
     * Null, low, high probability and certainty of occurrence.
     * Scale from 1 to 5.
-    ![## Gráfico](../img/0301/bocetos-sda-0301-4.png)
+    ![## Gráfico](0301/EN-Graphic-21.png)
    Adding occurrence probability levels.
 
-    ![## Gráfico](../img/0301/bocetos-sda-0301-5.png)
+    ![## Gráfico](0301/EN-Graphic-22.png)
   Rearranging threats.
 
 5. Discuss levels of risk present in the matrix and read the security context of the organization through this tool.
@@ -90,7 +90,7 @@ In general, it seems easier for participants to use a structure in the wording o
   * This exercise results in a **subjective** analysis by the members of the organization, and for no reason represents a rigorous and accurate analysis of the risk context of the organization. Even if the same team repeated the activity the next day it could result in a different risk matrix.
   * This risk matrix, as well as any other input that represents the risk context of the organization, is a **temporary** input that does not consider risks to change over time. It is very important to emphasize with the participants that this matrix represents "a picture" of the state of risk for that particular moment, and the invitation is to repeat this exercise periodically to update this obtained representation.
 
-  ![## Gráfico](../img/0301/bocetos-sda-0301-6.png)
+  ![## Gráfico](0301/EN-Graphic-23.png)
   Adding impact levels.
 
 ### Closure of the activity

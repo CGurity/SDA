@@ -55,7 +55,7 @@ It is suggested to discuss both aspects and put down the results of the discussi
 2. Introduce some types of information in classification schemes commonly used in information security, then propose to keep up with impact levels developed.
 * Public/confidential/secret/internal/regulatory data classifications, among others, are often used, taking into account the damage that may be caused by their commitment. In terms of our methodology, the same levels of impact proposed in previous sections can fill this space and therefore are suggested for reasons of simplicity.
 3. Unify in a single table cell the content of each row by the level of impact developed and empty this information in the section (2) as shown in the graph.
-  ![Grafico](../img/0202/0202-01.png)
+  ![Grafico](0202/EN-Graphic-14.png)
 
 ##### 3. Responsible for information
 > Who is responsible for the data protection?
@@ -79,7 +79,7 @@ The first premise that you want to validate with the group is if they would agre
 ##### 4a. Access control policies (optional)
 In the event that the organization manages very sensitive information, is interested in deepening the control of access to information and the time is available, the first version of an access control matrix can be developed. In the section (4) of the template is an example of a matrix where different departments, areas, or even specific positions are placed as columns depending on the structure and dynamics of the organization, and as rows pieces of information with levels of high sensitivity, and then basically describe what areas or people can access to what pieces.
 
-  ![Grafico](../img/0202/0202-02.png)
+  ![Grafico](0202/EN-Graphic-15.png)
 
 ##### 5. General data manipulation directives
 > What measures should be taken to manipulate information according to their level of sensitivity?
@@ -88,14 +88,14 @@ Using the matrix developed in the activity *information flow*, the general crite
 
 It is important that in this section you avoid describing specific tools or services, but the associated security features, which allow in case of changing any of them, have the criteria to select a new one that meets the same or better benefits. E.g.: do not suggest for communications *Signal* but Chat services with end-to-end encryption.
 
-  ![Grafico](../img/0202/0202-03.png)
+  ![Grafico](0202/EN-Graphic-16.png)
 
 ##### 6. Specific data manipulation directives
 > What specific tools, practices and devices should be used to manipulate the information according to their level of sensitivity?
 
 In a similar way to the previous step, for each level of impact or sensitivity, devices, other resting places of the information and communication channels that were selected for each level will be collected, and thus placed in the template of section (6)   as shown in the table. Space is left to place all necessary considerations that need to be met in each case if applicable.
 
-  ![Grafico](../img/0202/0202-04.png)
+  ![Grafico](0202/EN-Graphic-17.png)
 
 For simplicity, if the organization and the facilitator consider it convenient, only the highest levels of impact can be considered, since the lower levels may require quite more time and effort to fill in the information requested in the template, in this case, the tables for low and medium levels can be deleted.
 

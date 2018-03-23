@@ -45,7 +45,7 @@ Una vez relacionados los objetivos de la organización en la actividad anterior,
   * Aliados
   * Aliados activos
 
-    ![espectro-de-actores-holistic](../img/0102/boceto-sda-xxxx.png)
+    ![espectro-de-actores-holistic](0102/ES-Grafico-1.png)
     (pie de foto)
 
     Si el grupo y el facilitador lo consideran necesario, podrán dedicar unos minutos a discutir acerca de los criterios por los cuales se desarrollarían las categorías a estudiar.

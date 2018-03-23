@@ -43,38 +43,37 @@ La idea de esta actividad es introducir el concepto de análisis de riesgo a la 
   > [Algo malo pasa]
 
   **A.** Ausencia del director.
-  
+
   **B.** Ladrones entran a la oficina.
 
   > Que [algo malo le pase a algún recurso o actor vinculado a la organización]
 
  **A.** Que hackeen la cuenta de Twitter.
- 
+
  **B.** Que se pierda el acceso a las cuentas bancarias.
 
   Sin embargo, en algunas ocasiones esta forma de construir las amenazas puede resultar tan vaga que no representa posibles eventos sino otras cosas, como por ejemplo vulnerabilidades o ausencia de medidas de seguridad. En ese sentido se recomienda a los facilitadores *asegurarse de que la redacción de las amenazas a lo largo del ejercicio corresponda a eventos*. Si el facilitador lo considera conveniente, puede plantear una estructura de redacción que ayude a disminuir errores, por ejemplo:
   > Que [un actor] [ejecute una acción] a/sobre [un recurso] [provocando ciertas consecuencias – opcional]
 
  **A.** Que un hacker introduzca un malware en la computadora del director de la organización.
- 
+
  **B.**  Que el organismo de Inteligencia de mi país monitoree las llamadas telefónicas con las fuentes periodísticas exponiendo la integridad física de estas.
 
   > Que [un evento] [ejerza una acción] a/sobre [un recurso][provocando ciertas consecuencias – opcional]
 
   **A.** Que ocurra un terremoto de 7.5 o más, destruyendo el datacenter de la empresa donde se aloja la página web.
-  
+
  **B.** Que un apagón deje sin electricidad a la oficina imposibilitando el trabajo en las computadoras.
 
   Esta redacción puede adaptarse para considerar amenazas sin adversarios o eventos claros, así como cualquier otra variación de las amenazas que no cubren directamente estas propuestas de redacción.
 
 2. Pedir a los participantes que piensen en amenazas para la organización, tomar nota de estas y colocarlas de forma visible para todos.
-  ![## Gráfico](../img/0301/bocetos-sda-0301-1.png)
+  ![## Gráfico](0301/ES-Grafico-18.png)
 3. Con todas las amenazas en un mismo sitio, utilizar los niveles de impacto desarrollados en la actividad de *Mapeo y clasificación de información* y colocarlos como el eje vertical de una matriz, luego con la ayuda de los participantes asignar a cada amenaza un nivel de impacto ubicando la nota adhesiva o equivalente a la altura del nivel de impacto seleccionado.
   * Se sugiere además de colocar los niveles de impacto cualitativos definidos anteriormente, disponer de una escala numérica como se muestra en el gráfico. Esto puede ayudar a cuantificar el nivel de riesgo luego de completar la actividad.
-  ![## Gráfico](../img/0301/bocetos-sda-0301-2.png)
+  ![## Gráfico](0301/ES-Grafico-19.png)
   Agregando los niveles de impacto.
-
-  ![## Gráfico](../img/0301/bocetos-sda-0301-3.png)
+  ![## Gráfico](0301/ES-Grafico-20.png)
   Reorganizando las amenazas.
 
 4. Plantear el concepto de probabilidad de ocurrencia y definir una escala para representarla en la matriz de riesgo elaborada. Reorganizar en el eje horizontal con la ayuda del grupo las amenazas de tal modo que coincidan no solo con la escala de impacto sino tambien con la probabilidad de ocurrencia seleccionada en cada caso, completando la matriz de riesgo de la organización, como se muestra en el gráfico.
@@ -82,10 +81,9 @@ La idea de esta actividad es introducir el concepto de análisis de riesgo a la 
     * Probabilidad baja, media y alta.
     * Probabilidad nula, baja, alta y certeza de ocurrencia.
     * Escala del 1 al 5.
-    ![## Gráfico](../img/0301/bocetos-sda-0301-4.png)
+    ![## Gráfico](0301/ES-Grafico-21.png)
     Agregando los niveles de probabilidad de ocurrencia.
-
-    ![## Gráfico](../img/0301/bocetos-sda-0301-5.png)
+    ![## Gráfico](0301/ES-Grafico-22.png)
     Reorganizando las amenazas.
 
 5. Discutir sobre niveles de riesgo presentes en la matriz y realizar una lectura del contexto de seguridad de la organización a través de esta herramienta.
@@ -94,7 +92,7 @@ La idea de esta actividad es introducir el concepto de análisis de riesgo a la 
   * Este ejercicio tiene como resultado un análisis **subjetivo** por parte de los miembros de la organización, por ningún motivo representa un análisis riguroso y preciso del contexto de riesgo de la organización. Incluso si el mismo equipo repitiera la actividad al día siguiente pudiera resultar una matriz de riesgo diferente.
   * Esta matriz de riesgo, asi como cualquier otro insumo que represente el contexto de riesgo de la organización, es un insumo **temporal** que no considera que los riesgos cambian a través del tiempo. Es muy importante hacer énfasis con los participantes que esta matriz representa "una foto" del estado de riesgo para ese momento en particular, y que la invitación es a repetir este ejercicio periódicamente para actualizar esta representación obtenida.
 
-  ![## Gráfico](../img/0301/bocetos-sda-0301-6.png)
+  ![## Gráfico](0301/ES-Grafico-23.png)
   Agregando los niveles de impacto.
 
 ### Cierre de la actividad
@@ -106,4 +104,4 @@ Al finalizar la actividad se puede discutir y hacer énfasis en lo que se logró
 ### Referencias
 * SAFETAG
 * SaferJourno
-* 
+*

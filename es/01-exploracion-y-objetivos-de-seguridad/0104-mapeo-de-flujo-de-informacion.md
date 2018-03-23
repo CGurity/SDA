@@ -4,8 +4,6 @@ sectionclass: h2
 title: Mapeo de flujos de información
 parent-id: 01-fundacion
 ---
-Tiempo estimado: XX min
-
 Tiempo estimado: 90 min
 
 ### Justificación
@@ -39,7 +37,7 @@ Notas adhesivas y marcadores o un equivalente digital al igual que en las activi
 
 ### Instrucciones
 1. Pedir a los participantes que piensen y compartan los lugares y dispositivos en donde reposa la información de la organización. Estos pueden ser físicos y digitales, con estos lugares se puede construir encabezados de columnas como se muestra en la figura:
-  ![Grafico](../img/0104/bocetos-sda-0104-1.png)
+  ![Grafico](0104/ES-Grafico-8.png)
   Algunos ejemplos que pueden ayudar al grupo a desarrollar mejor la lluvia de ideas son:
   * Computadoras portátiles y de escritorio.
   * Unidades USB.
@@ -52,7 +50,7 @@ Notas adhesivas y marcadores o un equivalente digital al igual que en las activi
   * Teléfonos móviles.
   * Software administrativo y/o contable.
 2. Continuar la lluvia de ideas pero ahora preguntando a los participantes a través de cuáles medios se transmite la información. Agregar las respuestas a la lista anterior como muestra el gráfico:
-  ![Grafico](../img/0104/bocetos-sda-0104-2.png)
+  ![Grafico](0104/ES-Grafico-9.png)
   Algunos ejemplos que pueden ayudar al grupo a desarrollar mejor la lluvia de ideas son:
   * Correo electrónico convencional.
   * Servicios de mensajería como Whatsapp, Signal o Telegram.
@@ -64,13 +62,13 @@ Notas adhesivas y marcadores o un equivalente digital al igual que en las activi
   * Sitio Web.
   * Administración remota de equipos.
 3. Pensando en los encabezados de las columnas escritos como uno de los ejes de una matriz, colocar en el eje vertical los niveles de impacto usados en la actividad anterior:
-  ![Grafico](../img/0104/bocetos-sda-0104-3.png)
+  ![Grafico](0104/ES-Grafico-10.png)
   Debemos tener cuidado de utilizar los mismos niveles de impacto en caso de que hayan sido definidos de diferente forma a los propuestos en esta guía.
 
 4. Preguntar por los objetos de datos en cada nivel de impacto en donde se almacenan o se transmiten. Se recomienda no tomar nota de cada objeto de datos, sino marcar cada coincidencia de nivel de impacto asociado con el lugar de almacenaje o medio de transmisión de información. idealmente se recomienda tener la matriz en una hoja grande papel que permita marcar con X en los lugares que corresponda como se muestra en el gráfico.
   * Este paso puede ser largo, hay que tomar previsiones en la planificación de la agenda.
   * Puede ayudar tener las notas adhesivas o equivalentes de la actividad anterior para los objetos de datos por nivel de impacto como guía visual para los participantes.
-  ![Grafico](../img/0104/bocetos-sda-0104-4.png)
+  ![Grafico](0104/ES-Grafico-11.png)
 5. Introducir los conceptos que sean pertinentes sobre seguridad para lugares de almacenamiento y canales de transmisión según los items que se tengan como lugares de almacenaje y medios de transmisión de información.
   * Cifrado.
   * Cifrado punto a punto.
@@ -84,9 +82,9 @@ Notas adhesivas y marcadores o un equivalente digital al igual que en las activi
 6. Discutir con el grupo si hay canales que se consideren inseguros donde información sensible se almacene o transmita. Algunas preguntas clave pueden ser:
   * ¿Algunos de los anteriores se consideran canales inseguros?.
   * ¿Algunos de estos lugares de almacenaje es de facil acceso para personas no autorizadas?.
-  ![Grafico](../img/0104/bocetos-sda-0104-5.png)
+  ![Grafico](0104/ES-Grafico-12.png)
 7. Plantear al grupo una modificación en la matriz en donde se defina qué tipo de información por nivel de impacto debe estar en cada columna de la matriz, y las consideraciones pertinetes en cada caso (si un equipo debe estar cifrado para contener cierta información, si se debe usar VPN o https para acceder a un recurso específico, etc.). El uso de otro color puede ser beneficioso para trabajar sobre la misma matriz, facilita la actividad para ver mejor las diferencias entre lo que se hace actualmente en la organización y lo que se debería hacer desde ese momento en adelante.
-  ![Grafico](../img/0104/bocetos-sda-0104-6.png)
+  ![Grafico](0104/ES-Grafico-13.png)
 
 ### Cierre de la actividad
 Al finalizar la actividad se puede discutir y hacer énfasis en lo que se logró:

@@ -52,7 +52,7 @@ Se propone discutir ambos aspectos y colocar el resultado de la discusión en la
 2. Introducir algunos tipos de información en esquemas de clasificación utilizados habitualmente en seguridad de la información y proponer mantenerse con los niveles de impacto desarrollados.
   * Frecuentemente se emplean las clasificaciones de información pública/confidencial/secreta/interna/regulatoria entre otras, tomando en cuenta el daño que puede generar su compromiso. En términos de nuestra metodología, los mismos niveles de impacto propuestos en secciones anteriores pueden llenar este espacio y por eso se proponen por motivos de simplicidad.
 3. Unificar en una sola celda de tabla el contenido de cada fila por nivel de impacto desarrollado y vaciar esta información en la sección (2) de la plantilla como muestra el gráfico.
-  ![Grafico](../img/0202/0202-01.png)
+  ![Grafico](0202/ES-Grafico-14.png)
 
 ##### 3. Responsables de la información
 > ¿Quiénes son los responsables del resguardo de la información?
@@ -76,7 +76,7 @@ La primera premisa que se quiere validar con el grupo es si ellos estarían de a
 ###### 4a. Políticas de control de acceso (opcional)
 En el caso en que la organización maneje información muy sensible, se muestre interesada en profundizar en el control de acceso a información y se disponga del tiempo, se puede desarrollar una primera versión de una matriz de control de acceso. En la sección (4a) de la plantilla se encuentra un ejemplo de matriz en donde se colocan como columnas diferentes departamentos, áreas, coordinaciones o inclusive cargos específicos dependiendo de la estructura y dinámicas de la organización, y como filas piezas de información con niveles de sensibilidad altos, y básicamente se describe qué áreas o personas pueden acceder a qué piezas.
 
-  ![Grafico](../img/0202/0202-02.png)
+  ![Grafico](0202/ES-Grafico-15.png)
 
 ##### 5. Directivas generales de manipulación de información
 > ¿Qué medidas se deben tomar para manipular información según su nivel de sensibilidad?
@@ -85,14 +85,14 @@ Usando la matriz desarrollada en la actividad de flujos de información se puede
 
 Es importante que en esta sección se evite escribir herramientas o servicios específicos, sino las características de seguridad asociadas, que permitan en el caso de cambiar una herramienta, tener el criterio para seleccionar una nueva que cumpla con las mismas o mejores prestaciones. Por ejemplo: no colocar para comunicaciones *Signal* sino Servicios de chat con cifrado de extremo a extremo.
 
-  ![Grafico](../img/0202/0202-03.png)
+  ![Grafico](0202/ES-Grafico-16.png)
 
 ##### 6. Directivas específicas de manipulación de información
 > ¿Qué herramientas, prácticas y dispositivos específicos se deben emplear para manipular la información según su nivel de sensibilidad?
 
 De forma similar al paso anterior, para cada nivel de impacto o sensibilidad se recopilarán los dispositivos, otros lugares de reposo de la información y canales de comunicación que se seleccionaron para cada nivel, y así colocarlos en las tablas de la sección (6) de la plantilla como se indica. Se deja el espacio para colocar las consideraciones necesarias que se necesiten cumplir en cada caso si aplica.
 
-  ![Grafico](../img/0202/0202-04.png)
+  ![Grafico](0202/ES-Grafico-17.png)
 
 Por simplicidad, si la organización y el facilitador lo consideran conveniente, se pueden considerar sólo los niveles de impacto más altos, dado que los niveles más bajos pueden requerir más tiempo y esfuerzo para llenar la información solicitada en la plantilla, en ese caso las tablas para niveles bajo y medio se pueden borrar de la plantilla.
 

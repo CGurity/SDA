@@ -34,7 +34,8 @@ Estimated time: 45 min
 * Large sheet and only x on matrix.
 ### Instructions
 1. Ask the participants to think and share places and devices where the data of the organization are stored. These can be on paper, digitally or in any other way. Now you can build column headers as shown in the figure:
-  ![Grafico](../img/bocetos-sda-0104-1.png)
+
+  ![Grafico](0104/EN-Graphic-8.png)
  Some examples that may help the group to a better developed brainstorming are:
    * Laptops and desktops.
    * USB drives.
@@ -47,7 +48,7 @@ Estimated time: 45 min
    * Mobile phones.
    * Administrative and / or accounting software.
 2. Continue the brainstorming, but now ask the participants, through which means the information is transmitted. Add answers to the previous list as the chart shows:
-  ![Grafico](../img/bocetos-sda-0104-2.png)
+  ![Grafico](0104/EN-Graphic-9.png)
  Some examples that may help the group to experience a better developed brainstorming are:
    * Conventional email.
    * Messaging services such as WhatsApp, Signal or Telegram.
@@ -59,13 +60,13 @@ Estimated time: 45 min
    * Web site.
    * Remote management of equipment.
 3. Thinking about the headings of the columns written as one of the axes of a matrix, place on the vertical axis levels of impact used in the previous activity:
-  ![Grafico](../img/bocetos-sda-0104-3.png)
+  ![Grafico](0104/EN-Graphic-10.png)
 It is important to use the same levels of impact if  the participants defined differently to those proposed in this manual.
 
 4. Ask about the data objects in each level of impact where they are stored or transmitted. It is recommended not to take note of each data object, but to mark each coincidence of impact level associated with the storage location or means to transmit data. Ideally, it is recommended drawing the matrix on a large sheet of paper that allows to mark with X in the corresponding places as shown in the graph.
 * This step can be long, so you must take precautions when planning.
 * It may help to have the post-its, sticky notes or equivalents of the previous activity for the data objects by impact level as a visual guide for the participants.
-  ![Grafico](../img/bocetos-sda-0104-4.png)
+  ![Grafico](0104/EN-Graphic-11.png)
 5. Introduce pertinent concepts about security for storage places and transmission channels according to the items held as storage places and means to transmit data.
  * Encryption
  * Point to point encryption.
@@ -79,9 +80,9 @@ It is important to use the same levels of impact if  the participants defined di
 6. Discuss along with the group if there are considered unsecure channels in which sensitive information is stored or transmitted. Some key questions can be:
 * Are some of the above considered unsecure channels?.
 * Are some of these storage places easy to access for unauthorized people?.
-  ![Grafico](../img/bocetos-sda-0104-5.png)
+  ![Grafico](0104/EN-Graphic-12.png)
 7. Suggest to the group a modification in the matrix where it is defined what type of information per level of impact should be in each column, and the pertinent considerations in each case (if a computer must be encrypted to contain certain information, if you must use VPN or https to access a specific resource, etc.). The use of another color can be effective and useful to work on the same matrix, makes  the activity easier to see the differences between what is currently done in the organization and what should be done from that moment on.
-  ![Grafico](../img/bocetos-sda-0104-6.png)
+  ![Grafico](0104/EN-Graphic-13.png)
 
 ### Closure of the activity
 At the end of the activity you may discuss and emphasize all what has been achieved:

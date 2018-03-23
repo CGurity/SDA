@@ -34,28 +34,29 @@ La idea de esta actividad es complementar las políticas desarrolladas anteriorm
   * Minimizar el daño.
   * Limpiar artefactos restantes del incidente.
   * Reanudar actividades tan pronto como se pueda.
-  ![Gráfico](../img/0302/bocetos-sda-0302-1.png)
+
+  ![Gráfico](0302/ES-Grafico-24.png)
 
 3. Para cada paso preguntar quién lo ejecutaría. Anotar en una nota adhesiva y colocar en una segunda columna en la pared junto al paso en cuestión, se puede preguntar al grupo quien supliría a este responsable en el caso de que no se encuentre durante el incidente. En los casos en que aplique tomar nota y colocar estos suplentes debajo del responsable principal como muestra el grafico.
-  ![Gráfico](../img/0302/bocetos-sda-0302-2.png)
+  ![Gráfico](0302/ES-Grafico-25.png)
 
 4. Con consenso en el grupo sobre los pasos del procedimiento, preguntar en qué puntos se deben establecer comunicaciones con actores externos a la organización. La idea es anotar estos puntos de comunicación como nuevos pasos (idealmente en un color diferente) e integrarlos a los pasos del procedimiento reordenando los pasos existentes.
   * Estas comunicaciones normalmente son obligatorias o altamente deseables para resolver el incidente, como redes de aliados, proveedores externos, etc.
   * Es posible que en la misma dinámica de la actividad se haya adelantado este mapeo de comunicaciones en el paso 2 de forma natural, en ese caso con completar cualquier comunicación faltante y continuar será suficiente.
   * Para cada paso relacionado a comunicaciones externas, verificar que siempre aparezca a quién se contacta, ya sea en el paso o en el responsable.
 
-  ![Gráfico](../img/0302/bocetos-sda-0302-3.png)
+  ![Gráfico](0302/ES-Grafico-26.png)
 
 5. Crear una tercera columna con el encabezado "Preparación" y para cada paso preguntarle al equipo *¿Qué hace falta garantizar ANTES de que ocurra el incidente para que se pueda cumplir este paso?*. Tomar nota de cada paso de preparación en una nota adhesiva y colocarla junto al paso correspondiente, es normal que algunos pasos no tengan acciones de preparación asociadas. Algunos ejemplos usuales de pasos de preparación son:
   * que A tenga el contacto de B consultor externo.
   * que C sepa como apagar el servidor interno.
   * que todos sepan borrar información de forma segura.
 
-  ![Gráfico](../img/0302/bocetos-sda-0302-4.png)
+  ![Gráfico](0302/ES-Grafico-27.png)
 
 6. Discutir con el grupo *¿Cómo se comunicarían entre ellos durante la resolución del incidente?* y guiar la discusión sobre qué canales se consideran seguros y confiables para mantener al grupo comunicado durante el incidente, así como cuáles se utilizarían de manera formal durante *éste* tipo de incidente. Se sugiere tomar nota de estos canales y listarlos en orden de prioridad en caso de que el primero falle durante el incidente.
   * Vale la pena recordar que diferentes incidentes pueden afectar diferentes vías de comunicación.
-  ![Gráfico](../img/0302/bocetos-sda-0302-5.png)
+  ![Gráfico](0302/ES-Grafico-28.png)
 
 7. Sugerir al equipo vaciar la información que se recopiló durante la actividad en un documento formal. Se puede utilizar la plantilla 4 disponible en el sitio web de este material (https://sdamanual.org/es).
 
