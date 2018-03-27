@@ -4,7 +4,7 @@ sectionclass: h2
 title: Modelo de amenazas y matriz de riesgo
 parent-id: 03-modelo-de-amenazas-y-protocolos
 ---
-Tiempo estimado: 120 min
+Estimated time: 120 min
 
 ### Justificación
 La idea de esta actividad es introducir el concepto de análisis de riesgo a la organización y utilizar una abstracción de la metodología de matrices de riesgo para hacer un primer analisis del contexto de seguridad de la organización, el cual será utilizado para seleccionar escenarios de seguridad y asi elaborar procedimientos pertinentes al caso en la segunda actividad.
@@ -104,4 +104,3 @@ Al finalizar la actividad se puede discutir y hacer énfasis en lo que se logró
 ### Referencias
 * SAFETAG
 * SaferJourno
-*
