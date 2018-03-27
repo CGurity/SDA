@@ -51,7 +51,7 @@ Dependiendo de la cantidad de participantes y de la comodidad del facilitador, s
 
   En cualquier caso, no es responsabilidad del facilitador iniciar una discusión a fondo sobre estas diferencias, sino invitar a la reflexión y a la revisión en un momento adecuado para la organización, manteniendo un lenguaje amigable y respetuoso al reconocer el valor que tuvo el ejercicio. Para esta metodología saber cómo funciona la organización **hoy** es suficiente para continuar con las actividades, por lo que dichas discrepancias no deberían afectar el éxito de la sesión de trabajo.
 
-##### Cierre de la actividad
+### Cierre de la actividad
 Al finalizar la actividad se puede discutir y hacer énfasis en lo que se logró:
 * Se comparó lo que hay escrito sobre la organización con la misión y las metas que los integrantes perciben en la práctica.
 
