@@ -11,8 +11,6 @@ Esta actividad es una variación propuesta de una dinámica planteada en varios 
 La idea de esta actividad es mapear todos los objetos de datos que maneja la organización, pensar en las posibles consecuencias que tendría el compromiso de estos objetos, esquematizar estas posibles consecuencias en una matriz de impactos, y asociar los objetos de información manejados con los niveles de impacto en la matriz construida.
 
 ### Justificación
-La idea de esta actividad es mapear todos los objetos de datos que maneja la organización, pensar en las posibles consecuencias que tendría el compromiso de estos objetos, esquematizar las posibles consecuencias en una matriz de impactos, y asociar los objetos de información manejados con los niveles de impacto en la matriz construida.
-
 La idea de esta actividad es completar la recopilación de información sobre la organización, y así redirigir la misma hacia la sensibilidad de la información. En el proceso se establecerán las bases que permitirán construir las primeras políticas de seguridad para la organización.
 
 ### Datos de entrada
