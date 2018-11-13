@@ -1,7 +1,7 @@
 ---
 layout: landing4
 title: 03_ Modelo de Amenazas y Procedimientos
-description: Mediante el uso de insumos para construir una matriz de riesgos considerando las amenazas que enfrenta la organización, y así validar que los objetivos de seguridad, el mapa de involucrados y el mapeo de datos sean consistentes con todo lo que se documenta a lo largo de este análisis.
+description: Se construye una matriz de riesgos considerando las amenazas que enfrenta la organización, y así validar que los objetivos de seguridad, el mapa de involucrados y el mapeo de datos sean consistentes con todo lo que se documenta a lo largo de este análisis.
 image: assets/images/template-03.jpg
 nav-menu: true
 ---
@@ -28,7 +28,7 @@ nav-menu: true
 				</a>
 			</header>
 			<a href="/es/activities/0301-threats-model.html" class="link-03">
-			<p>La idea de esta actividad es introducir el concepto de análisis de riesgos y también utilizar una abstracción de la metodología de la matriz de riesgos para realizar un primer análisis del contexto de seguridad de la organización.</p>
+			<p>La idea de esta actividad es introducir el concepto de análisis de riesgos y utilizar una abstracción de la metodología de la matriz de riesgos para realizar un primer análisis del contexto de seguridad de la organización.</p>
 			</a>
 		</div>
 	</div>

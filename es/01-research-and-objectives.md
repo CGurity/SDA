@@ -31,7 +31,7 @@ author: null
 			</a>
 			</header>
 			<a href="/es/activities/0101-objectives-of-the-organization.html" class="link-01">
-			<p>Esta actividad busca poner a todo el grupo en la misma página con respecto a las razones de ser de la organización y los objetivos que persigue. En el caso de las organizaciones activistas, este puede ser un momento propicio para reforzar los conceptos y valores de justicia social que motivan al grupo para hacer el trabajo que hacen. En el caso de los trabajadores de medios, los valores de acceso a información precisa y libertad de expresión que motivan a los periodistas también pueden fortalecerse.</p>
+			<p>Esta actividad busca poner a todo el grupo en la misma página respecto a las razones de ser de la organización y los objetivos que persigue. En el caso de las organizaciones activistas, este puede ser un momento propicio para reforzar los conceptos y valores de justicia social que motivan al grupo para hacer el trabajo que hacen. En el caso de los trabajadores de medios, los valores de acceso a información precisa y libertad de expresión que motivan a los periodistas también pueden fortalecerse.</p>
 			</a>
 		</div>
 	</div>
@@ -46,7 +46,7 @@ author: null
 				<header class="major"> <a href="/es/activities/0102-stakeholders-map.html" class="image-01 index-number">
 					<h3>Mapeo y Clasificación  de Actores</h3> </a>
 				</header> <a href="/es/activities/0102-stakeholders-map.html" class="image-01 index-number">
-				<p>En esta actividad, la idea principal es continuar explorando la organización, recopilando información directamente relacionada con su seguridad, también necesaria para plantear un modelo de amenaza óptimo en el futuro. Además, es un aporte valioso para estudiar la evolución de la organización, su entorno y los cambios en el modelo de amenaza correspondiente.</p> </a>
+				<p>La idea principal es continuar explorando la organización, recopilando información directamente relacionada con su seguridad, necesaria para plantear un modelo de amenazas óptimo en el futuro. Además, es un aporte valioso para estudiar la evolución de la organización, su entorno y los cambios en el modelo de amenazas correspondiente.</p> </a>
 			</div>
 		</div>
 	</section>
@@ -60,7 +60,7 @@ author: null
 				<header class="major"> <a href="/es/activities/0103-data-mapping-and-classification.html" class="image-01 index-number">
 					<h3>Mapeo y Clasificación de la información</h3> </a>
 				</header> <a href="/es/activities/0103-data-mapping-and-classification.html" class="image-01 index-number">
-				<p>La idea principal de esta actividad es completar la información sobre la organización para luego, redirigirla hacia sus oprtunidades de mejora. En el proceso, se establecerán las bases que permitirán fácilmente la construcción de las primeras políticas de seguridad para la organización.</p> </a>
+				<p>La idea principal de esta actividad es completar la información sobre la organización para luego, redirigirla hacia sus oportunidades de mejora. En el proceso, se establecerán las bases que permitirán fácilmente la construcción de las primeras políticas de seguridad para la organización.</p> </a>
 			</div>
 		</div>
 	</section>

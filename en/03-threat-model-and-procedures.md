@@ -1,7 +1,7 @@
 ---
 layout: landing4
 title: 03_ Threat model and Procedures
-description: Using inputs to build a risk matrix considering the threats that the organization faces, and thus validate that security objectives, map of stakeholders and data mapping are consistent with all that is being documented throughout this analysis.
+description: Using inputs to build a risk matrix considering the threats that the organization faces, and consequently validate that security objectives, map of stakeholders and data mapping are consistent with all that is being documented throughout this analysis.
 image: assets/images/template-03.jpg
 nav-menu: true
 ---

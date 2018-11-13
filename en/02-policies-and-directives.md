@@ -28,7 +28,7 @@ image: assets/images/template-02.jpg
 				</a>
 			</header>
 			<a href="/activities/0201-introduction-to-policies.html" class="link-02">
-			<p>It is very important that the participants understand no only what security policies and directives are but also what they are for, reducing errors, improving the flow of activities and involving the participants better. Unlike other activities in this manual, the present is more of an expository nature and less interactive. To the extent that the facilitator feels comfortable, it is recommended to design an activity that manages to introduce the concepts.</p>
+			<p>It is very important that the participants understand no only what security policies and directives are but also what they are for, reducing errors, improving the flow of activities and involving the participants better. Unlike other activities in this manual, the present chapter is more of an expository nature and less interactive. To the extent that the facilitator feels comfortable, it is recommended to design an activity that manages to introduce the concepts.</p>
 			</a>
 		</div>
 	</div>
@@ -43,7 +43,7 @@ image: assets/images/template-02.jpg
 				<header class="major"> <a href="/activities/0202-data-protection-policies.html" class="image-02 link-02">
 					<h3>Data protection policies</h3> </a>
 				</header> <a href="/activities/0202-data-protection-policies.html" class="image-02 link-02">
-				<p>One of the core aspects of any organization is the manipulation of data. The idea of developing a data protection policy is to establish a series of guidelines that help to treat each piece of information in the most appropriate way possible according to its sensitivity.</p> </a>
+				<p>One of the core aspects of any organization is the manipulation of data. The idea of developing a data protection policy is to establish a series of guidelines that help to treat each piece of information in the most appropriate way possible according to its sensitivity level.</p> </a>
 			</div>
 		</div>
 	</section>
@@ -72,7 +72,7 @@ image: assets/images/template-02.jpg
 				<header class="major"> <a href="/activities/0204-clean-desk-policy.html" class="image-02 link-02">
 					<h3>Clean desk policy</h3> </a>
 				</header> <a href="/activities/0204-clean-desk-policy.html" class="image-02 link-02">
-				<p>In any kind of organization, it's natural to arrange large amounts of highly sensitive information. The idea behind this policy is to establish a set of strategies to ensure both the physical information and the integrity of the equipment. This policy is one of the most linked to daily basis tasks since it considers activities that must be carried out during the entire working day.</p> </a>
+				<p>In any kind of organization, it's natural to arrange large amounts of highly sensitive information. The idea behind this policy is to establish a set of strategies to ensure both the physical information and the integrity of the equipment. This policy is one of the most linked daily basis tasks since it considers activities that must be carried out during the entire working day.</p> </a>
 			</div>
 		</div>
 	</section>

@@ -62,7 +62,7 @@ author: null
 				<header class="major"> <a href="/activities/0103-data-mapping-and-classification.html" class="image-01 index-number">
 					<h3>Data mapping and classification</h3> </a>
 				</header> <a href="/activities/0103-data-mapping-and-classification.html" class="image-01 index-number">
-				<p>The main idea of this activity is to complete the information about the organization, and thus redirect it towards its sensitivity. In the process, the bases that will easily allow the construction of the first security policies for the organization will be established.</p> </a>
+				<p>The main idea of this activity is to achieve the information about the organization, and thus redirect it towards its sensitivity. In the process, the bases that will easily allow the construction of the first security policies for the organization will be established.</p> </a>
 			</div>
 		</div>
 	</section>
@@ -79,7 +79,7 @@ author: null
 					<h3>Information flow Mapping</h3> </a>
 				</header> <a href="/activities/0104-information-flow-maping.html" class="image-01 index-number">
 
-				<p>The main idea of this activity is to understand where the information lies, through which channels the information is transmitted, also to discuss the levels of security provided by these channels, and to associate data objects mapped in the previous activity in order to define key factors towards the construction of a data retention policy.</p> </a>
+				<p>The main idea of this activity is to understand where the information rests, through which channels the information is transmitted, also to discuss the levels of security provided by these channels, and to associate data objects mapped in the previous activity in order to define key factors towards the construction of a data retention policy.</p> </a>
 			</div>
 		</div>
 	</section>
