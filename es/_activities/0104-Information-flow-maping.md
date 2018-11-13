@@ -40,7 +40,7 @@ En caso de realizar la actividad en digital:
    * Hoja de cálculo lista para llenar, mostrando los encabezados con sus categorías.
 
 ### Instrucciones
-1. Pedir a los participantes que piensen y compartan los lugares y dispositivos en donde reposa la información de la organización. Estos pueden ser físicos y digitales, con estos lugares se puede construir encabezados de columnas como se muestra en la figura:
+1. Pedir a los participantes que piensen y compartan los lugares y dispositivos en donde reposa la información de la organización. Estos pueden ser físicos y digitales, con estos lugares se pueden construir encabezados de columnas como se muestra en la figura:
 
   ![Grafico](/es/assets/images/ES-Grafico-8.png)
 
@@ -74,9 +74,9 @@ Algunos ejemplos que pueden ayudar al grupo a desarrollar mejor la lluvia de ide
 
    Canales de transmisión de la información
 
-3.  Pensando en los encabezados de las columnas escritos como uno de los ejes de una matriz, colocar en el eje vertical los niveles de impacto usados en la actividad anterior:
+3.  Pensando en los encabezados de las columnas escritas como uno de los ejes de una matriz, colocar en el eje vertical los niveles de impacto usados en la actividad anterior:
 
-Debemos tener cuidado de utilizar los mismos niveles de impacto en caso de que hayan sido definidos de diferente forma a los propuestos en esta guía.
+Debemos tener cuidado de utilizar los mismos niveles de impacto en caso de que hayan sido definidos de diferentes formas a los propuestos en esta guía.
 
 ![Grafico](/es/assets/images/ES-Grafico-10.png)
 
@@ -94,7 +94,7 @@ Niveles de impacto
     * Consideraciones de servicios en la nube.
     * etc.
 
-  El éxito de este paso está muy relacionado con el conocimiento que tenga el facilitador y el grupo sobre los equipos y servicios utilizados. Puede suceder que en alguna actividad aparezcan servicios que el facilitador desconoce, es importante tener la capacidad de preguntar al grupo lo que sepan y de investigar por cuenta propia cualquier consideración de seguridad pertinente al item desconocido.
+  El éxito de este paso está muy relacionado con el conocimiento que tengan el facilitador y el grupo sobre los equipos y servicios utilizados. Puede suceder que en alguna actividad aparezcan servicios que el facilitador desconoce, es importante tener la capacidad de preguntar al grupo lo que sepan y de investigar por cuenta propia cualquier consideración de seguridad pertinente al item desconocido.
 
   ![Grafico](/assets/images/EN-Graphic-11.png)
 
@@ -102,7 +102,7 @@ Niveles de impacto
 
 6.  Discutir con el grupo si hay canales que se consideren inseguros donde información sensible se almacene o transmita. Algunas preguntas clave pueden ser:
   * ¿Algunos de los anteriores se consideran canales inseguros?.
-  * ¿Algunos de estos lugares de almacenaje es de facil acceso para personas no autorizadas?.
+  * ¿Algunos de estos lugares de almacenaje son de facil acceso para personas no autorizadas?.
 
   ![Grafico](/assets/images/EN-Graphic-12.png)
 
@@ -123,7 +123,7 @@ Al finalizar la actividad se puede discutir y hacer énfasis en lo que se logró
 Es necesario tomar en cuenta que para elaborar una política de retención de datos completa es importante considerar otras cosas además de los medios de almacenamiento y comunicación de los objetos de datos, por ejemplo:
 * Por cuánto tiempo cada objeto de datos debe ser guardado (caducidad de la información).
 * De qué forma se deben borrar los objetos de datos por caducidad. Ejemplo: procesar estadísticas anuales de denuncias que se van a borrar.
-* Quiénes manejan la información: implementacion del principio del mínimo privilegio.
+* Quiénes manejan la información: implementación del principio del mínimo privilegio.
 * Quiénes son responsables de la generación, almacenamiento y custodia de la información.
 
 ### Referencias

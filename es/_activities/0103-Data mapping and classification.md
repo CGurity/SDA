@@ -34,7 +34,7 @@ Indirectos
 ### Materiales
 En caso de realizar la actividad en físico:
   * Notas adhesivas y marcadores o
-  * Piezas grandes de papel para pegar en la pared y marcadores
+  * Piezas grandes de papel para pegar en la pared y marcadores.
 En caso de realizar la actividad en digital:
   * Computadora
   * Proyector
@@ -60,7 +60,7 @@ En caso de realizar la actividad en digital:
 
   Triada CIA (confidencialidad-Integridad-Disponibilidad)
 
-3. Conversar con los participantes sobre los tipos de consecuencias negativas que puede afrontar la organización ante algún compromiso de la información que se maneja. Crear aparte de la lluvia de ideas de piezas de información una lista horizontal con los **tipos de consecuencias** como se muestra en la figura.
+3. Conversar con los participantes sobre los tipos de consecuencias negativas que puede afrontar la organización ante algún compromiso de la información. Crear aparte de la lluvia de ideas de piezas de información una lista horizontal con los **tipos de consecuencias** como se muestra en la figura.
 
   ![Graphic with the axes proposed below](/es/assets/images/ES-Grafico-4.png)
 
@@ -76,9 +76,9 @@ La idea es generar una matriz cuyo eje horizontal corresponda a esta clasificaci
 
 Estos tipos de consecuencias son propuestos, en el caso de querer simplificar el ejercicio se pueden combinar o excluir explícitamente algunos de los ejes propuestos, incluso si el equipo lo considera pertinente se pueden agregar nuevos tipos. Por ejemplo, consecuencias de imagen o religiosas (si aplican).
 
-4. Teniendo claro los tipos de consecuencias, se sugiere pedir a los participantes que piensen en posibles consecuencias producto del compromiso de las piezas de información mapeadas en términos de disponibilidad, integridad y confidencialidad, tomar notas de estos y colocarlos en notas adhesivas o su equivalente digital debajo del tipo de consecuencia al que pertenece (digital, físico, legal, etc.)
+4. Teniendo claro los tipos de consecuencias, se sugiere pedir a los participantes que piensen en posibles consecuencias producto del compromiso de las piezas de información mapeadas en términos de disponibilidad, integridad y confidencialidad, tomar notas de esto y colocarlo en notas adhesivas o su equivalente digital debajo del tipo de consecuencia al que pertenece (digital, físico, legal, etc.)
   * Es normal y esperado que muchas consecuencias se repitan, en estos casos con la nota adhesiva o equivalente ya existente será suficiente.
-  * Pensar en disponibilidad, integridad y confidencialidad es una ayuda para facilitar la discusión y la lluvia de ideas de consecuencias, sin embargo, si el equipo se siente cómodo planteando las consecuencias posibles en otros términos puede funcionar sin problemas siempre y cuando representen consecuencias posibles y puedan ser priorizadas en el siguiente paso.
+  * Pensar en disponibilidad, integridad y confidencialidad es una ayuda para facilitar la discusión y la lluvia de ideas de consecuencias, sin embargo, si el equipo se siente cómodo planteando las consecuencias posibles en otros términos puede funcionar sin problemas siempre y cuando se representen consecuencias posibles y puedan ser priorizadas en el siguiente paso.
   * Es normal que el compromiso de una pieza de información pueda tener consecuencias en más de un eje.
 
   Algunos ejemplos de consecuencias pueden ser:
@@ -99,7 +99,7 @@ Estos tipos de consecuencias son propuestos, en el caso de querer simplificar el
 5. Luego de obtener algunas consecuencias de cada uno de los tipos definidos se introduce la idea de calificar las consecuencias mapeadas según su nivel de impacto, se propone crear un eje vertical que represente impactos nulos, bajos, medios y altos. En el caso de que el facilitador y el equipo se sientan cómodos al respecto, se puede cambiar esta escala a cualquier otra que se considere conveniente (del 1 al 10, agregar a la propuesta impacto crítico, etc.). Luego de creado este eje se procede a ubicar con el apoyo del equipo las amenazas mapeadas en las distintas categorías como se muestra en la figura.
 
 Algunas consideraciones son:
-  * Es posible que algunos espacios queden en blanco, dependiendo del caso vale la pena preguntarle al equipo qué consecuencias estan faltando en esos espacios. En el caso de impactos bajos o nulos no es obligatorio colocar consecuencias directas, esto se puede explicar con que todo lo que se considere por debajo de la consecuencia con menor impacto es irrelevante en términos de riesgos.
+  * Es posible que algunos espacios queden en blanco, dependiendo del caso vale la pena preguntarle al equipo qué consecuencias estan faltando. En el caso de impactos bajos o nulos no es obligatorio colocar consecuencias directas, esto se puede explicar con que todo lo que se considere por debajo de la consecuencia con menor impacto es irrelevante en términos de riesgos.
   * A esta parte de la actividad se le debe dedicar un tiempo adecuado ya que representa el pilar de la primera política de seguridad de la organización (clasificación de información).
 
 ![Grafico](/es/assets/images/ES-Grafico-6.png)
@@ -115,7 +115,7 @@ Objetos de datos ordenados por nivel de impacto
 ### Cierre de la actividad
 Al finalizar la actividad se puede discutir y hacer énfasis en lo que se logró:
 * Se definieron ejes de consecuencias y se asociaron a la información que la organización maneja.
-* Se establecieron las bases de la política de clasificación de información, así cada vez que se maneje un nuevo objeto o pieza de información se puede determinar el nivel de impacto asociado al compromiso de este, y con los productos que se generarán más adelante se puede determinar con facilidad qué medidas de seguridad se deben tomar al manipular estos nuevos objetos de datos.
+* Se establecieron las bases de la política de clasificación de información, así cada vez que se maneje un nuevo objeto o pieza de información se puede determinar el nivel de impacto asociado al compromiso de este, y con los productos que se generarán más adelante se podrán determinar con facilidad qué medidas de seguridad se deben tomar al manipular estos nuevos objetos de datos.
 
 ### Referencias
 

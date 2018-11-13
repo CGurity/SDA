@@ -44,7 +44,7 @@ Dependiendo de la cantidad de participantes y de la comodidad del facilitador, s
 4. Realizar un recuento de lo que se recopiló haciendo especial énfasis en las ideas comunes.
 5. Mostrar la misión, visión, y objetivos formales disponibles discutiendo brevemente sobre las similitudes y/o discrepancias que puedan existir entre lo recopilado en la lluvia de ideas, y lo que está formalmente escrito. En caso de  encontrar diferencias muy marcadas, podría ser una señal de que:
   * La organización debe actualizar sus documentos formales para reflejar su evolución y estado actual.
-  * La organización se desvió de sus intenciones iniciales, y debería plantear reconducir sus acciones para insertarse con exito en lo propuesto inicialmente.
+  * La organización se desvió de sus intenciones iniciales, y debería plantear o reconducir sus acciones para insertarse con exito en lo propuesto inicialmente.
 
   En cualquier caso, no es responsabilidad del facilitador iniciar una discusión a fondo sobre estas diferencias, sino invitar a la reflexión y a la revisión en un momento adecuado para la organización, manteniendo un lenguaje amigable y respetuoso al reconocer el valor que tuvo el ejercicio. Para esta metodología saber cómo funciona la organización **hoy** es suficiente para continuar con las actividades, por lo que dichas discrepancias no deberían afectar el éxito de la sesión de trabajo.
 

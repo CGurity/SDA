@@ -10,7 +10,7 @@ image: null
  Tiempo estimado: 15 min
 
 ### Justificación
-En esta actividad la idea es seguir explorando la organización, recopilando información directamente relacionada con la seguridad de la misma, la cual es necesaria para levantar un modelo de amenazas óptimo en lo sucesivo. Además, resulta un insumo valioso para estudiar la evolución de la organización, su entorno, y los cambios en el modelo de amenazas correspondiente.
+En esta actividad la idea es seguir explorando la organización, recopilando información directamente relacionada con la seguridad de la misma, la cual es necesaria para levantar un modelo de amenazas óptimo. Además, resulta un insumo valioso para estudiar la evolución de la organización, su entorno, y los cambios en el modelo de amenazas correspondiente.
 
 Esta actividad está basada en la sección *Expanding our knowledge of actors* de la guía de Seguridad Holística de [Tachtical Technology Collective](https://tacticaltech.org/) disponible en las referencias.
 
@@ -58,13 +58,13 @@ Si el grupo y el facilitador lo consideran necesario, podrán dedicar unos minut
 * Empresas de servicios públicos.
 * Proveedores.
 * Personal de mantenimiento y servicios generales.
-* Personas a las que se prestan servicios (víctimas, grupos desprotegidos, ciudadanos buscando asesoría, etc.).
+* Personas a las que se prestan servicios (víctimas, grupos desprotegidos, ciudadanos buscando asesoría, etc).
 * Organizaciones similares.
-3. Pedir a los participantes que digan y/o escriban los actores, para luego ser colocados en las columnas en donde consideren que van ubicados según su juicio. Si hay alguna discrepancia con el resto del público en la categoría elegida se puede discutir al respecto hasta que haya consenso y el grupo esté conforme con todos los actores en la lista.
+3. Pedir a los participantes que digan y/o escriban los actores involucrados en la organización, para luego ser colocados en las columnas en donde consideren que van ubicados según su juicio. Si hay alguna discrepancia con el resto del público en la categoría elegida se puede discutir al respecto hasta que haya consenso y el grupo esté conforme con todos los actores en la lista.
 4. Una vez que la lista se considere completa preguntar a los participantes por aquellos actores que se encuentran en los extremos (oponentes y aliados activos en el ejemplo anterior). La idea es discutir sobre las **capacidades** y las **motivaciones** de estos actores para perjudicar o ayudar a la organizacion y preparar a los participantes para las actividades de mapeo de datos y modelo de amenazas.
 5. Discutir con los participantes sobre algunas consideraciones del mapeo de actores:
 * Los mapas de actores pueden variar en el tiempo de forma muy rápida. Hoy un aliado activo mañana puede ser un oponente activo, o un actor neutral puede tomar partido a raíz de un evento particular.
-* La categorización de los actores es perceptual, quizás para un grupo cierto actor parece un aliado, pero en la práctica puede jugar un papel diferente desconocido para la organización.
+* La categorización de los actores es perceptual, quizás para un grupo cierto actor parece un aliado, pero en la práctica puede jugar un papel diferente para la organización.
 * Generalmente una organización está vinculada a muchos más actores de los que se pueden obtener en una lluvia de ideas de 10 minutos. Vale la pena que el grupo se sienta cómodo con la metodología para que puedan replicarla por su cuenta cuando lo consideren conveniente.
 
 ### Cierre de la actividad
