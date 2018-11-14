@@ -43,7 +43,7 @@ Tiempo estimado: 15 min
         <td>Secuencia de caracteres secretos que son usados para ingresar a un servicio o dispositivo.</td>
     </tr>
     <tr>
-        <td>Credentiales</td>
+        <td>Credenciales</td>
         <td>La unión de nombres de usuario y contraseñas, son usadas para identificar a un usuario en un servicio y comprobar que es quien dice ser. Estas credenciales cada vez más frecuentemente incluyen otros factores como aspectos biométricos y códigos temporales de seguridad.</td>
     </tr>
     <tr>
@@ -127,7 +127,7 @@ Para esta sección se debe discutir, modificar y aprobar el contenido de la secc
 > ¿Quiénes son responsables de implementar y mantener las medidas de seguridad en los equipos?
 
 Discutir, modificar y aprobar el contenido de la sección (2) de la plantilla de política de uso aceptable de equipos, cuentas y contraseñas que trata sobre la propiedad de los equipos y las responsabilidades de uso de los mismos y sobre el reporte de incidentes.
-  * La variación más notable en este paso depende de si la organización tiene sus propios equipos, todos los equipos son propiedad de los miembros de la organización (BYOD) o una mezcla de ambas modalidades. En la plantilla se encuentran varios ejemplos que puede ser reducidos al caso particular de la organización ejecutando la actividad.
+  * La variación más notable en este paso depende de si la organización tiene sus propios equipos, todos los equipos son propiedad de los miembros de la organización (BYOD) o una mezcla de ambas modalidades. En la plantilla se encuentran varios ejemplos que pueden ser reducidos al caso particular de la organización ejecutando la actividad.
 
 ### 3. Uso general de equipos
   > ¿Cuáles son las medidas de seguridad generales y directivas en el manejo de equipos?
@@ -170,7 +170,7 @@ Discutir, modificar y aprobar el contenido de la sección (4) de la plantilla co
 > ¿Cuáles son las medidas de seguridad generales al usar internet?
 Discutir, modificar y aprobar el contenido de la sección (5) de la plantilla correspondiente. En caso de que alguna consideración no aplique a la organización se puede eliminar sin problemas. Algunos de los aspectos más importantes tratados en esta sección son:
 
-* El uso de herramientas de circunvención y anonimato en internet al usar los equipos como Redes Privadas Virtuales (o VPNs en Inglés), Tor u otro tipo de herramientas afines. Normalmente estas medidas van asociadas a niveles de sensibilidad de la información manejada. Dado que es una directiva se puede ser específico en herramientas puntuales aprobadas o criterios de selección.
+* El uso de herramientas de circunvención y anonimato en internet al usar los equipos como Redes Privadas Virtuales (o VPNs en Inglés), Tor u otro tipo de herramientas afines. Normalmente estas medidas van asociadas a niveles de sensibilidad de la información manejada. Dado que es una directiva es posible ser específico en herramientas puntuales aprobadas o criterios de selección.
 * La prohibición de actividades que deterioren injustificadamente la calidad de la conexión (por ejemplo descargas de torrents o streaming de contenidos no relacionados al trabajo).
 
 #### Estrategias contra la suplantación de identidad

@@ -35,9 +35,9 @@ En caso de llevar a cabo la actividad en digital:
 
 ### Instrucciones
 1. Revisar la matriz de riesgo levantada en la actividad anterior y seleccionar una o dos amenazas que se consideren pertinentes para levantar procedimientos de seguridad. Algunas consideraciones pueden ser:
-  * Es normal que hayan amenazas que dependan altamente de personal o aliados externos para su resolución, aunque es deseable que sean amenazas resolubles en mayor medida por los mismos integrantes de la organziación, el primer tipo de amenaza es válido para desarrollar la actividad.
+  * Es normal que hayan amenazas que dependan altamente del personal o aliados externos para su resolución, aunque es deseable que sean amenazas resolubles en mayor medida por los mismos integrantes de la organización, el primer tipo de amenaza es válido para desarrollar la actividad.
 
-2. Para cada amenaza, que desde ahora serán tratadas como incidentes de seguridad ya que se estará preparando el procedimiento para su ocurrencia, hacer una lluvia de idea de acciones que se deberían tomar como pasos, anotar cada uno en notas adhesivas y pegar en el papel o pared, luego reordenar a medida que se agregan nuevos pasos. Como ayuda para el grupo, usualmente las acciones que se toman en un procedimiento buscan:
+2. Para cada amenaza, que desde ahora serán tratadas como incidentes de seguridad ya que se estará preparando el procedimiento para su ocurrencia, hacer una lluvia de ideas de acciones que se deberían tomar como pasos, anotar cada uno en notas adhesivas y pegar en el papel o pared, luego reordenar a medida que se agregan nuevos pasos. Como ayuda para el grupo, usualmente las acciones que se toman en un procedimiento buscan:
   * Minimizar el daño.
   * Limpiar artefactos restantes del incidente.
   * Reanudar actividades tan pronto como se pueda.
@@ -63,7 +63,7 @@ Responsables por paso
 
 Pasos del plan de comunicación
 
-5. Crear una tercera columna con el encabezado "Preparación" y para cada paso preguntarle al equipo *¿Qué hace falta garantizar ANTES de que ocurra el incidente para que se pueda cumplir este paso?*. Tomar nota de cada paso de preparación en una nota adhesiva y colocarla junto al paso correspondiente, es normal que algunos pasos no tengan acciones de preparación asociadas. Algunos ejemplos usuales de pasos de preparación son:
+5. Crear una tercera columna con el encabezado "Preparación" y para cada paso preguntar al equipo *¿Qué hace falta garantizar ANTES de que ocurra el incidente para que se pueda cumplir este paso?*. Tomar nota de cada paso de preparación en una nota adhesiva y colocarla junto al paso correspondiente, es normal que algunos pasos no tengan acciones de preparación asociadas. Algunos ejemplos usuales de pasos de preparación son:
   * que A tenga el contacto de B consultor externo.
   * que C sepa como apagar el servidor interno.
   * que todos sepan borrar información de forma segura.
@@ -72,7 +72,7 @@ Pasos del plan de comunicación
 
 Preparación previa para el procedimiento
 
-6. Discutir con el grupo *¿Cómo se comunicarían entre ellos durante la resolución del incidente?* y guiar la discusión sobre qué canales se consideran seguros y confiables para mantener al grupo comunicado durante el incidente, así como cuáles se utilizarían de manera formal durante *éste* tipo de incidente. Se sugiere tomar nota de estos canales y listarlos en orden de prioridad en caso de que el primero falle durante el incidente.
+6. Discutir con el grupo *¿Cómo se comunicarían entre ellos durante la resolución del incidente?* y guiar la discusión sobre qué canales se consideran seguros y confiables para mantener al grupo comunicado durante el incidente, así como cuáles se utilizarían de manera formal durante *este* tipo de incidente. Se sugiere tomar nota de estos canales y listarlos en orden de prioridad en caso de que el primero falle durante el incidente.
   * Vale la pena recordar que diferentes incidentes pueden afectar diferentes vías de comunicación.
 
 7. Sugerir al equipo vaciar la información que se recopiló durante la actividad en un documento formal. Se puede utilizar la plantilla 4 disponible en el sitio web de este material (https://sdamanual.org/es).

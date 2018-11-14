@@ -12,7 +12,7 @@ Tiempo estimado: 120 min
 La idea de esta actividad es introducir el concepto de análisis de riesgo a la organización y utilizar una abstracción de la metodología de matrices de riesgo para hacer un primer analisis del contexto de seguridad de la organización, el cual será utilizado para seleccionar escenarios de seguridad y asi elaborar procedimientos pertinentes al caso en la segunda actividad.
 
 ### Datos de entrada
-* Niveles de consecuencias desarrollados en la actividad de Mapeo y clasificación de información en la sección 01.
+* Niveles de consecuencias desarrollados en la actividad de mapeo y clasificación de información en la sección 01.
 
 ### Productos
 Directos
@@ -61,7 +61,7 @@ En caso de realizar la actividad en digital:
 
  **A.** Que un hacker introduzca un malware en la computadora del director de la organización.
 
- **B.**  Que el organismo de Inteligencia de mi país monitoree las llamadas telefónicas con las fuentes periodísticas exponiendo la integridad física de estas.
+ **B.**  Que el organismo de inteligencia de mi país monitoree las llamadas telefónicas con las fuentes periodísticas exponiendo la integridad física de estas.
 
   > Que [un evento] [ejerza una acción] a/sobre [un recurso][provocando ciertas consecuencias – opcional]
 
@@ -78,7 +78,7 @@ En caso de realizar la actividad en digital:
 Mapeo de amenazas
 
 3. Con todas las amenazas en un mismo sitio, utilizar los niveles de impacto desarrollados en la actividad de *Mapeo y clasificación de información* y colocarlos como el eje vertical de una matriz, luego con la ayuda de los participantes asignar a cada amenaza un nivel de impacto ubicando la nota adhesiva o equivalente a la altura del nivel de impacto seleccionado.
-* Se sugiere además de colocar los niveles de impacto cualitativos definidos anteriormente, disponer de una escala numérica como se muestra en el gráfico. Esto puede ayudar a cuantificar el nivel de riesgo luego de completar la actividad.
+* Se sugiere además colocar los niveles de impacto cualitativos definidos anteriormente, disponer de una escala numérica como se muestra en el gráfico. Esto puede ayudar a cuantificar el nivel de riesgo luego de completar la actividad.
 
 ![Grafico](/es/assets/images/ES-Grafico-19.png)
 
@@ -105,10 +105,10 @@ Reorganizando las amenazas post niveles de impacto
    Reorganizando las amenazas post niveles de probabilidad de ocurrencia
 
 5. Discutir sobre niveles de riesgo presentes en la matriz y realizar una lectura del contexto de seguridad de la organización a través de esta herramienta.
-  * Es esencial que los participantes tengan claro que las amenazas más importantes para atender deben ser aquellas que tienen altos niveles de impacto y altas probabilidades de ocurrencia asociados (en este caso aquellas más cercanas a la esquina superior derecha de la matriz).
-  * En el caso de querer hacer un análisis cuantitaivo de los niveles de riesgo habiendo usado escalas numéricas en los niveles de impacto y probabilidad de ocurrencia, bastará con multiplicar estos valores para cada amenaza y ordenar de mayor a menor los resultados obtenidos (niveles de riesgo).
+  * Es esencial que los participantes tengan claro que las amenazas más importantes para atender deben ser aquellas que tienen altos niveles de impacto y altas probabilidades de ocurrencia asociadas (en este caso aquellas más cercanas a la esquina superior derecha de la matriz).
+  * En el caso de querer hacer un análisis cuantitativo de los niveles de riesgo habiendo usado escalas numéricas en los niveles de impacto y probabilidad de ocurrencia, bastará con multiplicar estos valores para cada amenaza y ordenar de mayor a menor los resultados obtenidos (niveles de riesgo).
   * Este ejercicio tiene como resultado un análisis **subjetivo** por parte de los miembros de la organización, por ningún motivo representa un análisis riguroso y preciso del contexto de riesgo de la organización. Incluso si el mismo equipo repitiera la actividad al día siguiente pudiera resultar una matriz de riesgo diferente.
-  * Esta matriz de riesgo, asi como cualquier otro insumo que represente el contexto de riesgo de la organización, es un insumo **temporal** que no considera que los riesgos cambian a través del tiempo. Es muy importante hacer énfasis con los participantes que esta matriz representa "una foto" del estado de riesgo para ese momento en particular, y que la invitación es a repetir este ejercicio periódicamente para actualizar esta representación obtenida.
+  * Esta matriz de riesgo, asi como cualquier otro insumo que represente el contexto de riesgo de la organización, es un insumo **temporal** que no considera que los riesgos cambian a través del tiempo. Es muy importante hacer énfasis con los participantes que esta matriz representa "una foto" del estado de riesgo para ese momento en particular, y que la invitación es a repetir este ejercicio periódicamente para actualizar la representación obtenida.
 
 
   ![Grafico](/es/assets/images/ES-Grafico-23.png)

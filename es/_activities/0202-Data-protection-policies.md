@@ -14,7 +14,7 @@ Uno de los aspectos medulares de cualquier organización es la manipulación de 
 
 ### Datos de entrada
 * Mapa de datos desarrollado en la sección *Mapeo y clasificación de información*
-* Mapa de flujos de datos desarrollado en la sección *Mapeo de flujos de información*
+* Mapa de flujo de datos desarrollado en la sección *Mapeo de flujos de información*
 * [Plantilla 1: Política de protección de información](https://sdamanual.org/es/plantillas/p1) abierta en un equipo para alimentarla en el transcurso de la actividad.
 
 ### Conceptos Asociados
@@ -24,7 +24,7 @@ Uno de los aspectos medulares de cualquier organización es la manipulación de 
 
     <tr>
       <td>Niveles de sensibilidad de información</td>
-      <td>Es una escala por la cual se establece qué tanto una pieza de información se considera delicada y que necesita ser protegida. Hay muchas escalas propuestas ysu aplicación depende de las necesidades de la organización.</td>
+      <td>Es una escala por la cual se establece qué tanto una pieza de información se considera delicada y que necesita ser protegida. Hay muchas escalas propuestas y su aplicación depende de las necesidades de la organización.</td>
     </tr>
     <tr>
       <td>Principio del minimo privilegio</td>
@@ -36,7 +36,7 @@ Uno de los aspectos medulares de cualquier organización es la manipulación de 
     </tr>
     <tr>
       <td>Disposición de la información</td>
-      <td>Se refiere a las técnicas utilizadas para deshacerse de piezas de información una vez que han cumplido su vida útil o que debe ser destruida por motivos de regulaciones y seguridad. Generalmente estas técnicas tienen diferente nivel de complejidad y disponen de la información de formas más o menos seguras, especialmente en términos de su posible reconstrucción después de dispuesta.</td>
+      <td>Se refiere a las técnicas utilizadas para deshacerse de piezas de información una vez que ha cumplido su vida útil o que debe ser destruida por motivos de regulaciones y seguridad. Generalmente estas técnicas tienen diferente nivel de complejidad y disponen de la información de formas más o menos seguras, especialmente en términos de su posible reconstrucción después de dispuesta.</td>
     </tr>
 
   </tbody>
@@ -44,7 +44,7 @@ Uno de los aspectos medulares de cualquier organización es la manipulación de 
 
 
 ### Políticas a desarrollar
-* **Política de Protección de Información** a desarrollarse en esta actividad, abstrae contenidos existentes en las siguientes políticas descritas en marcos de referencia estandarizados:
+* **Política de Protección de Información** Abstrae contenidos existentes en las siguientes políticas descritas en marcos de referencia estandarizados:
 * **Política de clasificación de información:** Define criterios por los cuales se determina el nivel de sensibilidad de la información manejada y lineas estratégicas de manejo de esta información a los niveles de sensibilidad propuestos. También define usualmente los responsables del manejo y resguardo de las piezas de información trabajadas en la organización.
 * **Política de retención de datos:** Define entre otras cosas el tiempo que la organización puede conservar cierto tipo de información sensible, cómo disponer de ella, cuando se desincorpora, en qué dispositivos, qué prácticas de seguridad deben aplicarse a cada tipo de información sensible, y cómo se procesa la información sensible de acuerdo a regulaciones legales y mejores prácticas.
 * **Politica de acceso a datos:** Esta define las piezas de información que pueden ser accedidas y manipuladas por los distintos grupos y personas de la organización, en función de disminuir las posibilidades de compromiso de la misma y de hacer más eficientes los flujos de información dentro de los procesos de la organización.
@@ -82,12 +82,12 @@ Se propone discutir ambos aspectos y colocar el resultado de la discusión en la
 ##### 3. Responsables de la información
 > ¿Quiénes son los responsables del resguardo de la información?
 
-Cuando se maneja información con diferentes niveles de sensibilidad es importante garantizar que hay medidas de seguridad puestas en marcha para proteger esta información, y se vuelve relevante saber quiénes son los responsables de implementar y mantener las medidas de seguridad propuestas. Aunque marcos de referencias estandarizados proponen varias figuras relativas a la responsabilidad sobre la información, se propone sólo emplear la figura del *custodio de la información*. Dependiendo de las necesidades y dinámicas de la organización hay varias aproximaciones a la determinación de quiénes son los custodios de la información, algunos ejemplos son:
-  * Las personas que generan los objetos de información
-  * Coordinadores de departamentos o áreas asociadas a los objetos de información
-  * Las personas que en cada momento manipulan la información
-  * Personas específicas designadas caso a caso
-  * Otros criterios de asignación
+Cuando se maneja información con diferentes niveles de sensibilidad es importante garantizar que hay medidas de seguridad puestas en marcha para proteger esta información, y se vuelve relevante saber quiénes son los responsables de implementar y mantener las medidas de seguridad propuestas. Aunque algunos marcos de referencias estandarizados proponen varias figuras relativas a la responsabilidad sobre la información, se propone sólo emplear la figura del *custodio de la información*. Dependiendo de las necesidades y dinámicas de la organización hay varias aproximaciones a la determinación de quiénes son los custodios de la información, algunos ejemplos son:
+  * Las personas que generan los objetos de información.
+  * Coordinadores de departamentos o áreas asociadas a los objetos de información.
+  * Las personas que en cada momento manipulan la información.
+  * Personas específicas designadas caso a caso.
+  * Otros criterios de asignación.
 
 La propuesta es presentar estas opciones y discutir cual de ellas aplica mejor para la organización y dejarlo por escrito en la sección (3) de la plantilla.
 
@@ -99,7 +99,7 @@ En el marco del establecimiento de políticas de protección de la información,
 La primera premisa que se quiere validar con el grupo es si ellos estarían de acuerdo con seguir formalmente este principio, se espera que el grupo esté de acuerdo pero vale la pena explorar cualquier escenario en donde se dificulte. En estos casos se debe dejar claro que las probabilidad de compromiso de la información puede subir considerablemente. El principio del mínimo privilegio se tiene escrito por defecto en la sección (4) de la plantilla.
 
 ###### 4a. Políticas de control de acceso (opcional)
-En el caso en que la organización maneje información muy sensible, se muestre interesada en profundizar en el control de acceso a información y se disponga del tiempo, se puede desarrollar una primera versión de una matriz de control de acceso. En la sección (4a) de la plantilla se encuentra un ejemplo de matriz en donde se colocan como columnas diferentes departamentos, áreas, coordinaciones o inclusive cargos específicos dependiendo de la estructura y dinámicas de la organización, y como filas piezas de información con niveles de sensibilidad altos, y básicamente se describe qué áreas o personas pueden acceder a qué piezas.
+En el caso en que la organización maneje información muy sensible, se muestre interesada en profundizar en el control de acceso a información y se disponga del tiempo, se puede desarrollar una primera versión de una matriz de control de acceso. En la sección (4a) de la plantilla hay un ejemplo de matriz en donde se colocan como columnas diferentes departamentos, áreas, coordinaciones o inclusive cargos específicos dependiendo de la estructura y dinámica de la organización, y como filas piezas de información con altos niveles de sensibilidad, y básicamente se describe qué áreas o personas pueden acceder a qué piezas.
 
   ![Grafico](/es/assets/images/ES-Grafico-15.png)
 
@@ -110,7 +110,7 @@ En el caso en que la organización maneje información muy sensible, se muestre 
 
 Usando la matriz desarrollada en la actividad de flujos de información se pueden recopilar los criterios generales descritos para cada nivel de impacto y describirlos en la sección (5) de la plantilla.
 
-Es importante que en esta sección se evite escribir herramientas o servicios específicos, sino las características de seguridad asociadas, que permitan en el caso de cambiar una herramienta, tener el criterio para seleccionar una nueva que cumpla con las mismas o mejores prestaciones. Por ejemplo: no colocar para comunicaciones *Signal* sino Servicios de chat con cifrado de extremo a extremo.
+Es importante que en esta sección no se escriban herramientas o servicios específicos, sino las características de seguridad asociadas que permitan en el caso de cambiar una herramienta, tener el criterio para seleccionar una nueva que cumpla con las mismas o mejores prestaciones. Por ejemplo: no colocar para comunicaciones *Signal* sino Servicios de chat con cifrado de extremo a extremo.
 
   ![Grafico](/es/assets/images/ES-Grafico-16.png)
 
@@ -121,7 +121,7 @@ Es importante que en esta sección se evite escribir herramientas o servicios es
 
 De forma similar al paso anterior, para cada nivel de impacto o sensibilidad se recopilarán los dispositivos, otros lugares de reposo de la información y canales de comunicación que se seleccionaron para cada nivel, y así colocarlos en las tablas de la sección (6) de la plantilla como se indica. Se deja el espacio para colocar las consideraciones necesarias que se necesiten cumplir en cada caso si aplica.
 
-Por simplicidad, si la organización y el facilitador lo consideran conveniente, se pueden considerar sólo los niveles de impacto más altos, dado que los niveles más bajos pueden requerir más tiempo y esfuerzo para llenar la información solicitada en la plantilla, en ese caso las tablas para niveles bajo y medio se pueden borrar de la plantilla.
+Por simplicidad, si la organización y el facilitador lo consideran conveniente, se pueden considerar sólo los niveles de impacto más altos, dado que los niveles más bajos pueden requerir más tiempo y esfuerzo para cubrir la información solicitada en la plantilla, en ese caso las tablas para niveles bajo y medio se pueden borrar de la plantilla.
 
   ![Grafico](/es/assets/images/ES-Grafico-17.png)
 
@@ -130,10 +130,10 @@ Por simplicidad, si la organización y el facilitador lo consideran conveniente,
 
 ### Aspectos excluidos en la política
 * Tiempo de vida de la información: donde se especifique por cuánto tiempo la organización retendrá ciertos tipos de información y qué tipo de procesamiento se necesitará realizar antes de desincorporarlos o borrarlos.
-* Disposición de la información: cómo se debe eliminar la información según su tipo de sensibilidad, con la intención de evitar la reconstrucción de esta información o el rastreo de la existencia de los datos.
+* Disposición de la información: cómo se debe eliminar la información según su tipo de sensibilidad, con la intención de evitar la reconstrucción de esta pieza de información o el rastreo de la existencia de los datos.
 * Detalle de riesgos asociados a esta política: en donde se elabore en qué tipo de riesgos se están atacando con el cumplimiento de esta política.
 * Responsabilidades puntuales: donde se pueden especificar responsabilidades que escapan de ser custodio de la información y pueden ser relevantes para la organización.
-* Plan de capacitación en los conceptos, técnicas y herramientas propuestos en la política.
+* Plan de capacitación en los conceptos, técnicas y herramientas propuestas en la política.
 
 ### Referencias
 
