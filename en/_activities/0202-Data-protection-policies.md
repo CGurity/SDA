@@ -15,7 +15,7 @@ One of the core aspects of any organization is the manipulation of data given th
 ### Input data
 * Data mapping developed in the section *Data mapping and classification*
 * Information flow mapping developed in the section *Information flow mapping*
-* [Template 1: Data protection policy](https://sdamanual.org/es/plantillas/p1) open in a team to fill it up during the course of the activity.
+* [Template 1: Data protection policy](https://sdamanual.org/es/plantillas/p1) open in a device to fill it up during the course of the activity.
 
 ### Associated Concepts
 

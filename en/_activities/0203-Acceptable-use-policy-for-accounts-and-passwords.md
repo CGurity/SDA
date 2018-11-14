@@ -252,7 +252,7 @@ Discuss, modify and approve the content of section (4) of the corresponding temp
 
 ### Aspects excluded in the policy
 * Remote management of equipment.
-* Monitoring and auditing compliance with security policies in teams.
+* Monitoring and auditing compliance with security policies in devices.
 * Explicit prohibition of network monitoring, port analysis and use of honeypots and honeynets.
 * Explicit prohibition of execution of any illegal task, for example denial of service attacks (DoS and DDoS) and blocking of access to resources to other users without justification.
 
