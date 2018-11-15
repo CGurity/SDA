@@ -43,16 +43,16 @@ In case of carrying out this activity on digital equipment, it is Suggested to h
     Data storage places
 
     Some examples that may help the group to a better developed brainstorming are:
-        * Laptops and desktops.
-        * USB drives.
-        * Filing cabinets.
-        * External hard drives.
-        * Desks
-        * CDs.
-        * Internal server.
-        * Cloud storage services such as Dropbox or Google Drive.
-        * Mobile phones.
-        * Administrative and / or accounting software.
+    * Laptops and desktops.
+    * USB drives.
+    * Filing cabinets.
+    * External hard drives.
+    * Desks
+    * CDs.
+    * Internal server.
+    * Cloud storage services such as Dropbox or Google Drive.
+    * Mobile phones.
+    * Administrative and / or accounting software.
 
 2. Continue the brainstorming, but now ask the participants, through which means the information is transmitted. Add answers to the previous list as the chart shows:
 

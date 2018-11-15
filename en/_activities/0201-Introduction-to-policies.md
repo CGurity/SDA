@@ -52,18 +52,19 @@ Indirect
     * They relate to the day-to-day processes.
 
     Since security directives are quite more dependent on common technologies and practices, they are designed to be revised and changed much more frequently than policies, as a general guide it is suggested to review the directives when any of these conditions are met:
+
     * An amount of time has passed and now some security practices could be questioned or improved thanks to discoveries or updates. Take for example, when a critical vulnerability is discovered in a tool or when a new product emerges improving the conditions of the organization's processes so is desirable to be implemented. Normally these times are measured in months (e.g., between every 3 to 12 months).
     * There were changes related to security policies, including ones as a result of security incidents that affect the policy in question.
 
     In general, the security policies own a clear instructional language, specifying specific actions to take in certain scenarios, take for example:
-        * X piece of information is transmitted through these channels: ...
-        * It is not allowed to use the Y device to store highly sensitive information.
-        * Z piece of information can be transmitted by the W channel under the following conditions: ...
+    * X piece of information is transmitted through these channels: ...
+    * It is not allowed to use the Y device to store highly sensitive information.
+    * Z piece of information can be transmitted by the W channel under the following conditions: ...
 
     Remarkable differences between security policies and directives are:
-        * Its scope: the policies are general and the directives are specific.
-        * Its dependence: security policies are a part of security policies.
-        * Its evolution over time: generally security policies change in the order of the years, the security directives in the order of the months.
+    * Its scope: the policies are general and the directives are specific.
+    * Its dependence: security policies are a part of security policies.
+    * Its evolution over time: generally security policies change in the order of the years, the security directives in the order of the months.
 
     In many of the information security reference frameworks, the concept of security policy is represented under other documents or names and may generate confusion when consulting other types of literature. In this case, the most important thing to adapt this concept is to understand that it is about *clear instructions to execute a determined action complying with the security policies*, in this manual the concept of a directive is abstracted to build a model that is fast understanding and facilitation for the target groups.
 
