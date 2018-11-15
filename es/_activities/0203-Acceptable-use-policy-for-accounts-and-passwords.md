@@ -8,7 +8,7 @@ image: null
 ---
 Tiempo estimado: 15 min
 
-## Conceptos Asociados
+### Conceptos Asociados
 
 
 <table>
@@ -79,14 +79,14 @@ Tiempo estimado: 15 min
 </table>
 
 
-## Justificación
+### Justificación
 Actualmente la mayoría de organizaciones independientemente del campo que desarrollan utilizan tecnología dentro de sus procesos, esta tecnología tiene inevitablemente vulnerabilidades y es propensa a fallar o ser abusada. Tomando esto en cuenta, la idea de esta política es brindar lineamientos de uso seguro a los puntos de entrada de cualquier persona con la tecnología tanto a nivel de dispositivos como de servicios en internet para proteger a la organización de la mejor manera posible. Específicamente se describen medidas de seguridad básicas en el uso de dispositivos móviles o de escritorio, de servicios ampliamente usados como el correo electrónico y redes sociales, en la construcción y gestión de contraseñas y otros medios de autenticación dentro de la organización.
 
-## Datos de entrada
+### Datos de entrada
 * Política de protección de información.
 * [Plantilla 2: Política de uso aceptable de equipos, cuentas y contraseñas](https://sdamanual.org/es/plantillas/p2) disponible en físico o en digital para ser llenada en el transcurso de la actividad.
 
-## Políticas a desarrollar
+### Políticas a desarrollar
 La **Política de uso aceptable, cuentas y contraseñas** a desarrollarse en esta actividad, abstrae contenidos existentes en las siguientes políticas descritas en marcos de referencia estandarizados:
 * **Política de uso aceptable de equipos:** Define condiciones básicas para usar de forma segura computadoras, teléfonos y otros equipos móviles. usualmente trata temas como contraseñas de acceso, bloqueo de equipo, cifrado y reporte de incidentes entre otros.
 * **Política de uso aceptable de internet:** Establece algunos principios de seguridad relacionados al uso de navegadores y otras aplicaciones que se conectan a internet en función de proteger los equipos usados y la información contenida en estos.
@@ -94,7 +94,7 @@ La **Política de uso aceptable, cuentas y contraseñas** a desarrollarse en est
 * **Política de uso aceptable de redes sociales:** Determina medidas de seguridad a tomar en el uso y administración de redes sociales de la organización. Normalmente tiene un conjunto de reglas generales y otras específicas por cada servicio de interés.
 * **Política de cuentas y contraseñas:** En esta política se establecen un conjunto de reglas que rigen la creación, el uso y mantenimiento de contraseñas en diferentes servicios y de acceso a dispositivos, en caso de que la organización maneje algunos sistemas propios, puede especificar lineamientos de administración de contraseñas para sus usuarios. En ocasiones, esta política también considera aspectos diferentes a las contraseñas, como biometría u otros factores de autenticación.
 
-## Preguntas guía
+### Preguntas guía
 1. ¿Cuál es el alcance de la política propuesta?
   * ¿A quiénes afecta esta política?
   * ¿Incluye los equipos propiedad de la organización o cualquiera que se use para trabajar en esta?
