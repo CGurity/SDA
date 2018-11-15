@@ -65,7 +65,7 @@ In case of carrying out this activity on digital equipment, it is Suggested to h
         * Encrypted email services such as Protonmail, Hushmail or Tutanota.
         * Social networks.
         * Web site.
-        * Remote management of equipment.
+        * Remote device management.
 
    ![Grafico](/assets/images/EN-Graphic-9.png)
 

@@ -9,7 +9,7 @@ image: null
 Estimated time: 15 min
 
 ### Justification
-In any kind of organization, it's natural to arrange large amounts of highly sensitive information in the paper. On the other hand, when we talk about digital workspaces the equipment used to store and manipulate data, becomes an object of interest to those who might want somewhat compromise the organization. The idea behind this policy is to establish a set of strategies to ensure both the physical information and the integrity of the equipment. This policy is one of the most linked to daily basis tasks since it considers activities that must be carried out during the entire working day.
+In any kind of organization, it's natural to arrange large amounts of highly sensitive information in the paper. On the other hand, when we talk about digital workspaces, the devices used to store and manipulate data, becomes an object of interest to those who might want somewhat compromise the organization. The idea behind this policy is to establish a set of strategies to ensure both the physical information and the integrity of the equipment. This policy is one of the most linked to daily basis tasks since it considers activities that must be carried out during the entire working day.
 
 ### Input data
 * [Template 3: Clean desk policy](https://sdamanual.org/es/plantillas/p3) available in the physical or digital form to be filled out during the course of the activity.
@@ -29,11 +29,11 @@ In summary, the scope associated with this policy, available in section (1) of t
 * Workspaces affected by this policy.
 * A person affected by this policy.
 
-### Measures in spaces with work equipment
+### Measures in spaces with work devices
 > What measures should be taken in the organization's workspaces?
 Discuss, modify and approve the content of section (2) of the corresponding template. Some of the most important aspects discussed in this section are:
 * Particular steps to follow at the end of the workday.
-* Management of unattended equipment during the workday.
+* Management of unattended devices during the workday.
 * Use of a physical shield mechanism for devices in workspaces.
 
 ### Management of physical data in workspaces
@@ -50,6 +50,7 @@ Discuss, modify and approve the content of section (3) of the corresponding temp
 
 ### Physical information layout
 > How should physical information be available once it has to be dismissed?
+
 Discuss, modify and approve the content in the section (4) of the corresponding template. Some of the most important aspects discussed in this section are:
 
 * The use of equipment or techniques to make unintelligible physical information.
