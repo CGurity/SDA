@@ -98,7 +98,7 @@ In case of doing the activity in digital equipment:
 
     Map of consequences
 
-5. After compiling a number consequences of each type, the idea of grading mapped consequences, according to their level of impact is introduced, then is later suggested to create a vertical axis that represents null, low, medium and high impacts. In the event that the facilitator and the team feel comfortable about it, you can change this scale to any other considered convenient (from 1 to 10, add to the proposed critical impact, etc.). After creating this axis, we proceed to locate the threats mapped into those different categories with the support of the team, as shown in the figure.
+5. After compiling a number consequences of each type, the idea of grading mapped consequences, according to their level of impact is introduced, then is later suggested to create a vertical axis that represents null, low, medium and high impacts. In the event that the facilitator and the team feels comfortable about it, you can change this scale to any other considered convenient (from 1 to 10, add to the proposed critical impact, etc.). After creating this axis, we proceed to locate the threats mapped into those different categories with the support of the team, as shown in the figure.
 
     Take this into consideration:
     * It is possible to end up with some blank spaces, depending on the case it is worthwhile asking the team what consequences are missing in those spaces. In the case of low or null impact it is not mandatory to place direct consequences, this can be explained by the fact that everything that is considered below the consequence with the least impact is irrelevant.
