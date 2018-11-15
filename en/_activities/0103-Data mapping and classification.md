@@ -116,8 +116,8 @@ In case of doing the activity in digital equipment:
 
 ### Closure of the activity
 At the end of the activity you can discuss and emphasize what has been achieved:
-    * Axes of consequences were defined and associated with the data the organization manages.
-    * The bases of the data classification policy were established, so each time a new piece of information is handled, the level of impact associated with the commitment of this can be easily resolved, also along with the products that will be generated later,  will be possible to determine safety measures to be taken.
+* Axes of consequences were defined and associated with the data the organization manages.
+* The bases of the data classification policy were established, so each time a new piece of information is handled, the level of impact associated with the commitment of this can be easily resolved, also along with the products that will be generated later,  will be possible to determine safety measures to be taken.
 
 ### References
 

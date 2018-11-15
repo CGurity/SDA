@@ -115,7 +115,7 @@ In summary, the scope associated with this policy covers the following aspects:
 
 * To which people this policy impact: generally all members of the organization and allies who work on specific projects are included.
 * What equipment this policy impact:
-   * If there is only equipment include that is owned by the organization or if it also includes the equipment owned by the members of the organization used for professional purposes (work model *Bring your own equipment* or Bring Your Own Device - BYOD).
+   * If there is only equipment include that is owned by the organization or if it also includes the equipment owned by the members of the organization used for professional purposes (work model *Bring your own device* - BYOD).
    * If it includes computers and/or phones and other mobile equipment.
 * What type of digital services covers: whether it includes email, general internet use, social networks or any other service that is relevant to the organization. A valid option can also be all services that are used to work in the organization.
 
@@ -166,6 +166,7 @@ Discuss, modify and approve the content of section (4) of the corresponding temp
 
 ### 5. Internet general purpose directives
 > What are the general security measures when using the internet?
+
 Discuss, modify and approve the content of section (5) of the corresponding template. In case some consideration does not apply to the organization, it can be eliminated without any consequence. Some of the most important aspects discussed in this section are:
 
 * The use of circumvention and anonymity instruments on the internet when using computers such as Virtual Private Networks (or VPNs in English), Tor or other similar tools. Normally these measures are associated with levels of sensitivity of the data handled. Since it is a directive, it can be specific in approved point tools or selection criteria.
