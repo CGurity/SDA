@@ -8,7 +8,7 @@ image: null
 ---
 Estimated time: 15 min
 
-## Associated Concepts
+### Associated Concepts
 
 <table>
   <tbody>
@@ -77,14 +77,14 @@ Estimated time: 15 min
   </tbody>
 </table>
 
-## Justification
+### Justification
 Currently, most organizations use technology within their processes, this technology inevitably has vulnerabilities and is prone to fail or be abused. Taking this into account, the idea of this policy is to provide safe use guidelines to the entry points of any member of the team, both at the level of devices and services on the Internet to protect the organization in the best possible way. Specifically, basic security measures in the use of mobile or desktop devices are described, widely used services such as email and social networks, the construction, and management of passwords and other means of authentication within the organization.
 
-## Input data
+### Input data
 * Data protection policy.
 * [Template 2: Acceptable use policy for computers, accounts, and passwords](https://sdamanual.org/es/plantillas/p2) available in the physical or digital form to be filled in during the course of the activity.
 
-## Policies to be developed
+### Policies to be developed
 The **Acceptable use policy, accounts, and passwords** to be developed in this activity, abstracts existing contents in the following policies described in standardized reference frames:
 * **Equipment Acceptable Use Policy:** Defines basic conditions for safe use of computers, telephones, and other mobile equipment. It usually deals with topics such as access passwords, computer lock, encrypt and incident reporting among others.
 * **Internet acceptable use policy:** It establishes some security principles related to the use of browsers and other applications that connect to the internet in order to protect both equipment and data contained in it.
@@ -92,7 +92,7 @@ The **Acceptable use policy, accounts, and passwords** to be developed in this a
 * **Social network acceptable use policy:** Determines security measures to be taken in the use and administration of the organization's social networks. It usually has a set of general rules and other specific rules for each service of interest.
 * **Account and password policy:** This policy establishes a set of rules that govern the creation, use, and maintenance of passwords in different services and access to devices, in case the organization manages some of its own systems, you can specify a password management guidelines for your users. Sometimes, this policy also considers aspects other than passwords, such as biometrics or other authentication factors.
 
-## Guiding questions
+### Guiding questions
 1. What is the scope of the proposed policy?
 * Who does this policy affect?
 * Does it include equipment owned by the organization or any other equipment used to work on it?
