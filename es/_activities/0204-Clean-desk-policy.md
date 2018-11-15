@@ -8,16 +8,16 @@ image: null
 ---
 Tiempo estimado: 15 min
 
-## Justificación
+### Justificación
 En cualquier tipo de organización, independientemente del uso que hagan de la tecnología, es normal que se tengan grandes cantidades de información de alta sensibilidad en físico, además, cuando hablamos de espacios de trabajo, los equipos utilizados para almacenar y manipular información pasan a ser objetos físicos de interés para aquellos que quieran comprometer los datos de la organización. La idea detrás de esta política es establecer un conjunto de estrategias que permitan asegurar tanto la información en físico como la integridad de los equipos que se utilizan en los espacios de trabajo de la organización. Esta política es una de las más vinculadas al día a día del equipo ya que considera actividades que deben realizarse durante toda la jornada de trabajo.
 
-## Datos de entrada
+### Datos de entrada
 * [Plantilla 3: Política de limpieza de escritorio](https://sdamanual.org/es/plantillas/p3) disponible en físico o en digital para ser llenada en el transcurso de la actividad.
 
-## Políticas a desarrollar
+### Políticas a desarrollar
 En principio, la **Política de limpieza de escritorio** o (Clean desk policy en Inglés) se encuentra de forma explícita en la mayoría de los marcos de referencia utilizados en varias organizaciones.
 
-## Preguntas guía
+### Preguntas guía
 1. ¿Cuál es el alcance de esta política?
 2. ¿Qué medidas de deben tomar en los espacios de trabajo en la organización?
 3. ¿Cómo se debe manejar la información en físico en los espacios de trabajo?
@@ -55,7 +55,7 @@ Discutir, modificar y aprobar el contenido de la sección (4) de la plantilla co
 * El uso de equipamiento o técnicas para hacer ininteligible la información física de la que se desea disponer.
 * Lugares seguros para depositar la información en físico después de haber sido procesada para su disposición.
 
-## Referencias
+### Referencias
 
 <ul class="ref-ul">
 
