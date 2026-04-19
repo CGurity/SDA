@@ -27,7 +27,7 @@ Estimated time: 15 min
     </tr>
     <tr>
       <td>Pirated Software</td>
-      <td>Any software that is installed out of the official channels without paying their licensing value.</td>
+      <td>Any software installed outside official channels without purchasing a valid license.</td>
     </tr>
     <tr>
       <td>Malware</td>
@@ -35,7 +35,7 @@ Estimated time: 15 min
     </tr>
     <tr>
       <td>Phishing</td>
-      <td>A series of attacks that use identity theft as a mechanism to get a user to perform an action harmful to oneself, the equipment used, the data stored and network linked to.</td>
+      <td>A series of attacks that use identity theft as a mechanism to get a user to perform an action harmful to themselves, the equipment used, the data stored and the network they are connected to.</td>
     </tr>
     <tr>
       <td>Password</td>
@@ -43,11 +43,11 @@ Estimated time: 15 min
     </tr>
     <tr>
       <td>Credentials</td>
-      <td>The union of usernames and passwords, are given to identify a user. These credentials increasingly include other factors such as biometric aspects and temporary security codes.</td>
+      <td>The combination of a username and password used to identify a user. These credentials increasingly include other factors such as biometric data and temporary security codes.</td>
     </tr>
     <tr>
       <td>VPN (Virtual Private Network)</td>
-      <td>Technology that allows treating devices that can be in remote locations as part of an internal network, frequently used by organizations to unite in a single network several computers in dispersed locations. A particular application of this technology allows private users to encrypt the content of their Internet connections between their devices and places considered safe before reaching the Internet, they are generally used to protect surveillance traffic and access to blocked content.</td>
+      <td>Technology that allows devices in remote locations to be treated as part of an internal network, frequently used by organizations to connect several computers in dispersed locations into a single network. A particular application of this technology allows individual users to encrypt the content of their Internet connections between their devices and trusted endpoints before reaching the Internet; they are generally used to protect against traffic surveillance and to access blocked content.</td>
     </tr>
     <tr>
       <td>Tor</td>
@@ -59,7 +59,7 @@ Estimated time: 15 min
     </tr>
     <tr>
       <td>Antivirus</td>
-      <td>Software that analyzes files in searching for known pieces of malware. They generally hold a database of previously identified threats, then compare file by file with this database to detect any possible matches.</td>
+      <td>Software that scans files for known malware. It generally holds a database of previously identified threats and compares files against it to detect any possible matches.</td>
     </tr>
     <tr>
       <td>PGP / GnuPG / GPG</td>
@@ -70,8 +70,8 @@ Estimated time: 15 min
       <td> Software that allows you to store previously designed passwords and recover them when needed. Generally they allow generating passwords with much greater length and complexity since it is not necessary to remember them at the moment of their use.</td>
     </tr>
     <tr>
-      <td>Authentication in 2 factors or authentication in 2 steps</td>
-      <td>Authentication technique based on request to enter a service in addition to a password, another element related to something that the user physically possesses, such as a cell phone, a physical token, a card with codes, etc.</td>
+      <td>Two-factor authentication (2FA) or two-step authentication</td>
+      <td>Authentication technique that requires, in addition to a password, a second element related to something the user physically possesses, such as a mobile phone, a hardware token, a code card, etc.</td>
     </tr>
 
   </tbody>
@@ -215,7 +215,7 @@ Discuss, modify and approve the content of section (8) of the policy template fo
 * Who manages the access credentials.
 * Use of collaborative publishing tools that protect the credentials of social media accounts.
 * Use of password managers.
-* False accounts monitoring if applied.
+* Monitoring for fake accounts, if applicable.
 
 #### For each specific service
 * What characteristics can be configured in addition to those present in the general policy?

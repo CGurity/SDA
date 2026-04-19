@@ -9,19 +9,19 @@ image: null
 Estimated time: 15 min
 
 ### Justification
-In any kind of organization, it's natural to arrange large amounts of highly sensitive information in the paper. On the other hand, when we talk about digital workspaces, the devices used to store and manipulate data, becomes an object of interest to those who might want somewhat compromise the organization. The idea behind this policy is to establish a set of strategies to ensure both the physical information and the integrity of the equipment. This policy is one of the most linked to daily basis tasks since it considers activities that must be carried out during the entire working day.
+In any kind of organization, it's common to handle large amounts of highly sensitive information in paper form. At the same time, devices used to store and manipulate data become physical objects of interest to those who might want to compromise the organization. The idea behind this policy is to establish a set of strategies to protect both physical information and the integrity of devices. This policy is one of the most closely tied to day-to-day tasks since it considers activities that must be carried out throughout the entire working day.
 
 ### Input data
 * [Template 3: Clean desk policy](https://sdamanual.org/es/plantillas/p3) available in the physical or digital form to be filled out during the course of the activity.
 
 ### Policies to be developed
-The initial intention is, the **Clean desk policy**  is explicitly found in most reference frames used in various organizations.
+The **Clean desk policy** is explicitly included in most reference frameworks used by various organizations.
 
 ### Guiding questions
 1. What is the scope of this policy?
 2. What measures should be taken in the organization´s workspaces?
 3. How should physical information be handled in workspaces?
-4. How should physical information be available once is dismissed?
+4. How should physical information be disposed of once it is discarded?
 
 
 ### Scope of the policy
@@ -41,20 +41,20 @@ Discuss, modify and approve the content of section (2) of the corresponding temp
 Discuss, modify and approve the content of section (3) of the corresponding template. Some of the most important aspects discussed in this section are:
 
 * Processes to follow at the end of the day to keep the workspaces free of sensitive data.
-* Management of filing cabinets or other physical data shield mechanisms.
+* Management of filing cabinets or other physical data protection mechanisms.
 * Management of furniture keys and safety boxes.
 * Existence of sensitive data in workspaces.
 * Management of paper in printers.
 * Management of information on blackboards and billboards.
 * Management of portable digital storage devices.
 
-### Physical information layout
-> How should physical information be available once it has to be dismissed?
+### Physical information disposal
+> How should physical information be disposed of once it has to be discarded?
 
 Discuss, modify and approve the content in the section (4) of the corresponding template. Some of the most important aspects discussed in this section are:
 
-* The use of equipment or techniques to make unintelligible physical information.
-* To secure places by depositing information in physical after it has been processed for its disposal.
+* The use of equipment or techniques to render physical information unintelligible.
+* Secure locations for depositing physical information after it has been processed for disposal.
 
 ### References
 

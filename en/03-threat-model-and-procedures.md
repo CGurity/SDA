@@ -28,7 +28,7 @@ nav-menu: true
 				</a>
 			</header>
 			<a href="/activities/0301-threats-model.html" class="link-03">
-			<p>The idea of this activity is introducing the concept of risk analysis of the organization and also to use an abstraction of the risk matrix methodology to make a first analysis of the organization's security context, which will be used to select security scenarios in order to elaborate procedures to the case in the second activity.</p>
+			<p>The idea of this activity is to introduce the concept of risk analysis and use an abstraction of the risk matrix methodology to conduct an initial analysis of the organization's security context, which will then be used to select security scenarios for developing relevant procedures in the second activity.</p>
 			</a>
 		</div>
 	</div>
@@ -43,7 +43,7 @@ nav-menu: true
 				<header class="major"> <a href="/activities/0302-introduction-to-protocols.html" class="image-03 index-number">
 					<h3>Introduction to security procedures</h3> </a>
 				</header>  <a href="/activities/0302-introduction-to-protocols.html" class="image-03 index-number">                               
-				<p>The idea behind this activity is to complement policies revealed previously as preventive strategies along with the development of procedures to be applied during security incidents such as reactive strategies pursuing to mitigate impact of threats once they have been implemented. This activity seeks to abstract the concepts of procedures, training, communications plans, succession plans and arrangement activities in a single dynamic serving as an introduction to the area of incident response developed in the information security literature.</p> </a>
+				<p>The idea behind this activity is to complement the policies developed previously as preventive strategies with the development of procedures to be applied during security incidents as reactive strategies aimed at mitigating the impact of threats once they have materialized. This activity seeks to bring together the concepts of procedures, communications plans, succession plans and preparatory activities in a single dynamic that serves as an introduction to the area of incident response in information security.</p> </a>
 			</div>
 		</div>
 	</section>

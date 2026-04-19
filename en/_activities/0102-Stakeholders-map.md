@@ -41,7 +41,7 @@ In case of doing the activity in digital equipment:
   * Spreadsheet ready to fill, showing the headings with stakeholder categories.
 
 ### Instructions
-Once the objectives of the organization have been related to the previous activity, it should be clearer for the participants about the approach of the group, the type of stakeholders linked to their work, and their motivations for the safety of the organization.
+After discussing the organization's objectives in the previous activity, participants should have a clearer sense of the group's focus, the type of stakeholders linked to their work, and their motivations as they relate to the organization's security.
 
 1. Explain briefly that the main idea is to create a spectrum of allies sorted by their attitude towards the organization, seeking to use just a few options in order to facilitate the process. Take for example the following:
    * Active opponents
@@ -62,14 +62,14 @@ Organization Stakeholder Mapping
    * Maintenance personnel and general services.
    * People to whom services are provided (victims, unprotected groups, citizens seeking advice, etc.).
    * Similar organizations.
-3. Ask the participants to say and / or write the stakeholders, so then afterwards being placed in the columns where they consider that they must located according to their judgment. If there is any disagreement with the rest of the audience in the chosen category, it can be discussed until there is consensus and the group is satisfied with all the names on the list.
+3. Ask the participants to name and/or write down the stakeholders, and then place them in the columns that best reflect their position according to the group's judgment. If there is any disagreement with the rest of the group about a chosen category, it can be discussed until there is consensus and everyone is satisfied with all the names on the list.
 4. Once the list is considered complete ask the participants for those stakeholders placed at the boundaries (active opponents and allies in the previous example). The main idea is to discuss not only the **capabilities** and **motivations** of these names in order to harm or help the organization, but also preparing participants for the data mapping and threat model activities.
 5. Discuss along with the participants some considerations on stakeholder mapping:
    * Maps of stakeholders may vary in time very quickly. Today an active ally tomorrow might be an active opponent, or a neutral stakeholder might  take sides in the wake of a particular event.
    * Categorization of the stakeholders is perceptual, perhaps for a group a certain name seems an ally, but in practice can play a different role unknown to the organization.
    * Generally, an organization is linked to many more stakeholders than can be obtained in a 10-minute brainstorm. It is worthwhile for the group to feel comfortable applying this methodology so they can replicate it by themselves once they consider it convenient.
 
-It is highly important that the map obtained  to be available for future activities, if done on paper, it is recommended not to dismantle these post-its and / or sticky notes, but move them to a place where they are visible and do not interfere with other activities. In a case of doing the activity on digital equipment, it is recommended to have at hand the file where the information was collected.
+It is very important that the resulting map be kept available for future activities. If done on paper, it is recommended not to take down the post-its and/or sticky notes, but to move them to a place where they are visible and do not interfere with other activities. If the activity was done on digital equipment, it is recommended to have the file where the information was collected readily at hand.
 
 ### References
 

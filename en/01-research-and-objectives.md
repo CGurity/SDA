@@ -62,7 +62,7 @@ author: null
 				<header class="major"> <a href="/activities/0103-data-mapping-and-classification.html" class="image-01 index-number">
 					<h3>Data mapping and classification</h3> </a>
 				</header> <a href="/activities/0103-data-mapping-and-classification.html" class="image-01 index-number">
-				<p>The main idea of this activity is to achieve the information about the organization, and thus redirect it towards its sensitivity. In the process, the bases that will easily allow the construction of the first security policies for the organization will be established.</p> </a>
+				<p>The main idea of this activity is to map all the information the organization handles and assess its sensitivity level. In the process, the foundations that will allow the construction of the first security policies for the organization will be established.</p> </a>
 			</div>
 		</div>
 	</section>

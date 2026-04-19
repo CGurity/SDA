@@ -10,7 +10,7 @@ image: null
 Estimated time: 45 min
 
 ### Justification
-The idea behind this activity is to complement policies revealed previously as **preventive strategies** along with the development of procedures to be applied during security incidents such as **reactive strategies** pursuing to mitigate impact of threats once they have been implemented. Specifically, this activity seeks to abstract the concepts of procedures, training, communications plans, succession plans and arrangement activities in a single dynamic serving as an introduction to the area of *incident response* developed in the information security literature.
+The idea behind this activity is to complement the policies developed previously as **preventive strategies** with the development of procedures to be applied during security incidents as **reactive strategies** aimed at mitigating the impact of threats once they have materialized. Specifically, this activity seeks to bring together the concepts of procedures, communications plans, succession plans and preparatory activities in a single dynamic that serves as an introduction to the area of *incident response* in information security.
 
 ### Input data
 * Risk matrix
@@ -27,7 +27,7 @@ Indirect
 
 ### Materials
 In case of doing the activity on paper:
-  * Post-its or sticky notes (pied) and markers or
+  * Post-its or sticky notes and markers or
   * Large pieces of paper to stick on the wall and markers.
 In case of doing the activity in digital equipment:
   * Computer.
@@ -37,7 +37,7 @@ In case of doing the activity in digital equipment:
 1. Check risk matrix raised in the previous activity and select one or two threats considered relevant to raise security procedures.
     * It is natural that there are threats depending highly on the personnel or external allies for their resolution, although it is desirable they are resolvable threats to a greater extent by the same members of the organization.
 
-2. For each threat, which from now on will be treated as security incidents since procedures for its occurrence will be prepared, make a brainstorm of actions that should be taken as steps, write down each one on sticky notes, put them on paper or onto the wall, then reorder as new steps are added. As an aid to the group, usually  actions taken in a procedure follow:
+2. For each threat, which from now on will be treated as a security incident (since we are preparing protocols for when it occurs), brainstorm actions that should be taken as steps. Write each one on a sticky note, put them on paper or on the wall, and reorder as new steps are added. As an aid to the group, actions taken in a protocol usually aim to:
     * Minimize the damage.
     * Clean remaining artifacts from the incident.
     * Resume activities as soon as possible.
@@ -54,7 +54,7 @@ In case of doing the activity in digital equipment:
 
     Responsibles for each step
 
-4. With consent in the group on the steps of the procedure to take, ask at what point should establish communication with the organization's external stakeholders. The idea behind this is to write down these mentioned communication points as new steps (ideally in a different color) in order to include them into steps of the procedure by rearranging the existing ones.
+4. Once the group has reached consensus on the steps of the procedure, ask at what point communication with the organization's external stakeholders should be established. The idea behind this is to write down these mentioned communication points as new steps (ideally in a different color) in order to include them into steps of the procedure by rearranging the existing ones.
     * These communications are normally mandatory or highly desirable to resolve the incident, such as networks of allies, external suppliers, etc.
     * It is possible that in the same dynamic of the activity, this communications map developed in step 2 has been advanced naturally. In that case, by completing any missing communication and continuing would be enough.
     * For each step related to external communications, verify that it always appears who would be contacted, either in the step or in the person in charge.
@@ -75,7 +75,7 @@ In case of doing the activity in digital equipment:
 6. Discuss with the group *How would they communicate with each other during the resolution of the incident?* Guide the discussion about which channels are considered safe and reliable to keep the group informed during the incident, as well as which ones would be used formally during *this one* type of incident. It is suggested to take note of these channels and list them in order of priority in case the first one fails during the incident.
     * It is worth remembering that different incidents can affect different communication channels.
 
-7. Suggest the team to empty the information collected during this activity in a formal document. You can use the template 4 available on the website of this material (https://sda.guerracarlos.com).
+7. Suggest the team transfer the information collected during this activity into a formal document. You can use template 4 available on the website of this material (https://sdamanual.org).
 
   ![Grafico](/assets/images/EN-Graphic-28.png)
 

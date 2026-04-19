@@ -10,7 +10,7 @@ image: null
 Estimated time: 90 min
 
 ### Justification
-The main idea of this activity is to complete the information about the organization, and thus redirect it towards its sensitivity. In the process, the bases that will easily allow the construction of the first security policies for the organization will be established.
+The main idea of this activity is to map all the information the organization handles and assess its sensitivity level. In the process, the foundations that will allow the construction of the first security policies for the organization will be established.
 
 ### Input data
 * Stakeholder map.
@@ -52,7 +52,7 @@ In case of doing the activity in digital equipment:
 
    Pieces of information mapping
 
-2. Along with the pieces of information into view, briefly explain the concepts of Availability, Integrity and Confidentiality, which are frequently used in information security to explain the different types of commitment to information. It is suggested to develop concise concepts and review other references to have a broader understanding:
+2. With the pieces of information in view, briefly explain the concepts of Availability, Integrity and Confidentiality, which are frequently used in information security to explain the different types of compromise of information. It is suggested to develop concise definitions and review other references for a broader understanding:
    * **Availability:** It is the ability to always be within reach of those who need it. For example, when a server runs out of power, it threatens the availability of the information contained in it.
    *  **Integrity:** Is the ability to be reliable, in the sense that its content has not been manipulated or altered by a third party. For example, for a malicious third party to take a database of victims and modify the information is considered a threat to the integrity.
    * **Confidentiality:** It is the ability to be accessible only to those who correspond by definition. For example, when a third party can read emails that are sent by two people, it is considered a threat to the confidentiality of the information transmitted by mail.
@@ -61,7 +61,7 @@ In case of doing the activity in digital equipment:
 
    Triad CIA (Confidentiality-Integrity-Availability)
 
-3. Discuss along with participants about the negative consequences the organization can meet in the event of compromising the information handled. Create apart from the brainstorming, a horizontal list based on **types of consequences** as shown in the figure.
+3. Discuss with participants the negative consequences the organization could face in the event of a compromise of the information it handles. Separately from the brainstorming, create a horizontal list of **types of consequences** as shown in the figure.
 
     ![Graphic with the axes proposed below](/assets/images/EN-Graphic-4.png)
 
@@ -76,13 +76,13 @@ In case of doing the activity in digital equipment:
     * **Administrative consequences:** Are those related to the legal status of organizations and people beyond the judicial field. Frequently related to compliance with regulations, taxes, surveillance, loss of legal status, infractions of laws, etc.
     * **Economic consequences:** Are those directly related to the loss of money and assets by the organization and/or its members.
 
-    These types of consequences are just hints. In case of requiring simplified this exercise, some of the proposed axes might be explicitly combined or excluded, even if the team considers it pertinent, new types may be added. For example, image or religious consequences (if applicable).
+    These types of consequences are just suggestions. To simplify this exercise, some of the proposed axes may be explicitly combined or excluded; if the team considers it relevant, new types may also be added. For example, reputational or religious consequences (if applicable).
 
-4. Once you have a clear understanding of all sorts of consequences, it is suggested to ask the participants to think about possible consequences of the commitment to pieces of information mapped in terms of availability, integrity and confidentiality, take note of these and place them on sticky notes or onto their  digital equivalent below the type of consequence to which it belongs (digital, physical, legal, etc.)
+4. Once you have a clear understanding of all the types of consequences, it is suggested to ask the participants to think about possible consequences of the compromise of the mapped pieces of information in terms of availability, integrity and confidentiality. Take note of these and place them on sticky notes or their digital equivalent below the type of consequence they belong to (digital, physical, legal, etc.)
     * It is often expected that many consequences are repeated, in these cases with the Post-it or equivalent already existing will be enough.
  
-    * Thinking about availability, integrity and confidentiality is an aid to facilitate discussion and brainstorming of consequences, however, if the team feels comfortable on it, raising the possible consequences in other terms might work as well without  any problem as long as they can be prioritized in the next step.
-    * It is expected the commitment to a piece of information may have consequences on more than one axis.
+    * Thinking about availability, integrity and confidentiality is an aid to facilitate discussion and brainstorming of consequences, however, if the team feels comfortable doing so, framing the possible consequences in other terms can also work as long as they can be prioritized in the next step.
+    * It is expected that the compromise of a piece of information may have consequences on more than one axis.
     * Some examples of consequences can be:
         * Loss of legal status of the organization (administrative consequence).
         * Death of complainants (physical consequence).
@@ -108,7 +108,7 @@ In case of doing the activity in digital equipment:
 
     Level of impact
 
-6. Once the team is satisfied with the consequence matrix, the pieces of data mapped at the beginning of the activity can be associated with the level of impact of the consequences corresponding to the commitment. This can be done in multiple ways, a proposal is available in the following graph.
+6. Once the team is satisfied with the consequence matrix, the pieces of data mapped at the beginning of the activity can be associated with the level of impact of the consequences corresponding to their compromise. This can be done in multiple ways; one approach is shown in the following graph.
 
     ![Grafico](/assets/images/EN-Graphic-7.png)
 
@@ -117,7 +117,7 @@ In case of doing the activity in digital equipment:
 ### Closure of the activity
 At the end of the activity you can discuss and emphasize what has been achieved:
 * Axes of consequences were defined and associated with the data the organization manages.
-* The bases of the data classification policy were established, so each time a new piece of information is handled, the level of impact associated with the commitment of this can be easily resolved, also along with the products that will be generated later,  will be possible to determine safety measures to be taken.
+* The foundations of the data classification policy were established, so each time a new piece of information is handled, the level of impact associated with its compromise can be easily determined. Together with the products that will be generated later, it will be possible to determine the security measures to be taken.
 
 ### References
 

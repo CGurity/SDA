@@ -29,14 +29,14 @@ Indirect
 
 ### Previous planning
 
-In case of carrying out this activity on digital equipment, it is Suggested to have a spreadsheet or other software with all the necessary fields and formats.
+In case of carrying out this activity on digital equipment, it is suggested to have a spreadsheet or other software with all the necessary fields and formats.
 
 ### Materials
 * Post-its or sticky notes and markers or a digital equivalent as in previous activities.
-* Large sheet and only x on matrix.
+* Large sheets of paper.
 
 ### Instructions
-1. Ask the participants to think and share places and devices where the data of the organization are stored. These can be on paper, digitally or in any other way. Now you can build column headers as shown in the figure:
+1. Ask the participants to think about and share the places and devices where the organization's data is stored. These can be physical, digital, or any other form. Use these to build column headers as shown in the figure:
 
     ![Grafico](/assets/images/EN-Graphic-8.png)
 
@@ -73,7 +73,7 @@ In case of carrying out this activity on digital equipment, it is Suggested to h
 
 3. Thinking about the headings of the columns written as one of the axes of a matrix, place on the vertical axis levels of impact used in the previous activity:
 
-    It is important to use the same levels of impact if  the participants defined differently to those proposed in this manual.
+    It is important to use the same levels of impact in case they were defined differently from those proposed in this manual.
 
     ![Grafico](/assets/images/EN-Graphic-10.png)
 

@@ -10,7 +10,7 @@ image: null
 Estimated time: 120 min
 
 ### Justification
-The idea of this activity is introducing the concept of risk analysis of the organization and also to use an abstraction of the risk matrix methodology to make a first analysis of the organization's security context, which will be used to select security scenarios in order to elaborate procedures to the case in the second activity.
+The idea of this activity is to introduce the concept of risk analysis and use an abstraction of the risk matrix methodology to conduct an initial analysis of the organization's security context, which will then be used to select security scenarios for developing relevant procedures in the second activity.
 
 ### Input data
 * Levels of consequences developed in activity data mapping and classification in section 01.
@@ -73,8 +73,8 @@ In case of doing the activity in digital equipment:
     ![Grafico](/assets/images/EN-Graphic-18.png)
     Map of threat
 
-3. With all the threats in one place, use levels of impact development in the activity *Data mapping and classification* and place them as the vertical axis of a matrix, then along with the help of participants assign each threat a level of impact locating the sticky note or equivalent to the height of the selected impact level.
-    * It is also suggested to place the qualitative impact levels defined above, then put a numerical scale as shown in the graph. This can help quantifying the level of risks after completing the activity.
+3. With all the threats in one place, use the impact levels developed in the activity *Data mapping and classification* and place them as the vertical axis of a matrix. Then, with the help of participants, assign each threat a level of impact by positioning the sticky note or equivalent at the height of the selected impact level.
+    * It is also suggested to place the qualitative impact levels defined above alongside a numerical scale as shown in the graph. This can help quantify risk levels after completing the activity.
 
     ![Grafico](/assets/images/EN-Graphic-19.png)
     Map of threat adding impact level

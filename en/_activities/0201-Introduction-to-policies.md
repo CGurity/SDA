@@ -12,7 +12,7 @@ Estimated time: 15 min
 ### Justification
 Before starting activities that seek to generate documents containing security policies and directives, it is very important that the participants understand what they are and what they are for, reducing errors, improving the flow of activities and involving the participants better. The idea behind this is to introduce the concepts of security policies and directives.
 
-Unlike other activities in this manual, the present is more of an expository nature and less interactive. To the extent that the facilitator feels comfortable, it is recommended to design an activity that manages to introduce the concepts.
+Unlike other activities in this manual, the present is more of an expository nature and less interactive. To the extent that the facilitator feels comfortable, it is recommended to design an activity that effectively introduces the concepts.
 
 ### Products
 
@@ -22,7 +22,7 @@ Indirect
 
 ### Previous planning
 
-* In the event of requiring some audiovisual material such as presentations, videos or papers with the concepts addressed and/or examples.
+* If any audiovisual materials are needed, such as presentations, videos or printed materials with the concepts and/or examples.
 
 ### Instructions
 1. Expose the concept of security policy to the group:
@@ -40,7 +40,7 @@ Indirect
     * There was a security incident which clearly showed that the policy is not effective in a certain scenario and must be reformulated to better face future risks.
     * There was a significant change in the mission and vision of the organization and the policy should be refreshed to adapt to the change in operations.
 
-    Security policies must be respected by all members of the organization, for this reason, it is important that those in charge of management and operations are involved in the process, approve these policies and help their compliance during daily basis operations.
+    Security policies must be respected by all members of the organization. For this reason, it is important that those in charge of management and operations are involved in the process, approve these policies and help ensure compliance during day-to-day operations.
 
 2. Expose the concept of the security directive to the group:
 
@@ -63,7 +63,7 @@ Indirect
 
     Remarkable differences between security policies and directives are:
     * Its scope: the policies are general and the directives are specific.
-    * Its dependence: security policies are a part of security policies.
+    * Its dependence: security directives are a part of security policies.
     * Its evolution over time: generally security policies change in the order of the years, the security directives in the order of the months.
 
     In many of the information security reference frameworks, the concept of security policy is represented under other documents or names and may generate confusion when consulting other types of literature. In this case, the most important thing to adapt this concept is to understand that it is about *clear instructions to execute a determined action complying with the security policies*, in this manual the concept of a directive is abstracted to build a model that is fast understanding and facilitation for the target groups.
