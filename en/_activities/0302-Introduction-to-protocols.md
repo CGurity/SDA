@@ -34,7 +34,7 @@ In case of doing the activity in digital equipment:
   * Spreadsheet ready to fill, showing the headings with stakeholder categories.
 
 ### Instructions
-1. Check risk matrix raised in the previous activity and select one or two threats considered relevant to raise security procedures.
+1. Check the risk matrix from the previous activity and select one or two threats considered relevant for brainstorming security procedures.
     * It is natural that there are threats depending highly on the personnel or external allies for their resolution, although it is desirable they are resolvable threats to a greater extent by the same members of the organization.
 
 2. For each threat, which from now on will be treated as a security incident (since we are preparing protocols for when it occurs), brainstorm actions that should be taken as steps. Write each one on a sticky note, put them on paper or on the wall, and reorder as new steps are added. As an aid to the group, actions taken in a protocol usually aim to:
